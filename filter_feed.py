@@ -53,12 +53,11 @@ def create_rss_feed(original_feed, filtered_entries):
     ET.SubElement(channel, 'language').text = original_feed.feed.get('language', 'en')
     ET.SubElement(channel, 'lastBuildDate').text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
 
-    # Copy iTunes metadata if available
-    if hasattr(original_feed.feed, 'image'):
-        image = ET.SubElement(channel, 'image')
-        ET.SubElement(image, 'url').text = original_feed.feed.image.get('href', '')
-        ET.SubElement(image, 'title').text = original_feed.feed.get('title', '')
-        ET.SubElement(image, 'link').text = original_feed.feed.get('link', '')
+    # Use custom podcast artwork
+    image = ET.SubElement(channel, 'image')
+    ET.SubElement(image, 'url').text = 'https://bigal.github.io/breakfast-wrap-feed/podcast-artwork.jpg'
+    ET.SubElement(image, 'title').text = f"{original_feed.feed.get('title', 'ABC News Daily')} - Breakfast Wrap"
+    ET.SubElement(image, 'link').text = 'https://bigal.github.io/breakfast-wrap-feed/'
 
     # Add filtered items
     for entry in filtered_entries:
