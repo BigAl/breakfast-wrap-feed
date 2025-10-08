@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Oct 2025 23:45:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 23:51:51 GMT</lastBuildDate>
     <image>
       <url>https://bigal.github.io/breakfast-wrap-feed/podcast-artwork.jpg</url>
       <title>Radio National Breakfast - Breakfast Wrap</title>
@@ -17,8 +17,8 @@
       <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105807718</link>
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105807718</guid>
       <pubDate>Wed, 08 Oct 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ds/Z/08.mp3" length="23259264" type="audio/mpeg"/>
-      <ns0:duration>0:24:00</ns0:duration>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ds/Z/vv.mp3" length="35386799" type="audio/mpeg"/>
+      <ns0:duration>0:24:34</ns0:duration>
     </item>
     <item>
       <title>Breakfast Wrap: Former Trump ally questions Gaza peace plan</title>
