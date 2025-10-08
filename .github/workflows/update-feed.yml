@@ -1,0 +1,42 @@
+name: Update Breakfast Wrap Feed
+
+on:
+  # Run once daily at 00:05 UTC, weekdays only (Mon-Fri)
+  # ABC publishes Breakfast Wrap at 10:00 AEST/AEDT (00:00 or 23:00 UTC)
+  # 5-minute buffer ensures we catch the episode after publication
+  schedule:
+    - cron: '5 0 * * 1-5'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Run on push to test
+  push:
+    branches: [ main ]
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
+
+      - name: Fetch and filter RSS feed
+        run: python filter_feed.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add breakfast-wrap.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update feed: $(date +'%Y-%m-%d %H:%M UTC')" && git push)

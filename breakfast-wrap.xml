@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>ABC News Daily - Breakfast Wrap</title>
+    <description>Filtered feed containing only Breakfast Wrap episodes. This file will be automatically updated.</description>
+    <link>https://www.abc.net.au/newsradio/programs/newsradio-news-daily/</link>
+    <language>en</language>
+    <lastBuildDate>Initial placeholder</lastBuildDate>
+  </channel>
+</rss>
