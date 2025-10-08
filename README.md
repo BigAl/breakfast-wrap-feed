@@ -97,7 +97,6 @@ Done! 🎉
 - ✅ Runs automatically weekdays at 00:05 UTC (5 min after ABC's 10am AEST/AEDT publication)
 - ✅ Completely free (GitHub Actions: 2000 min/month free)
 - ✅ No infrastructure to maintain
-- ✅ No NAS, docker, or servers needed
 - ✅ Audio files stream directly from ABC
 - ✅ Works from anywhere (not dependent on home network)
 - ✅ Automatic updates forever
@@ -220,3 +219,4 @@ The feed file will remain accessible but won't update.
 - Filtering: Python + [feedparser](https://github.com/kurtmckee/feedparser)
 - Hosting: GitHub Pages
 - Automation: GitHub Actions
+- Podcast app: [Pocket Casts](https://pocketcasts.com/)
