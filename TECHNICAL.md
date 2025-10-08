@@ -49,7 +49,7 @@ You can do this via:
 
 **Option B: Command line**
 ```bash
-cd /home/alan/Source/Breakfast/serverless
+cd serverless
 git init
 git add .
 git commit -m "Initial commit"
@@ -188,17 +188,6 @@ To update the feed immediately:
 3. Click "Run workflow"
 4. Click green "Run workflow" button
 
-## Comparison to NAS Solution
-
-| Feature | GitHub Actions | NAS + Docker |
-|---------|----------------|--------------|
-| **Cost** | Free forever | Uses NAS power |
-| **Setup** | 5 minutes | 15-30 minutes |
-| **Maintenance** | Zero | Update containers |
-| **Reliability** | GitHub's 99.9% uptime | Depends on home network |
-| **Access** | Works anywhere | Requires port forwarding |
-| **Servers** | None | nginx or similar |
-
 ## Privacy
 
 - This uses a **public** GitHub repository
@@ -206,8 +195,6 @@ To update the feed immediately:
 - Episode metadata is public (from ABC)
 - Audio files are hosted by ABC (not re-uploaded)
 - PocketCast downloads directly from ABC servers
-
-If you want a private feed, use the NAS solution instead.
 
 ## Costs
 
@@ -229,7 +216,7 @@ The feed file will remain accessible but won't update.
 
 ## Credits
 
-- Original feed: ABC News Daily
-- Filtering: Python + feedparser
+- Original feed: [ABC Radio National Breakfast](https://www.abc.net.au/listen/programs/radionational-breakfast/) ([RSS Feed](https://www.abc.net.au/feeds/2890360/podcast.xml))
+- Filtering: Python + [feedparser](https://github.com/kurtmckee/feedparser)
 - Hosting: GitHub Pages
 - Automation: GitHub Actions
