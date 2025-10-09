@@ -44,6 +44,12 @@ jobs:
           git add breakfast-wrap.xml
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update feed: $(date +'%Y-%m-%d %H:%M UTC')" && git push)
 
+      - name: Notify WebSub hub for instant PocketCasts updates
+        run: |
+          curl -X POST https://pubsubhubbub.appspot.com \
+            -d "hub.mode=publish" \
+            -d "hub.url=https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml"
+
       - name: Send failure notification
         if: failure()
         uses: dawidd6/action-send-mail@v3
