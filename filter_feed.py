@@ -59,6 +59,20 @@ def create_rss_feed(original_feed, filtered_entries):
     ET.SubElement(image, 'title').text = f"{original_feed.feed.get('title', 'ABC News Daily')} - Breakfast Wrap"
     ET.SubElement(image, 'link').text = 'https://bigal.github.io/breakfast-wrap-feed/'
 
+    # iTunes/Podcast-specific metadata
+    ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}image', {
+        'href': 'https://bigal.github.io/breakfast-wrap-feed/podcast-artwork.jpg'
+    })
+    ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}author').text = 'ABC Radio National'
+    ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}category', {
+        'text': 'News'
+    })
+    ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}explicit').text = 'false'
+    ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}owner').text = ''
+    owner = ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}owner')
+    ET.SubElement(owner, '{http://www.itunes.com/dtds/podcast-1.0.dtd}name').text = 'ABC Radio National'
+    ET.SubElement(owner, '{http://www.itunes.com/dtds/podcast-1.0.dtd}email').text = 'podcasts@abc.net.au'
+
     # Add filtered items
     for entry in filtered_entries:
         item = ET.SubElement(channel, 'item')

@@ -122,6 +122,9 @@
                 This is a filtered RSS feed containing <strong>only</strong> the "Breakfast Wrap" episodes from ABC Radio National Breakfast.
                 Perfect for podcast apps like PocketCast!
             </p>
+            <p style="margin-top: 10px; font-size: 0.9em; color: #666;">
+                <span id="stats">Loading feed stats...</span>
+            </p>
         </div>
 
         <h2 style="margin-top: 30px;">Your Feed URL:</h2>
@@ -129,6 +132,7 @@
 
         <button class="copy-btn" onclick="copyFeedUrl()">📋 Copy Feed URL</button>
         <a href="breakfast-wrap.xml" class="copy-btn" style="display: inline-block; text-decoration: none;">📄 View Feed</a>
+        <a href="https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fbigal.github.io%2Fbreakfast-wrap-feed%2Fbreakfast-wrap.xml" target="_blank" class="copy-btn" style="display: inline-block; text-decoration: none; background: #28a745;">✓ Validate Feed</a>
 
         <div class="info-section">
             <h2>What You Get:</h2>
@@ -174,6 +178,30 @@
                 }, 2000);
             });
         }
+
+        // Fetch and display feed stats
+        async function loadFeedStats() {
+            try {
+                const response = await fetch('breakfast-wrap.xml');
+                const text = await response.text();
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(text, 'text/xml');
+
+                const items = xml.querySelectorAll('item');
+                const lastBuildDate = xml.querySelector('lastBuildDate');
+
+                const episodeCount = items.length;
+                const lastUpdated = lastBuildDate ? new Date(lastBuildDate.textContent).toLocaleString() : 'Unknown';
+
+                document.getElementById('stats').innerHTML =
+                    `<strong>${episodeCount}</strong> episodes available | Last updated: ${lastUpdated}`;
+            } catch (error) {
+                document.getElementById('stats').innerHTML = 'Feed stats unavailable';
+            }
+        }
+
+        // Load stats when page loads
+        window.addEventListener('DOMContentLoaded', loadFeedStats);
     </script>
 </body>
 </html>
