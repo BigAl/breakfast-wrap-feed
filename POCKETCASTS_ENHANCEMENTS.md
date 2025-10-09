@@ -13,7 +13,7 @@ This feed includes several optimizations specifically for PocketCasts users, lev
 - **Our GUID**: `f95d7b89-e1ee-554c-be7f-f126f0b92dae`
 - **Standard**: Generated using UUIDv5 as per [Podcasting 2.0 spec](https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md#guid)
 
-### 2. **WebSub (PubSubHubbub) Support**
+### 2. **WebSub (PubSubHubbub) Support** ✅ ACTIVE
 - **What it is**: Instant notification protocol for new episodes
 - **Benefits**:
   - Episodes appear in PocketCasts **immediately** after publication (instead of waiting 20+ minutes for polling)
@@ -21,9 +21,10 @@ This feed includes several optimizations specifically for PocketCasts users, lev
   - Better user experience with near-instant episode availability
 - **How it works**:
   - Our feed includes `<atom:link rel="hub">` pointing to Google's WebSub hub
-  - When GitHub Actions updates the feed, the hub can be notified
+  - **GitHub Actions automatically notifies the hub** after each feed update
   - PocketCasts receives instant notification instead of polling every 20 minutes
 - **Hub**: Using Google's public WebSub hub at `https://pubsubhubbub.appspot.com`
+- **Implementation**: GitHub Actions workflow pings the hub after every feed update
 
 ### 3. **Atom Self-Reference**
 - **What it is**: Feed includes a link to itself
@@ -83,12 +84,33 @@ This ensures the GUID is:
 - Unique globally
 - Compatible with the Podcasting 2.0 specification
 
-## 📊 Expected Impact
+### WebSub Hub Notification
+The GitHub Actions workflow automatically pings the WebSub hub after each feed update:
 
-### For PocketCasts Users
-- **Faster episode discovery**: Episodes appear within minutes instead of up to 20 minutes
-- **Reliable feed tracking**: Even if we change hosting, PocketCasts maintains subscription
+```yaml
+- name: Notify WebSub hub for instant PocketCasts updates
+  run: |
+    curl -X POST https://pubsubhubbub.appspot.com \
+      -d "hub.mode=publish" \
+      -d "hub.url=https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml"
+```
+
+This sends a `hub.mode=publish` notification to Google's WebSub hub, which then pushes the update to all subscribers (including PocketCasts) immediately.
+
+## 📊 Impact on PocketCasts Users
+
+### Actual Performance
+- **Instant episode delivery**: Episodes appear within **seconds** of publication via active WebSub notifications
+- **Reliable feed tracking**: Even if we change hosting, PocketCasts maintains subscription via podcast GUID
 - **Future-proof**: Ready for upcoming Podcasting 2.0 features PocketCasts may adopt
+
+### Workflow
+1. ABC publishes Breakfast Wrap at 10:00 AM AEST
+2. GitHub Actions runs at 00:05 UTC (automatically catches new episode)
+3. Feed is filtered and updated
+4. **WebSub hub is notified automatically**
+5. PocketCasts receives push notification from hub
+6. Episode appears in your app within seconds!
 
 ### Backward Compatibility
 All enhancements are **100% backward compatible**:
