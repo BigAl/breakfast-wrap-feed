@@ -5,12 +5,30 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Oct 2025 23:51:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 00:15:42 GMT</lastBuildDate>
     <image>
       <url>https://bigal.github.io/breakfast-wrap-feed/podcast-artwork.jpg</url>
       <title>Radio National Breakfast - Breakfast Wrap</title>
       <link>https://bigal.github.io/breakfast-wrap-feed/</link>
     </image>
+    <ns0:image href="https://bigal.github.io/breakfast-wrap-feed/podcast-artwork.jpg"/>
+    <ns0:author>ABC Radio National</ns0:author>
+    <ns0:category text="News"/>
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:owner/>
+    <ns0:owner>
+      <ns0:name>ABC Radio National</ns0:name>
+      <ns0:email>podcasts@abc.net.au</ns0:email>
+    </ns0:owner>
+    <item>
+      <title>Breakfast Wrap: Optus blame game explained</title>
+      <description>&lt;p&gt;Who knew what... and when... about the Optus triple zero outage? Those are the key questions asked this week in parliament following the disastrous outage linked to three deaths. &lt;/p&gt;&lt;p&gt;We'll get clarity on the timeline, and hear from the federal government. &lt;/p&gt;&lt;p&gt;Then, the French President says he will name a new prime minister in the next 48 hours. Yet he's still under pressure to follow his ex-Prime Minister out the door too. One of his Renaissance party colleagues joins us. &lt;/p&gt;&lt;p&gt;In Queensland, mining giant Glencore has accepted a $600 million support package from the state and federal governments to save its ailing sites.&lt;/p&gt;&lt;p&gt;And we'll find out why an Australian has been hit with a 14 year prison sentence in absentia by Russia, over his role fighting in the war in Ukraine. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105811264</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105811264</guid>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dt/Z/05.mp3" length="23590272" type="audio/mpeg"/>
+      <ns0:duration>0:24:00</ns0:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Two years on from October 7</title>
       <description>&lt;p&gt;Israelis gathered across the country overnight to mark the second anniversary of the October 7 Hamas attack, which saw about 1200 people killed and 251 hostages taken.&lt;/p&gt;&lt;p&gt;Danny Majzner's sister,  Australian-Israeli Galit Carbone, was murdered at a Kibbutz on October 7.&lt;/p&gt;&lt;p&gt;Today, Mr Majzner will meet with Prime Minister Anthony Albanese and Minister for Foreign Affairs Penny Wong. &lt;/p&gt;&lt;p&gt;Before the meeting, he spoke with Sally Sara. &lt;/p&gt;&lt;p&gt;Today you will also hear from Jonathan Kuttab, a Palestinian human rights lawyer and co-founder of the Palestinian human rights group Al-Haq. &lt;/p&gt;&lt;p&gt;Then, in response to recent Optus triple-zero failures, the federal government has introduced a bill to create a &quot;Triple Zero Custodian&quot; , who would provide oversight on Australia's emergency system to detect any issues.&lt;/p&gt;&lt;p&gt;But will this be enough to restore confidence in the system, particularly in regional and remote communities where finding adequate coverage and reception can be a day-to-day problem? &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
