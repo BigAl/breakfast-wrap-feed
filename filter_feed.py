@@ -7,7 +7,8 @@ import feedparser
 import requests
 import os
 import sys
-from datetime import datetime
+import uuid
+from datetime import datetime, timezone
 from xml.etree import ElementTree as ET
 from xml.dom import minidom
 
@@ -17,6 +18,8 @@ OUTPUT_FILE = "breakfast-wrap.xml"
 BACKUP_FILE = f"{OUTPUT_FILE}.backup"
 FILTER_KEYWORD = "Breakfast Wrap"
 MAX_EPISODES = 50
+FEED_URL = "https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml"
+WEBSUB_HUB = "https://pubsubhubbub.appspot.com"  # Google's WebSub hub
 
 def fetch_feed(url, retries=3):
     """Fetch the RSS feed from URL with retries."""
@@ -83,15 +86,27 @@ def filter_entries(feed, keyword):
     print(f"\nFiltered {len(filtered)} episodes out of {len(feed.entries)} total")
     return filtered[:MAX_EPISODES]
 
+def generate_podcast_guid(feed_url):
+    """Generate a UUIDv5 for the podcast using the Podcast GUID namespace."""
+    # Official podcast namespace UUID as per https://github.com/Podcastindex-org/podcast-namespace
+    PODCAST_NAMESPACE = uuid.UUID('ead4c236-bf58-58c6-a2c6-a6b28d128cb6')
+
+    # Strip protocol and trailing slashes from feed URL as per spec
+    normalized_url = feed_url.replace('https://', '').replace('http://', '').rstrip('/')
+
+    # Generate UUIDv5
+    return str(uuid.uuid5(PODCAST_NAMESPACE, normalized_url))
+
 def create_rss_feed(original_feed, filtered_entries):
     """Create new RSS feed XML with filtered entries."""
 
-    # Create RSS root
+    # Create RSS root with Podcasting 2.0 namespace
     rss = ET.Element('rss', {
         'version': '2.0',
         'xmlns:itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
         'xmlns:content': 'http://purl.org/rss/1.0/modules/content/',
-        'xmlns:atom': 'http://www.w3.org/2005/Atom'
+        'xmlns:atom': 'http://www.w3.org/2005/Atom',
+        'xmlns:podcast': 'https://podcastindex.org/namespace/1.0'
     })
 
     channel = ET.SubElement(rss, 'channel')
@@ -101,7 +116,25 @@ def create_rss_feed(original_feed, filtered_entries):
     ET.SubElement(channel, 'description').text = f"Filtered feed containing only Breakfast Wrap episodes from {original_feed.feed.get('title', 'ABC News Daily')}"
     ET.SubElement(channel, 'link').text = original_feed.feed.get('link', 'https://www.abc.net.au/newsradio/programs/newsradio-news-daily/')
     ET.SubElement(channel, 'language').text = original_feed.feed.get('language', 'en')
-    ET.SubElement(channel, 'lastBuildDate').text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
+    ET.SubElement(channel, 'lastBuildDate').text = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
+
+    # Atom self-reference (required for WebSub)
+    ET.SubElement(channel, '{http://www.w3.org/2005/Atom}link', {
+        'href': FEED_URL,
+        'rel': 'self',
+        'type': 'application/rss+xml'
+    })
+
+    # WebSub hub for instant episode notifications
+    ET.SubElement(channel, '{http://www.w3.org/2005/Atom}link', {
+        'href': WEBSUB_HUB,
+        'rel': 'hub'
+    })
+
+    # Podcast GUID (Podcasting 2.0) - permanent identifier
+    podcast_guid = generate_podcast_guid(FEED_URL)
+    ET.SubElement(channel, '{https://podcastindex.org/namespace/1.0}guid').text = podcast_guid
+    print(f"📋 Generated podcast GUID: {podcast_guid}")
 
     # Use custom podcast artwork
     image = ET.SubElement(channel, 'image')
