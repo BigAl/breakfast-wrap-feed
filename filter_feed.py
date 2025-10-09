@@ -5,6 +5,8 @@ Filter ABC News Daily podcast feed for Breakfast Wrap episodes only.
 
 import feedparser
 import requests
+import os
+import sys
 from datetime import datetime
 from xml.etree import ElementTree as ET
 from xml.dom import minidom
@@ -12,15 +14,63 @@ from xml.dom import minidom
 # Configuration
 SOURCE_FEED_URL = "https://www.abc.net.au/feeds/2890360/podcast.xml"
 OUTPUT_FILE = "breakfast-wrap.xml"
+BACKUP_FILE = f"{OUTPUT_FILE}.backup"
 FILTER_KEYWORD = "Breakfast Wrap"
 MAX_EPISODES = 50
 
-def fetch_feed(url):
-    """Fetch the RSS feed from URL."""
+def fetch_feed(url, retries=3):
+    """Fetch the RSS feed from URL with retries."""
     print(f"Fetching feed from {url}...")
-    response = requests.get(url, timeout=30)
-    response.raise_for_status()
-    return feedparser.parse(response.content)
+
+    for attempt in range(1, retries + 1):
+        try:
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()
+
+            feed = feedparser.parse(response.content)
+
+            # Check if feed is valid
+            if hasattr(feed, 'bozo') and feed.bozo:
+                print(f"⚠️  Warning: Feed has parsing errors: {feed.bozo_exception}")
+
+            if not hasattr(feed, 'entries') or len(feed.entries) == 0:
+                raise ValueError("Feed contains no entries")
+
+            print(f"✓ Successfully fetched feed with {len(feed.entries)} total episodes")
+            return feed
+
+        except requests.exceptions.Timeout:
+            print(f"⏱️  Attempt {attempt}/{retries}: Connection timeout")
+            if attempt < retries:
+                print(f"   Retrying...")
+            else:
+                raise RuntimeError(f"Failed to fetch feed after {retries} attempts: Connection timeout")
+
+        except requests.exceptions.ConnectionError as e:
+            print(f"🔌 Attempt {attempt}/{retries}: Connection error - {e}")
+            if attempt < retries:
+                print(f"   Retrying...")
+            else:
+                raise RuntimeError(f"Failed to fetch feed after {retries} attempts: Cannot connect to ABC servers")
+
+        except requests.exceptions.HTTPError as e:
+            print(f"❌ Attempt {attempt}/{retries}: HTTP error {e.response.status_code}")
+            if e.response.status_code >= 500:
+                # Server error, retry
+                if attempt < retries:
+                    print(f"   Server error, retrying...")
+                else:
+                    raise RuntimeError(f"ABC feed server error: {e.response.status_code}. The ABC feed may be temporarily down.")
+            else:
+                # Client error (404, 403, etc), don't retry
+                raise RuntimeError(f"Feed fetch failed: HTTP {e.response.status_code}. The feed URL may have changed.")
+
+        except Exception as e:
+            print(f"❌ Attempt {attempt}/{retries}: Unexpected error - {e}")
+            if attempt < retries:
+                print(f"   Retrying...")
+            else:
+                raise
 
 def filter_entries(feed, keyword):
     """Filter entries that contain keyword in title."""
@@ -110,8 +160,40 @@ def prettify_xml(elem):
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent="  ", encoding='utf-8').decode('utf-8')
 
+def backup_existing_feed():
+    """Create a backup of the existing feed if it exists."""
+    if os.path.exists(OUTPUT_FILE):
+        try:
+            with open(OUTPUT_FILE, 'r', encoding='utf-8') as src:
+                content = src.read()
+            with open(BACKUP_FILE, 'w', encoding='utf-8') as dst:
+                dst.write(content)
+            print(f"📦 Backed up existing feed to {BACKUP_FILE}")
+            return True
+        except Exception as e:
+            print(f"⚠️  Could not create backup: {e}")
+            return False
+    return False
+
+def restore_from_backup():
+    """Restore feed from backup if available."""
+    if os.path.exists(BACKUP_FILE):
+        try:
+            with open(BACKUP_FILE, 'r', encoding='utf-8') as src:
+                content = src.read()
+            with open(OUTPUT_FILE, 'w', encoding='utf-8') as dst:
+                dst.write(content)
+            print(f"♻️  Restored feed from backup")
+            return True
+        except Exception as e:
+            print(f"❌ Failed to restore from backup: {e}")
+            return False
+    return False
+
 def main():
     """Main execution."""
+    backup_created = backup_existing_feed()
+
     try:
         # Fetch original feed
         feed = fetch_feed(SOURCE_FEED_URL)
@@ -121,7 +203,13 @@ def main():
 
         if not filtered:
             print("⚠️  No episodes found matching filter criteria")
-            return
+            if backup_created:
+                print("   Keeping existing feed unchanged")
+                restore_from_backup()
+                return
+            else:
+                print("   No existing feed to fall back to")
+                sys.exit(1)
 
         # Create new RSS feed
         rss_xml = create_rss_feed(feed, filtered)
@@ -133,9 +221,28 @@ def main():
 
         print(f"\n✅ Successfully created {OUTPUT_FILE} with {len(filtered)} episodes")
 
+        # Clean up backup on success
+        if os.path.exists(BACKUP_FILE):
+            os.remove(BACKUP_FILE)
+
     except Exception as e:
-        print(f"❌ Error: {e}")
-        raise
+        print(f"\n❌ Error occurred: {e}")
+        print(f"\n📋 Error Details:")
+        print(f"   Feed URL: {SOURCE_FEED_URL}")
+        print(f"   Filter keyword: {FILTER_KEYWORD}")
+
+        if backup_created:
+            print(f"\n🔄 Attempting to restore previous feed...")
+            if restore_from_backup():
+                print(f"✓ Previous feed restored - subscribers will continue to see old episodes")
+                print(f"⚠️  This error needs attention, but the feed remains functional")
+                sys.exit(1)  # Exit with error so workflow notifications trigger
+            else:
+                print(f"❌ Could not restore backup - feed may be unavailable")
+                raise
+        else:
+            print(f"\n⚠️  No backup available - cannot restore previous feed")
+            raise
 
 if __name__ == "__main__":
     main()

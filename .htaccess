@@ -1,0 +1,20 @@
+# Cache Control Headers for RSS Feed
+
+<Files "breakfast-wrap.xml">
+    # Cache for 1 hour (3600 seconds)
+    Header set Cache-Control "public, max-age=3600, must-revalidate"
+
+    # Set proper content type
+    Header set Content-Type "application/rss+xml; charset=UTF-8"
+
+    # Add ETag for better caching
+    FileETag MTime Size
+
+    # Allow CORS for podcast apps
+    Header set Access-Control-Allow-Origin "*"
+</Files>
+
+<Files "podcast-artwork.jpg">
+    # Cache artwork for 7 days
+    Header set Cache-Control "public, max-age=604800, immutable"
+</Files>
