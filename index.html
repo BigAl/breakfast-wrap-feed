@@ -113,6 +113,7 @@
 </head>
 <body>
     <div class="container">
+        <img src="podcast-artwork.jpg" alt="Breakfast Wrap Podcast Artwork" style="width: 200px; height: 200px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
         <h1>🎙️ ABC Breakfast Wrap</h1>
         <p class="subtitle">Filtered Podcast Feed</p>
 
@@ -132,7 +133,12 @@
 
         <button class="copy-btn" onclick="copyFeedUrl()">📋 Copy Feed URL</button>
         <a href="breakfast-wrap.xml" class="copy-btn" style="display: inline-block; text-decoration: none;">📄 View Feed</a>
-        <a href="https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fbigal.github.io%2Fbreakfast-wrap-feed%2Fbreakfast-wrap.xml" target="_blank" class="copy-btn" style="display: inline-block; text-decoration: none; background: #28a745;">✓ Validate Feed</a>
+
+        <div style="margin: 20px 0;">
+            <a href="https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fbigal.github.io%2Fbreakfast-wrap-feed%2Fbreakfast-wrap.xml" target="_blank" class="copy-btn" style="display: inline-block; text-decoration: none; background: #28a745;">✓ Validate Feed</a>
+            <a href="https://podcastsconnect.apple.com/my-podcasts/show/lookup?url=https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" target="_blank" class="copy-btn" style="display: inline-block; text-decoration: none; background: #fc3c44;">🍎 Apple Podcasts Preview</a>
+            <a href="https://castfeedvalidator.com/?url=https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" target="_blank" class="copy-btn" style="display: inline-block; text-decoration: none; background: #ff6b35;">🎙️ Podcast Validator</a>
+        </div>
 
         <div class="info-section">
             <h2>What You Get:</h2>
@@ -141,6 +147,8 @@
                 <li>Published weekdays at 10:00 AM Australian Eastern Time</li>
                 <li>Audio files stream directly from ABC servers</li>
                 <li>Automatically updated every weekday</li>
+                <li>Optimized for PocketCasts with instant episode notifications (WebSub)</li>
+                <li>Podcasting 2.0 compatible with permanent GUID</li>
                 <li>No ads, no tracking, completely free</li>
             </ul>
         </div>
