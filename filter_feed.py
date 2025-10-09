@@ -100,14 +100,14 @@ def generate_podcast_guid(feed_url):
 def create_rss_feed(original_feed, filtered_entries):
     """Create new RSS feed XML with filtered entries."""
 
-    # Create RSS root with Podcasting 2.0 namespace
-    rss = ET.Element('rss', {
-        'version': '2.0',
-        'xmlns:itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
-        'xmlns:content': 'http://purl.org/rss/1.0/modules/content/',
-        'xmlns:atom': 'http://www.w3.org/2005/Atom',
-        'xmlns:podcast': 'https://podcastindex.org/namespace/1.0'
-    })
+    # Register namespaces BEFORE creating elements to avoid ns0, ns1, ns2 prefixes
+    ET.register_namespace('itunes', 'http://www.itunes.com/dtds/podcast-1.0.dtd')
+    ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
+    ET.register_namespace('atom', 'http://www.w3.org/2005/Atom')
+    ET.register_namespace('podcast', 'https://podcastindex.org/namespace/1.0')
+
+    # Create RSS root - namespaces will be added automatically when we use them
+    rss = ET.Element('rss', {'version': '2.0'})
 
     channel = ET.SubElement(rss, 'channel')
 
@@ -140,7 +140,7 @@ def create_rss_feed(original_feed, filtered_entries):
     image = ET.SubElement(channel, 'image')
     ET.SubElement(image, 'url').text = 'https://bigal.github.io/breakfast-wrap-feed/podcast-artwork.jpg'
     ET.SubElement(image, 'title').text = f"{original_feed.feed.get('title', 'ABC News Daily')} - Breakfast Wrap"
-    ET.SubElement(image, 'link').text = 'https://bigal.github.io/breakfast-wrap-feed/'
+    ET.SubElement(image, 'link').text = original_feed.feed.get('link', 'https://www.abc.net.au/newsradio/programs/newsradio-news-daily/')
 
     # iTunes/Podcast-specific metadata
     ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}image', {
@@ -151,7 +151,8 @@ def create_rss_feed(original_feed, filtered_entries):
         'text': 'News'
     })
     ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}explicit').text = 'false'
-    ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}owner').text = ''
+
+    # iTunes owner (only one, with required name and email)
     owner = ET.SubElement(channel, '{http://www.itunes.com/dtds/podcast-1.0.dtd}owner')
     ET.SubElement(owner, '{http://www.itunes.com/dtds/podcast-1.0.dtd}name').text = 'ABC Radio National'
     ET.SubElement(owner, '{http://www.itunes.com/dtds/podcast-1.0.dtd}email').text = 'podcasts@abc.net.au'
