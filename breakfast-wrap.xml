@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Oct 2025 07:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 01:09:24 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -28,8 +28,8 @@
       <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105811264</link>
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105811264</guid>
       <pubDate>Thu, 09 Oct 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dt/Z/05.mp3" length="23590272" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/du/Z/2f.mp3" length="35368943" type="audio/mpeg"/>
+      <itunes:duration>0:24:33</itunes:duration>
     </item>
     <item>
       <title>Breakfast Wrap: Two years on from October 7</title>
@@ -210,15 +210,6 @@
       <pubDate>Thu, 11 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d3/Z/bd.mp3" length="35708783" type="audio/mpeg"/>
       <itunes:duration>0:24:47</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Israel strikes Qatar</title>
-      <description>&lt;p&gt;Who knew what and when about Israel's strikes in Doha, that are being condemned around the world as a flagrant breach of Qatar's sovereignty. &lt;/p&gt;&lt;p&gt;At least six people have been killed in the attack targeting senior Hamas figures in Doha. &lt;/p&gt;&lt;p&gt;Qatar has slammed the attack as a &quot;criminal assault&quot; and a &quot;blatant violation of all international laws and norms&quot;, saying it threatened the security of its people. &lt;/p&gt;&lt;p&gt;Then, we'll turn to the Prime Minister's trip to the Pacific and the challenges being raised by domestic politics in the region. &lt;/p&gt;&lt;p&gt;And the Victorian Government has tabled a historic Treaty Bill in parliament with the aim of holding the government to account over policies impacting the First Peoples of Victoria.&lt;/p&gt;&lt;p&gt;Victoria is the first state to make such a move, and if the legislation is passed, it will make the First Peoples' Assembly permanent.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105698490</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105698490</guid>
-      <pubDate>Wed, 10 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d2/Z/9r.mp3" length="35873519" type="audio/mpeg"/>
-      <itunes:duration>0:24:54</itunes:duration>
     </item>
   </channel>
 </rss>
