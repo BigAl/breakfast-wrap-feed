@@ -232,11 +232,35 @@ def restore_from_backup():
             return False
     return False
 
+def get_existing_guids(filename):
+    """Parse an existing feed file and return a set of entry GUIDs."""
+    if not os.path.exists(filename):
+        return set()
+    
+    try:
+        # Use feedparser to read the local file
+        existing_feed = feedparser.parse(filename)
+        if existing_feed.bozo:
+            print(f"⚠️  Warning: Existing feed '{filename}' has parsing errors. Will rebuild.")
+            return set()
+
+        # Use entry 'id' as the unique identifier (GUID)
+        return {entry.get('id', entry.get('link', '')) for entry in existing_feed.entries}
+    except Exception as e:
+        print(f"⚠️  Could not parse existing feed file: {e}. Will rebuild.")
+        return set()
+
+
 def main():
     """Main execution."""
     backup_created = backup_existing_feed()
 
     try:
+        # Get GUIDs from the existing feed file before fetching the new one
+        existing_guids = get_existing_guids(OUTPUT_FILE)
+        if existing_guids:
+            print(f"Found {len(existing_guids)} episodes in the current feed file.")
+
         # Fetch original feed
         feed = fetch_feed(SOURCE_FEED_URL)
 
@@ -248,11 +272,21 @@ def main():
             if backup_created:
                 print("   Keeping existing feed unchanged")
                 restore_from_backup()
-                return
-            else:
-                print("   No existing feed to fall back to")
-                sys.exit(1)
+            # Exit gracefully, but with an error code if no backup exists, to trigger notifications
+            sys.exit(1 if not backup_created else 0)
 
+        # Get GUIDs from the newly filtered entries
+        new_guids = {entry.get('id', entry.get('link', '')) for entry in filtered}
+
+        # Compare the set of existing GUIDs with the new ones
+        if existing_guids == new_guids:
+            print("\n✅ Feed is already up-to-date. No changes needed.")
+            # Clean up backup since the run was successful and no changes were made
+            if os.path.exists(BACKUP_FILE):
+                os.remove(BACKUP_FILE)
+            return # Exit gracefully
+
+        print("\n✨ Feed content has changed. Rebuilding file...")
         # Create new RSS feed
         rss_xml = create_rss_feed(feed, filtered)
 
