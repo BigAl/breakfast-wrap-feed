@@ -76,10 +76,18 @@ def fetch_feed(url, retries=3):
                 raise
 
 def filter_entries(feed, keyword):
-    """Filter entries that contain keyword in title."""
+    """Filter entries that contain keyword in title or summary."""
     filtered = []
     for entry in feed.entries:
-        if keyword.lower() in entry.get('title', '').lower():
+        title = entry.get('title', '').lower()
+        summary = entry.get('summary', '').lower()
+
+        # Check for keyword in title or summary
+        if keyword.lower() in title or keyword.lower() in summary:
+            # If it's the main "Breakfast" episode which now contains the wrap, rename it for consistency
+            if title.startswith('breakfast:'):
+                entry.title = 'Breakfast Wrap:' + entry.title.split(':', 1)[1]
+
             filtered.append(entry)
             print(f"✓ Found: {entry.title}")
 
