@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 01:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 03:23:15 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast: Israel and Hamas approve Gaza ceasefire and hostage deal</title>
+      <description>&lt;p&gt;The Israeli government has approved Gaza's ceasefire and hostage deal, the first phase of the US plan already agreed to by Hamas. &lt;/p&gt;&lt;p&gt;Today we'll hear from the former US Middle East Envoy for Humanitarian Affairs about what the deal means for all sides, and from a former US AID official on how it will impact aid delivery in Gaza. Will it now ramp up?&lt;/p&gt;&lt;p&gt;Then, we learn details of an Israeli journalists conversations with Donald Trump, and what Palestinians think about other parts of the President's plan. &lt;/p&gt;&lt;p&gt;We'll also wrap a big week in federal politics. &lt;/p&gt;&lt;p&gt;And you'll meet Australia's most decorated Winter Paralympian... hoping to return to the slopes after nearly two decades. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105817740</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105817740</guid>
+      <pubDate>Fri, 10 Oct 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/du/Z/2j.mp3" length="23578368" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Optus blame game explained</title>
       <description>&lt;p&gt;Who knew what... and when... about the Optus triple zero outage? Those are the key questions asked this week in parliament following the disastrous outage linked to three deaths. &lt;/p&gt;&lt;p&gt;We'll get clarity on the timeline, and hear from the federal government. &lt;/p&gt;&lt;p&gt;Then, the French President says he will name a new prime minister in the next 48 hours. Yet he's still under pressure to follow his ex-Prime Minister out the door too. One of his Renaissance party colleagues joins us. &lt;/p&gt;&lt;p&gt;In Queensland, mining giant Glencore has accepted a $600 million support package from the state and federal governments to save its ailing sites.&lt;/p&gt;&lt;p&gt;And we'll find out why an Australian has been hit with a 14 year prison sentence in absentia by Russia, over his role fighting in the war in Ukraine. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
