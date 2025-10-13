@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 03:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 02:06:51 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Tony Abbott on multiculturalism and Indigenous oral history</title>
+      <description>&lt;p&gt;In a wide-ranging interview, Australia's 28th Prime Minister Tony Abbott discusses Australian history, Indigenous Australian oral storytelling, multiculturalism and former PM Julia Gillard's famous misogyny speech. &lt;/p&gt;&lt;p&gt;He shares his thoughts as he releases a new book exploring how democracy took shape in Australia. &lt;/p&gt;&lt;p&gt;Then, qantas says customer data has been released after almost six million customer records were stolen by a hacking group earlier this year through a third-party platform.&lt;/p&gt;&lt;p&gt;The airline says it's investigating what data has been released with the help of specialist cyber-security experts. &lt;/p&gt;&lt;p&gt;And today Israeli hostages and hundreds of Palestinians imprisoned by Israel will be swapped in the first phase of Donald Trump's plan for Gaza...&lt;/p&gt;&lt;p&gt;So how did this plan come about?&lt;/p&gt;&lt;p&gt;A veteran Israeli negotiator involved in the backroom dealings on this agreement will share his insights. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105828754</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105828754</guid>
+      <pubDate>Mon, 13 Oct 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e0/Z/7s.mp3" length="23549568" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast: Israel and Hamas approve Gaza ceasefire and hostage deal</title>
       <description>&lt;p&gt;The Israeli government has approved Gaza's ceasefire and hostage deal, the first phase of the US plan already agreed to by Hamas. &lt;/p&gt;&lt;p&gt;Today we'll hear from the former US Middle East Envoy for Humanitarian Affairs about what the deal means for all sides, and from a former US AID official on how it will impact aid delivery in Gaza. Will it now ramp up?&lt;/p&gt;&lt;p&gt;Then, we learn details of an Israeli journalists conversations with Donald Trump, and what Palestinians think about other parts of the President's plan. &lt;/p&gt;&lt;p&gt;We'll also wrap a big week in federal politics. &lt;/p&gt;&lt;p&gt;And you'll meet Australia's most decorated Winter Paralympian... hoping to return to the slopes after nearly two decades. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Fri, 12 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d4/Z/c8.mp3" length="35605103" type="audio/mpeg"/>
       <itunes:duration>0:24:43</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The assassination of Charlie Kirk</title>
-      <description>&lt;p&gt;Charlie Kirk  - one of America's most high-profile conservative activists has been shot dead at an event at a Utah university.&lt;/p&gt;&lt;p&gt;It's the latest in a recent string of violence against political figures in the United States. We'll take a look at who he was and the mark he leaves on American politics. &lt;/p&gt;&lt;p&gt;Then, Israeli Prime Minister Benjamin Netanyahu has likened Israel's targeting of Hamas leaders in Qatar to America's pursuit of al-Qaida after the 9/11 attacks.&lt;/p&gt;&lt;p&gt;Qatar has condemned the Israeli strikes targeting Hamas officials in Doha as a &quot;criminal assault&quot; and a &quot;blatant violation of all international laws and norms&quot;.&lt;/p&gt;&lt;p&gt;Plus, Poland has shot down Russian drones after it says Moscow repeatedly violated its air-space. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105702322</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105702322</guid>
-      <pubDate>Thu, 11 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d3/Z/bd.mp3" length="35708783" type="audio/mpeg"/>
-      <itunes:duration>0:24:47</itunes:duration>
     </item>
   </channel>
 </rss>
