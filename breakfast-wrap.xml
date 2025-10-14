@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Oct 2025 02:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 01:59:49 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -23,8 +23,17 @@
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
     <item>
+      <title>Breakfast Wrap: When will the Gaza humanitarian situation improve?</title>
+      <description>&lt;p&gt;There's jubilation in Israel over the release of all the remaining living hostages, and in Palestine, over the return of detainees from Israeli detention.&lt;/p&gt;&lt;p&gt;But when will the humanitarian situation in Gaza begin to improve?&lt;/p&gt;&lt;p&gt;We'll hear from UNICEF and head to Israel to hear from a human rights group monitoring the release of both groups. &lt;/p&gt;&lt;p&gt;Then, treasurer Jim Chalmers has announced significant changes to the government's superannuation tax policy reforms. You'll find out what he has to say. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105884998</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105884998</guid>
+      <pubDate>Tue, 14 Oct 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e1/Z/6n.mp3" length="35492783" type="audio/mpeg"/>
+      <itunes:duration>0:24:38</itunes:duration>
+    </item>
+    <item>
       <title>Breakfast Wrap: Tony Abbott on multiculturalism and Indigenous oral history</title>
-      <description>&lt;p&gt;In a wide-ranging interview, Australia's 28th Prime Minister Tony Abbott discusses Australian history, Indigenous Australian oral storytelling, multiculturalism and former PM Julia Gillard's famous misogyny speech. &lt;/p&gt;&lt;p&gt;He shares his thoughts as he releases a new book exploring how democracy took shape in Australia. &lt;/p&gt;&lt;p&gt;Then, qantas says customer data has been released after almost six million customer records were stolen by a hacking group earlier this year through a third-party platform.&lt;/p&gt;&lt;p&gt;The airline says it's investigating what data has been released with the help of specialist cyber-security experts. &lt;/p&gt;&lt;p&gt;And today Israeli hostages and hundreds of Palestinians imprisoned by Israel will be swapped in the first phase of Donald Trump's plan for Gaza...&lt;/p&gt;&lt;p&gt;So how did this plan come about?&lt;/p&gt;&lt;p&gt;A veteran Israeli negotiator involved in the backroom dealings on this agreement will share his insights. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In a wide-ranging interview, Australia's 28th Prime Minister Tony Abbott discusses Australian history, Indigenous Australian oral storytelling, multiculturalism and former PM Julia Gillard's famous misogyny speech. &lt;/p&gt;&lt;p&gt;He shares his thoughts as he releases a new book exploring how democracy took shape in Australia. &lt;/p&gt;&lt;p&gt;Then, Qantas says customer data has been released after almost six million customer records were stolen by a hacking group earlier this year through a third-party platform.&lt;/p&gt;&lt;p&gt;The airline says it's investigating what data has been released with the help of specialist cyber-security experts. &lt;/p&gt;&lt;p&gt;And today, Israeli hostages and hundreds of Palestinians imprisoned by Israel will be swapped in the first phase of Donald Trump's plan for Gaza...&lt;/p&gt;&lt;p&gt;So how did this plan come about?&lt;/p&gt;&lt;p&gt;A veteran Israeli negotiator involved in the backroom dealings on this agreement will share his insights. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
       <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105828754</link>
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105828754</guid>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +1100</pubDate>
@@ -210,15 +219,6 @@
       <pubDate>Mon, 15 Sep 2025 09:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d6/Z/i7.mp3" length="25767168" type="audio/mpeg"/>
       <itunes:duration>0:26:50</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: How America's latest assassination is already dividing the country</title>
-      <description>&lt;p&gt;As authorities hunt for the gunman responsible for Charlie Kirk's assassination, his death is already beginning to divide parts of American society. Before a suspect has been identified and a motive found, the President is already lashing out at &quot;radical left lunatics&quot;.&lt;/p&gt;&lt;p&gt;The Breakfast Wrap hears from journalists in the US who have interviewed Charlie Kirk. &lt;/p&gt;&lt;p&gt;Then, for decades, the remains of more than 170 people have been on display at the University of Tasmania's RA Rodda Pathology Museum without the knowledge or consent of their loved ones.&lt;/p&gt;&lt;p&gt;Last night, the Tasmanian Coroner's Office published findings from an investigation into how and why these remains were taken.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105708964</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105708964</guid>
-      <pubDate>Fri, 12 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d4/Z/c8.mp3" length="35605103" type="audio/mpeg"/>
-      <itunes:duration>0:24:43</itunes:duration>
     </item>
   </channel>
 </rss>
