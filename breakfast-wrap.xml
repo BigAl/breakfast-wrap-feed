@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Oct 2025 01:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 02:02:48 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Key Liberal wants 'apology tour' to end</title>
+      <description>&lt;p&gt;The Liberal Party needs to end its post-election &quot;apology tour&quot; and &quot;mass therapy session&quot;, according to one of its most senior frontbenchers.&lt;/p&gt;&lt;p&gt;In a wide-ranging speech last night, Shadow Finance Minister James Paterson warned that his party could face destruction if it adopts a Nigel Farage-style populist agenda. But Mr Paterson also rejected suggestions the Liberals should position themselves as free market teals. &lt;/p&gt;&lt;p&gt;Then, an Arab-Israeli member of the Knesset worries that far-right politicians will justify returning to war in Gaza based on Hamas delays in returning Israeli hostage bodies. We hear from Aida Touma-Sliman. &lt;/p&gt;&lt;p&gt;Also today, we look at Oral history. Its considered the world's oldest form of sharing knowledge and culture, and in Australia, Aboriginal people have been sharing stories this way for thousands of years.&lt;/p&gt;&lt;p&gt;Earlier this week, former prime minister Tony Abbott launched a new book tracing the history of Australia and questioned the reliability of oral history.&lt;/p&gt;&lt;p&gt;In response, Yorta Yorta man and chair of the First Nations Foundation, Ian Hamm, says &quot;substance and an accurate record of events&quot; are at the centre of oral history.&lt;/p&gt;&lt;p&gt;And in the wake of the algal bloom outbreak in South Australian waters, the state and federal governments are contributing more than $100 million to spruik this message.  &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105884996</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105884996</guid>
+      <pubDate>Wed, 15 Oct 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e2/Z/9p.mp3" length="35470895" type="audio/mpeg"/>
+      <itunes:duration>0:24:37</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: When will the Gaza humanitarian situation improve?</title>
       <description>&lt;p&gt;There's jubilation in Israel over the release of all the remaining living hostages, and in Palestine, over the return of detainees from Israeli detention.&lt;/p&gt;&lt;p&gt;But when will the humanitarian situation in Gaza begin to improve?&lt;/p&gt;&lt;p&gt;We'll hear from UNICEF and head to Israel to hear from a human rights group monitoring the release of both groups. &lt;/p&gt;&lt;p&gt;Then, treasurer Jim Chalmers has announced significant changes to the government's superannuation tax policy reforms. You'll find out what he has to say. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Tue, 16 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d7/Z/jq.mp3" length="35141999" type="audio/mpeg"/>
       <itunes:duration>0:24:24</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australia pours $12 billion into WA AUKUS precinct</title>
-      <description>&lt;p&gt;Australia commits 12 billion dollars to developing an AUKUS shipbuilding facility in Western Australia&lt;/p&gt;&lt;p&gt;So how closely is the US watching this spending spree? And has the announcement been timed to coincide with Anthony Albanese's trip to New York, where he'll try to land a face-to-face meeting with President Donald Trump&lt;/p&gt;&lt;p&gt;The Breakfast Wrap hears from Federal Minister for Science, Industry and Innovation Tim Ayres, and Shadow Defence Minister Angus Taylor.&lt;/p&gt;&lt;p&gt;We also have the latest from the right-wing protests in the UK, and the summit of Arab and Islamic nations in Qatar.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105718820</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105718820</guid>
-      <pubDate>Mon, 15 Sep 2025 09:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d6/Z/i7.mp3" length="25767168" type="audio/mpeg"/>
-      <itunes:duration>0:26:50</itunes:duration>
     </item>
   </channel>
 </rss>
