@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Oct 2025 02:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 02:01:32 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Questioning the Coalition's plans to tackle crime</title>
+      <description>&lt;p&gt;The Coalition has been making a lot of noise about youth crime, particularly in Victoria, so what solutions is it offering up? Sally Sara interviews the new shadow Attorney General Andrew Wallace.&lt;/p&gt;&lt;p&gt;Then we hear from Pauline Hanson as One Nation surges in the polls. &lt;/p&gt;&lt;p&gt;And we'll finish in Madagascar, where the military says it's in control of the country, after the nation's president was impeached while in hiding.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105889762</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105889762</guid>
+      <pubDate>Thu, 16 Oct 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e3/Z/ag.mp3" length="23578752" type="audio/mpeg"/>
+      <itunes:duration>0:24:33</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Key Liberal wants 'apology tour' to end</title>
       <description>&lt;p&gt;The Liberal Party needs to end its post-election &quot;apology tour&quot; and &quot;mass therapy session&quot;, according to one of its most senior frontbenchers.&lt;/p&gt;&lt;p&gt;In a wide-ranging speech last night, Shadow Finance Minister James Paterson warned that his party could face destruction if it adopts a Nigel Farage-style populist agenda. But Mr Paterson also rejected suggestions the Liberals should position themselves as free market teals. &lt;/p&gt;&lt;p&gt;Then, an Arab-Israeli member of the Knesset worries that far-right politicians will justify returning to war in Gaza based on Hamas delays in returning Israeli hostage bodies. We hear from Aida Touma-Sliman. &lt;/p&gt;&lt;p&gt;Also today, we look at Oral history. Its considered the world's oldest form of sharing knowledge and culture, and in Australia, Aboriginal people have been sharing stories this way for thousands of years.&lt;/p&gt;&lt;p&gt;Earlier this week, former prime minister Tony Abbott launched a new book tracing the history of Australia and questioned the reliability of oral history.&lt;/p&gt;&lt;p&gt;In response, Yorta Yorta man and chair of the First Nations Foundation, Ian Hamm, says &quot;substance and an accurate record of events&quot; are at the centre of oral history.&lt;/p&gt;&lt;p&gt;And in the wake of the algal bloom outbreak in South Australian waters, the state and federal governments are contributing more than $100 million to spruik this message.  &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Wed, 17 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d8/Z/hp.mp3" length="35737007" type="audio/mpeg"/>
       <itunes:duration>0:24:49</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Does Sussan Ley's leadership hinge on net zero?</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105723248</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105723248</guid>
-      <pubDate>Tue, 16 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d7/Z/jq.mp3" length="35141999" type="audio/mpeg"/>
-      <itunes:duration>0:24:24</itunes:duration>
     </item>
   </channel>
 </rss>
