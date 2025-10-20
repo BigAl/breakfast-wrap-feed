@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Oct 2025 02:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 02:12:23 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Joyce contemplates life after Nationals</title>
+      <description>&lt;p&gt;Nationals MP Barnaby Joyce has confirmed he won't recontest the seat of New England at the next federal election.&lt;/p&gt;&lt;p&gt;Today, we hear from Mr Joyce amid fevered speculation that he is contemplating joining One Nation.&lt;/p&gt;&lt;p&gt;We also speak with a former Ukrainian prime minister as Australia's Prime Minister, Anthony Albanese, prepares to meet with US President Donald Trump.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105884150</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105884150</guid>
+      <pubDate>Mon, 20 Oct 2025 05:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e6/Z/gq.mp3" length="56167680" type="audio/mpeg"/>
+      <itunes:duration>0:23:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Lord Mayor warns against Liberal 'lecturing'</title>
       <description>&lt;p&gt;The Lord Mayor of Melbourne has warned the federal Liberal party about lecturing his state, after Opposition leader Sussan Ley spent the week in Melbourne criticising the city's crime rates. &lt;/p&gt;&lt;p&gt;Today we hear from Nicholas Reece and opposition Senator Jane Hume. &lt;/p&gt;&lt;p&gt;Then, cryptocurrency ATMs could be banned in Australia under new powers handed to the government agency, AUSTRAC, amid concerns they're being used for money laundering and terror financing.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Fri, 19 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/da/Z/nb.mp3" length="35364335" type="audio/mpeg"/>
       <itunes:duration>0:24:33</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: PM fails to secure second Pacific deal</title>
-      <description>&lt;p&gt;The Prime Minister has returned home from Papua New Guinea without a defence deal - going zero from two in the Pacific. &lt;/p&gt;&lt;p&gt;PNG Prime Minister James Marape has now announced his defence minister will instead head overseas for talks with other nations about the Australia pact, with China the first stop.&lt;/p&gt;&lt;p&gt;It marks the second Pacific setback for Australia this month, with a $500 million security and economic deal with Vanuatu remaining unsigned.&lt;/p&gt;&lt;p&gt;The Breakfast Wrap hears from the Opposition and the Greens. &lt;/p&gt;&lt;p&gt;Then, the stadium saga in Tasmania, as the state's planning committee says no to the big build. &lt;/p&gt;&lt;p&gt;And we'll end with the pomp and ceremony at Windsor castle, where Donald Trump is being treated to a historic second state visit. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105732834</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105732834</guid>
-      <pubDate>Thu, 18 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/d9/Z/jf.mp3" length="35847599" type="audio/mpeg"/>
-      <itunes:duration>0:24:53</itunes:duration>
     </item>
   </channel>
 </rss>
