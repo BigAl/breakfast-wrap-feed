@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 02:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 02:03:47 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Unpacking Albanese's meeting with Trump</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105857126</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105857126</guid>
+      <pubDate>Tue, 21 Oct 2025 07:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e7/Z/hp.mp3" length="50857920" type="audio/mpeg"/>
+      <itunes:duration>0:21:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Joyce contemplates life after Nationals</title>
       <description>&lt;p&gt;Nationals MP Barnaby Joyce has confirmed he won't recontest the seat of New England at the next federal election.&lt;/p&gt;&lt;p&gt;Today, we hear from Mr Joyce amid fevered speculation that he is contemplating joining One Nation.&lt;/p&gt;&lt;p&gt;We also speak with a former Ukrainian prime minister as Australia's Prime Minister, Anthony Albanese, prepares to meet with US President Donald Trump.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Mon, 22 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dc/Z/rh.mp3" length="35991599" type="audio/mpeg"/>
       <itunes:duration>0:24:59</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Is Australia's new emissions reduction target enough?</title>
-      <description>&lt;p&gt;The federal government has committed to a target to cut emissions by 62 to 70 per cent by 2035, based on 2005 levels.&lt;/p&gt;&lt;p&gt;Labor says the target is both ambitious and achievable, but there's criticism from the opposition and the cross-bench that the range is either too high or too low.&lt;/p&gt;&lt;p&gt;Today we'll hear from both sides of politics, as well as what the science says, and the response from Australia's neighbours in the region.&lt;/p&gt;&lt;p&gt;Then, with Jimmy Kimmel out of the way, US President Donald Trump is threatening more American broadcasters - we'll get the latest from Los Angeles.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105736160</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105736160</guid>
-      <pubDate>Fri, 19 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/da/Z/nb.mp3" length="35364335" type="audio/mpeg"/>
-      <itunes:duration>0:24:33</itunes:duration>
     </item>
   </channel>
 </rss>
