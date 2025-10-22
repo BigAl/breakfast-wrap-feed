@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Oct 2025 02:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 02:07:10 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What the critical minerals deal means for Australia</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105861664</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105861664</guid>
+      <pubDate>Wed, 22 Oct 2025 07:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e8/Z/i7.mp3" length="57696000" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Unpacking Albanese's meeting with Trump</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Tue, 23 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dd/Z/sv.mp3" length="36003119" type="audio/mpeg"/>
       <itunes:duration>0:25:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australia recognises Palestine</title>
-      <description>&lt;p&gt;Australia has officially recognised Palestine as a sovereign state, in a move it hopes will build momentum for a two-state solution. &lt;/p&gt;&lt;p&gt;The Breakfast Wrap hears from Francesca Albanese, the UN Special Rapporteur for Palestinian Human Rights. &lt;/p&gt;&lt;p&gt;Then we'll head to Arizona where US President Donald Trump and prominent members of his “Make America Great Again” movement have paid tribute to the late conservative activist Charlie Kirk.&lt;/p&gt;&lt;p&gt;And the South Australian Prime Minister weighs in on the Optus outage, that meant more than 600 calls to emergency services failed, resulting in multiple deaths. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105746316</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105746316</guid>
-      <pubDate>Mon, 22 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dc/Z/rh.mp3" length="35991599" type="audio/mpeg"/>
-      <itunes:duration>0:24:59</itunes:duration>
     </item>
   </channel>
 </rss>
