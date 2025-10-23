@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Oct 2025 02:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 02:02:23 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: ICJ says Israel must allow UN aid into Gaza</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105867532</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105867532</guid>
+      <pubDate>Thu, 23 Oct 2025 05:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e9/Z/gv.mp3" length="56889600" type="audio/mpeg"/>
+      <itunes:duration>0:23:24</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What the critical minerals deal means for Australia</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Wed, 24 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/de/Z/rv.mp3" length="23966208" type="audio/mpeg"/>
       <itunes:duration>0:24:57</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: 'No point recognising Palestine when its all gone'</title>
-      <description>&lt;p&gt;Australian doctor Saya Aziz shares her experience working in Gaza City's Al Shifa hospital the day after Australia's recognition of Palestine. &lt;/p&gt;&lt;p&gt;We also hear from Australia's Foreign Minister Penny Wong who is in New York for the UN General Assembly. &lt;/p&gt;&lt;p&gt;And we ask Coalition Senator and former Australian Ambassador to Israel Dave Sharma why Sussan Ley has written to Republicans to say the Coalition would undo the government's move.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105747290</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105747290</guid>
-      <pubDate>Tue, 23 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dd/Z/sv.mp3" length="36003119" type="audio/mpeg"/>
-      <itunes:duration>0:25:00</itunes:duration>
     </item>
   </channel>
 </rss>
