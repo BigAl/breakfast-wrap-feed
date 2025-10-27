@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Oct 2025 01:58:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 02:19:19 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Environment reforms in focus as parliament returns</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105919206</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105919206</guid>
+      <pubDate>Mon, 27 Oct 2025 05:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ea/Z/ii.mp3" length="57683520" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Russia responds to new US sanctions</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Fri, 26 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dg/Z/u8.mp3" length="35682291" type="audio/mpeg"/>
       <itunes:duration>0:24:46</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Greta Thunberg details attack on aid flotilla</title>
-      <description>&lt;p&gt;We hear from activist Greta Thunberg who says her Gaza-bound flotilla has come under attack, south of Greece. &lt;/p&gt;&lt;p&gt;She told us vessels were targeted by drones overnight, there were a number of explosions, and while there were no injuries, some boats sustained damage.&lt;/p&gt;&lt;p&gt;Spain and Greece have both announced Naval support for the flotilla. &lt;/p&gt;&lt;p&gt;Then, as more deadlocks delay efforts to secure peace in Gaza and the release of hostages, we hear from a father whose son has been held for nearly two years. &lt;/p&gt;&lt;p&gt;And Prime Minister Anthony Albanese has finally locked in a formal face-to-face meeting with the US President for next month, so how can we assess relations with Washington?&lt;/p&gt;&lt;p&gt;And for something completely different, we speak to the world's fastest woman. An Australian who's retained her title at the world cup of speed skidiving.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105756730</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105756730</guid>
-      <pubDate>Thu, 25 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/df/Z/s8.mp3" length="36101039" type="audio/mpeg"/>
-      <itunes:duration>0:25:04</itunes:duration>
     </item>
   </channel>
 </rss>
