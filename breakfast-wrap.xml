@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Oct 2025 02:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 02:03:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What's at stake for the Trump-Xi meeting?</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105921946</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105921946</guid>
+      <pubDate>Tue, 28 Oct 2025 05:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ea/Z/ii.mp3" length="57683520" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Environment reforms in focus as parliament returns</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Mon, 29 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dj/Z/19.mp3" length="36124079" type="audio/mpeg"/>
       <itunes:duration>0:25:05</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: How has Australia fared on the world stage?</title>
-      <description>&lt;p&gt;As Australia took to the world stage at the UN General Assembly, officially recognising the State of Palestine and touting its incoming social media laws, the PM also booked a long-awaited one-on-one meeting with the US President Donald Trump.&lt;/p&gt;&lt;p&gt;We'll wrap the week with our Friday political panel, the acting Prime Minister Richard Marles, and the Shadow Trade Minister Kevin Hogan. &lt;/p&gt;&lt;p&gt;Then, something different - the race to mine the moon. &lt;/p&gt;&lt;p&gt;You'll hear from a company making very real plans to start a resources industry on the lunar surface. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105764996</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105764996</guid>
-      <pubDate>Fri, 26 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dg/Z/u8.mp3" length="35682291" type="audio/mpeg"/>
-      <itunes:duration>0:24:46</itunes:duration>
     </item>
   </channel>
 </rss>
