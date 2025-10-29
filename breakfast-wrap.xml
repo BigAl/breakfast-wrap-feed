@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Oct 2025 02:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 02:12:30 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -23,13 +23,22 @@
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
     <item>
+      <title>Breakfast Wrap: Israel launches fresh strikes on Gaza</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105926744</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105926744</guid>
+      <pubDate>Wed, 29 Oct 2025 05:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ee/Z/qv.mp3" length="58321920" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
+    <item>
       <title>Breakfast Wrap: What's at stake for the Trump-Xi meeting?</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
       <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105921946</link>
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105921946</guid>
       <pubDate>Tue, 28 Oct 2025 05:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ea/Z/ii.mp3" length="57683520" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ed/Z/ue.mp3" length="23366400" type="audio/mpeg"/>
+      <itunes:duration>0:24:20</itunes:duration>
     </item>
     <item>
       <title>Breakfast Wrap: Environment reforms in focus as parliament returns</title>
@@ -37,7 +46,7 @@
       <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105919206</link>
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105919206</guid>
       <pubDate>Mon, 27 Oct 2025 05:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ea/Z/ii.mp3" length="57683520" type="audio/mpeg"/>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ee/Z/3m.mp3" length="58704000" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
     </item>
     <item>
@@ -210,15 +219,6 @@
       <pubDate>Tue, 30 Sep 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dj/Z/vl.mp3" length="35940911" type="audio/mpeg"/>
       <itunes:duration>0:24:57</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australia's role in the space race</title>
-      <description>&lt;p&gt;Australia is the centre of the known universe this week, as world leaders in space development and research meet in Sydney for the annual International Astronautical Congress.&lt;/p&gt;&lt;p&gt;A new space race has begun, with billionaires Elon Musk and Jeff Bezos leading the way and the Australian government encouraging local industry to get involved.&lt;/p&gt;&lt;p&gt;Then, confusion remains about exactly how many Australian companies will be impacted by looming US pharmaceutical tariffs.&lt;/p&gt;&lt;p&gt;Last week the US President announced that from October, the US will impose a 100 per cent tariff on branded or patented pharmaceutical imports, unless a pharmaceutical company builds a manufacturing plant in the US - so what could it mean for Australian industry?&lt;/p&gt;&lt;p&gt;And the Prime Minister has wrapped up a visit to the UK with an address to the Labour party conference in Liverpool.&lt;/p&gt;&lt;p&gt;During the speech, Mr Albanese vowed to defend democracy itself while standing alongside the man he described as his &quot;mate&quot;: British PM Sir Keir Starmer.&lt;/p&gt;&lt;p&gt;It comes after the Australian PM leaned into the comfort of the Commonwealth, enjoying lunch with King Charles at Balmoral Castle in Scotland.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105772674</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105772674</guid>
-      <pubDate>Mon, 29 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dj/Z/19.mp3" length="36124079" type="audio/mpeg"/>
-      <itunes:duration>0:25:05</itunes:duration>
     </item>
   </channel>
 </rss>
