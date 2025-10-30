@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Oct 2025 02:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 02:09:04 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Labor's race to pass environmental reforms</title>
+      <description>&lt;p&gt;The federal government's long-awaited overhaul of environmental approvals will be introduced to parliament today.&lt;/p&gt;&lt;p&gt;But passage for the bills will be treacherous, with the Coalition calling it a &quot;handbrake on investment&quot;  and the Greens arguing it &quot;weakens environmental protection&quot;.&lt;/p&gt;&lt;p&gt;Then, we get the details on reports of paramilitary forces committing mass killings and other atrocities in the Sudanese city of el-Fasher.&lt;/p&gt;&lt;p&gt;And we'll go inside an unprecedented corporate dumping. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105933438</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105933438</guid>
+      <pubDate>Thu, 30 Oct 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ef/Z/vt.mp3" length="35336687" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Israel launches fresh strikes on Gaza</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Wed, 01 Oct 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dl/Z/5h.mp3" length="35545199" type="audio/mpeg"/>
       <itunes:duration>0:24:41</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Is Trump's Gaza proposal a plan for peace?</title>
-      <description>&lt;p&gt;The White House has released a 20-point plan to end the ongoing war in Gaza, but is it a plan for peace?&lt;/p&gt;&lt;p&gt;You'll hear from the ABC's John Lyons, and two different Palestinian perspectives - Palestinian politician Mustafa Barghouthi and Gazan-American analyst Ahmed Fouad Alkhatib.&lt;/p&gt;&lt;p&gt;Then, a number of unregulated melatonin products sold in Australia have been found to be 400 per cent stronger than advertised,  while some had no active melatonin at all. So what's the warning to melatonin users?&lt;/p&gt;&lt;p&gt;And local artists, authors, and creatives are gathering at Parliament House today to speak out about the impact of artificial intelligence. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105774922</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105774922</guid>
-      <pubDate>Tue, 30 Sep 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dj/Z/vl.mp3" length="35940911" type="audio/mpeg"/>
-      <itunes:duration>0:24:57</itunes:duration>
     </item>
   </channel>
 </rss>
