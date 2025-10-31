@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Oct 2025 02:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 02:06:16 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: A royal eviction: Prince Andrew loses titles</title>
+      <description>&lt;p&gt;King Charles will strip brother Prince Andrew of his remaining royal titles and evict him from his royal residence, after weeks of pressure to act over Andrew's relationship with sex offender Jeffrey Epstein.&lt;/p&gt;&lt;p&gt;Then, we turn to the applause and tears in Victoria's parliament as Victoria becomes the first state in Australia to legislate a treaty with Aboriginal people following a late-night vote. &lt;/p&gt;&lt;p&gt;And US President Donald Trump and his Chinese counterpart Xi Jinping have taken steps to de-escalate their trade war following a meeting at an international airport in South Korea yesterday. We'll get reaction from the federal government and wrap the week in politics with our friday political panel. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105934988</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105934988</guid>
+      <pubDate>Fri, 31 Oct 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/eh/Z/97.mp3" length="34352879" type="audio/mpeg"/>
+      <itunes:duration>0:23:51</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Labor's race to pass environmental reforms</title>
       <description>&lt;p&gt;The federal government's long-awaited overhaul of environmental approvals will be introduced to parliament today.&lt;/p&gt;&lt;p&gt;But passage for the bills will be treacherous, with the Coalition calling it a &quot;handbrake on investment&quot;  and the Greens arguing it &quot;weakens environmental protection&quot;.&lt;/p&gt;&lt;p&gt;Then, we get the details on reports of paramilitary forces committing mass killings and other atrocities in the Sudanese city of el-Fasher.&lt;/p&gt;&lt;p&gt;And we'll go inside an unprecedented corporate dumping. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Thu, 02 Oct 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dm/Z/ph.mp3" length="35867183" type="audio/mpeg"/>
       <itunes:duration>0:24:54</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What the latest housing scheme means for house prices?</title>
-      <description>&lt;p&gt;Has it just got easier or harder to get into the property market?&lt;/p&gt;&lt;p&gt;The federal government's Home Guarantee Scheme is expanding today, meaning more Australians will only need to pay a five per cent deposit on a property.&lt;/p&gt;&lt;p&gt;Under the changes, there will be no income limits, meaning all first-time buyers are eligible. But it comes as new figures show eight months of consistent property price growth, so will this new scheme encourage that trend? &lt;/p&gt;&lt;p&gt;Then, we're once again talking about a government shutdown in the United States - so why is this the system that Washington has to navigate? &lt;/p&gt;&lt;p&gt;And we'll look at a proposed merger between two of the country's largest media companies.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105780016</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105780016</guid>
-      <pubDate>Wed, 01 Oct 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dl/Z/5h.mp3" length="35545199" type="audio/mpeg"/>
-      <itunes:duration>0:24:41</itunes:duration>
     </item>
   </channel>
 </rss>
