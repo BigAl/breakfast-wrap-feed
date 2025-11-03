@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Oct 2025 02:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 02:17:18 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Liberals under pressure after Nationals dump net zero</title>
+      <description>&lt;p&gt;The National Party has scrapped its commitment to reach net zero emissions by 2050, but says it still wants to reduce emissions.&lt;/p&gt;&lt;p&gt;It comes as its partner in the Coalition— the Liberal Party —  continues its review into energy policy. &lt;/p&gt;&lt;p&gt;Then, US President Donald Trump says he has ordered the Pentagon to prepare for potential military action in Nigeria if it fails to crack down on the killing of Christians.&lt;/p&gt;&lt;p&gt;Back home, a landmark new report has revealed around 65,000 First Nations' households which have prepaid supply arrangements are being disconnected up to 59 times per year.&lt;/p&gt;&lt;p&gt;And the Australian music industry has launched a campaign to localise our streaming algorithms and highlight homegrown talent. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105941662</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105941662</guid>
+      <pubDate>Mon, 03 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ej/Z/mu.mp3" length="35620655" type="audio/mpeg"/>
+      <itunes:duration>0:24:44</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: A royal eviction: Prince Andrew loses titles</title>
       <description>&lt;p&gt;King Charles will strip brother Prince Andrew of his remaining royal titles and evict him from his royal residence, after weeks of pressure to act over Andrew's relationship with sex offender Jeffrey Epstein.&lt;/p&gt;&lt;p&gt;Then, we turn to the applause and tears in Victoria's parliament as Victoria becomes the first state in Australia to legislate a treaty with Aboriginal people following a late-night vote. &lt;/p&gt;&lt;p&gt;And US President Donald Trump and his Chinese counterpart Xi Jinping have taken steps to de-escalate their trade war following a meeting at an international airport in South Korea yesterday. We'll get reaction from the federal government and wrap the week in politics with our friday political panel. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Fri, 03 Oct 2025 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/do/Z/1p.mp3" length="35226671" type="audio/mpeg"/>
       <itunes:duration>0:24:27</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What is the impact of the US government shutdown?</title>
-      <description>&lt;p&gt;It's day one of a government shutdown in the United States, and hundreds of thousands of federal workers are bracing for missed paychecks,  while government operations grind to a halt.&lt;/p&gt;&lt;p&gt;Meanwhile, the Venezuelan President Nicolas Maduro says he's ready to declare a state of emergency amid reports the US military is drawing up options to target drug traffickers inside Venezuela. &lt;/p&gt;&lt;p&gt;Then, California has signed a new bill into law requiring top AI companies to fulfil transparency requirements and report AI-related safety incidents. So could and should Australia follow suit? &lt;/p&gt;&lt;p&gt;And a Senate inquiry into aged care has called for an end to the &quot;rationing&quot; of home care packages, and the urgent release of more to ensure Australians aren't dying while waiting. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105786488</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105786488</guid>
-      <pubDate>Thu, 02 Oct 2025 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dm/Z/ph.mp3" length="35867183" type="audio/mpeg"/>
-      <itunes:duration>0:24:54</itunes:duration>
     </item>
   </channel>
 </rss>
