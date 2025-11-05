@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Nov 2025 02:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 02:08:27 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: America's most powerful modern vice president</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105941676</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105941676</guid>
+      <pubDate>Wed, 05 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/em/Z/2l.mp3" length="34958255" type="audio/mpeg"/>
+      <itunes:duration>0:24:16</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Can the Liberals afford to water down net-zero?</title>
       <description>&lt;p&gt;The Opposition Leader Sussan Ley has been facing internal tensions for months and now there are questions over how she'll handle splitting views within the party on whether to keep a commitment to net zero emissions by 2050. &lt;/p&gt;&lt;p&gt;The Nationals' decided to formally abandon the target ahead of today's Coalition party room meeting. So you'll hear from a Coalition frontbencher ahead of the meeting.&lt;/p&gt;&lt;p&gt;Then, major news overseas, the former chief lawyer for the Israeli military is in police custody after admitting she leaked a damaging video appearing to show soldiers abusing a Palestinian man in jail.&lt;/p&gt;&lt;p&gt;We'll also cross to France, where prosecutors in Paris say the daring jewellery heist at the Louvre was carried out by petty criminals, not organised professionals.&lt;/p&gt;&lt;p&gt;And you'll meet the man hoping to beat his father's sailing record - solo circumnavigating the globe.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -201,24 +210,6 @@
       <pubDate>Wed, 08 Oct 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ds/Z/vv.mp3" length="35386799" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Former Trump ally questions Gaza peace plan</title>
-      <description>&lt;p&gt;Former adviser to Mr Trump and US Ambassador to the UN, John Bolton tells us its &quot;unlikely&quot; the Gaza plan will happen. &lt;/p&gt;&lt;p&gt;We hear from the former Trump ally as indirect negotiations happen in Egypt, and Jewish communities around the world begin marking the second anniversary of October 7th.&lt;/p&gt;&lt;p&gt;Then, France loses its fifth prime minister in less than two years - we find out what the political climate is like in Paris. &lt;/p&gt;&lt;p&gt;And pressure is once again building on the federal government to address gambling harm,  more than two years after a landmark parliamentary report — also known as the &quot;Murphy Report&quot; — recommended sweeping reforms to tackle online gambling.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105801888</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105801888</guid>
-      <pubDate>Tue, 07 Oct 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ds/Z/06.mp3" length="34890287" type="audio/mpeg"/>
-      <itunes:duration>0:24:13</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What does Hastie's exit mean for Ley's Liberals?</title>
-      <description>&lt;p&gt;The resignation of West Australian Liberal MP Andrew Hastie from the opposition frontbench opens yet another wound for the Coalition as parliament resumes this week.&lt;/p&gt;&lt;p&gt;Then, polls have closed in Syria, where the country is holding its first parliamentary elections since the toppling of the regime of Bashar al-Assad. We'll learn why this vote is different to what you'd expect. &lt;/p&gt;&lt;p&gt;And a new round of indirect ceasefire talks between Israel and Hamas begins in Egypt today, with the Israeli Prime Minister Benjamin Netanyahu saying he hopes to announce the release of hostages &quot;in the coming days&quot;.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105800128</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105800128</guid>
-      <pubDate>Mon, 06 Oct 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/dq/Z/35.mp3" length="23801856" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
     </item>
   </channel>
 </rss>
