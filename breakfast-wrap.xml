@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Nov 2025 02:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 02:18:10 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Neo-Nazi protest outside state parliament shocks Sydney</title>
+      <description>&lt;p&gt;NSW Police and the state government are reviewing how neo-Nazis were able to legally rally outside state parliament in Sydney on the weekend.&lt;/p&gt;&lt;p&gt;We'll hear from the state's police minister as the Premier says he's planning to toughen up the state's laws. &lt;/p&gt;&lt;p&gt;Then, the Liberal party  could be just days away from deciding its future climate policy and whether it will commit to net-zero by 2050.&lt;/p&gt;&lt;p&gt;And we'll hear about the long career of late talk radio pioneer John Laws, who has died at the age of 90. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105961892</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105961892</guid>
+      <pubDate>Mon, 10 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/eq/Z/s0.mp3" length="35690351" type="audio/mpeg"/>
+      <itunes:duration>0:24:47</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Pacific pressure on Australia's COP30 delegation</title>
       <description>&lt;p&gt;Pressure is mounting on the Australian delegation to COP30 to resolve an impasse with Türkiye over hosting rights for the next global climate talks in 2026.&lt;/p&gt;&lt;p&gt;But Australia's bid remains in doubt, as global leaders begin to question why Prime Minister Anthony Albanese won't be making the trip across the Pacific to personally vouch for Australia's case.&lt;/p&gt;&lt;p&gt;Then, it's been six months since the Coalition lost a landslide election to Labor.&lt;/p&gt;&lt;p&gt;So has the Liberal Party learnt the lessons it promised to follow after the election, or is it doomed to keep repeating history?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -200,15 +209,6 @@
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105828754</guid>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e0/Z/7s.mp3" length="23549568" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast: Israel and Hamas approve Gaza ceasefire and hostage deal</title>
-      <description>&lt;p&gt;The Israeli government has approved Gaza's ceasefire and hostage deal, the first phase of the US plan already agreed to by Hamas. &lt;/p&gt;&lt;p&gt;Today we'll hear from the former US Middle East Envoy for Humanitarian Affairs about what the deal means for all sides, and from a former US AID official on how it will impact aid delivery in Gaza. Will it now ramp up?&lt;/p&gt;&lt;p&gt;Then, we learn details of an Israeli journalists conversations with Donald Trump, and what Palestinians think about other parts of the President's plan. &lt;/p&gt;&lt;p&gt;We'll also wrap a big week in federal politics. &lt;/p&gt;&lt;p&gt;And you'll meet Australia's most decorated Winter Paralympian... hoping to return to the slopes after nearly two decades. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105817740</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105817740</guid>
-      <pubDate>Fri, 10 Oct 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/du/Z/2j.mp3" length="23578368" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
     </item>
   </channel>
