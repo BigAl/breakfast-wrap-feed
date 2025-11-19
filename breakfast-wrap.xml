@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Nov 2025 02:07:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 02:07:23 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Sussan Ley denies Libs taking cues from One Nation</title>
+      <description>&lt;p&gt;Opposition leader Sussan Ley denies the party is taking its lead from Pauline Hanson's One Nation party, as it seeks to cover lost ground on net-zero and now immigration.&lt;/p&gt;&lt;p&gt;The Liberal leader also faces questions about her security in the top job, as a key ally quits the party in protest over undermining of the leadership.&lt;/p&gt;&lt;p&gt;Hear our extened interview with Sussan Ley. &lt;/p&gt;&lt;p&gt;Then, we'll also speak to the CEO of the CSIRO as it plans to shed hundreds of staff and scale back research programs in a significant restructure.&lt;/p&gt;&lt;p&gt;And we'll find out what the UN Security Council's endorsement of the US proposal for Gaza means for people on the ground. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990682</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990682</guid>
+      <pubDate>Wed, 19 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f3/Z/ur.mp3" length="34527407" type="audio/mpeg"/>
+      <itunes:duration>0:23:58</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Pauline Hanson says Coalition following One Nation's lead</title>
       <description>&lt;p&gt;New polling published in the Australian Financial Review shows One Nation is more trusted than Labor or the Coalition to deal with the influx of migrants.&lt;/p&gt;&lt;p&gt;In response, Pauline Hanson says her party has been &quot;setting the agenda for many years now&quot; from migration, to climate change and the Voice.&lt;/p&gt;&lt;p&gt;&quot;Everything that we've set in place, the Coalition have followed our lead … this is just another one.&quot;&lt;/p&gt;&lt;p&gt;It comes as the Coalition mulls its own immigration policy. &lt;/p&gt;&lt;p&gt;We'll hear about the polling from Redbridge's Tony Barry, and get analysis from Melissa Clarke. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -192,24 +201,6 @@
       <pubDate>Thu, 23 Oct 2025 05:30:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e9/Z/gv.mp3" length="56889600" type="audio/mpeg"/>
       <itunes:duration>0:23:24</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What the critical minerals deal means for Australia</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105861664</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105861664</guid>
-      <pubDate>Wed, 22 Oct 2025 07:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e8/Z/i7.mp3" length="57696000" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Unpacking Albanese's meeting with Trump</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105857126</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105857126</guid>
-      <pubDate>Tue, 21 Oct 2025 07:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e7/Z/hp.mp3" length="50857920" type="audio/mpeg"/>
-      <itunes:duration>0:21:00</itunes:duration>
     </item>
   </channel>
 </rss>
