@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 02:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 02:06:04 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why Turkiye wants to host COP31</title>
+      <description>&lt;p&gt;The COP31 climate summit will not be held in Australia, but in a deal struck with Turkiye, Climate Change Minister Chris Bowen will be appointed President of next year's meeting. &lt;/p&gt;&lt;p&gt;The Breakfast Wrap will find out why Turkiye wants to host the summit and put itself at the center of global climate action negotiations. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990680</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990680</guid>
+      <pubDate>Thu, 20 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f5/Z/dt.mp3" length="34844207" type="audio/mpeg"/>
+      <itunes:duration>0:24:11</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Sussan Ley denies Libs taking cues from One Nation</title>
       <description>&lt;p&gt;Opposition leader Sussan Ley denies the party is taking its lead from Pauline Hanson's One Nation party, as it seeks to cover lost ground on net-zero and now immigration.&lt;/p&gt;&lt;p&gt;The Liberal leader also faces questions about her security in the top job, as a key ally quits the party in protest over undermining of the leadership.&lt;/p&gt;&lt;p&gt;Hear our extened interview with Sussan Ley. &lt;/p&gt;&lt;p&gt;Then, we'll also speak to the CEO of the CSIRO as it plans to shed hundreds of staff and scale back research programs in a significant restructure.&lt;/p&gt;&lt;p&gt;And we'll find out what the UN Security Council's endorsement of the US proposal for Gaza means for people on the ground. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -192,15 +201,6 @@
       <pubDate>Fri, 24 Oct 2025 05:30:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ea/Z/ii.mp3" length="57683520" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: ICJ says Israel must allow UN aid into Gaza</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105867532</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105867532</guid>
-      <pubDate>Thu, 23 Oct 2025 05:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/e9/Z/gv.mp3" length="56889600" type="audio/mpeg"/>
-      <itunes:duration>0:23:24</itunes:duration>
     </item>
   </channel>
 </rss>
