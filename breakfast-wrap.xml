@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Nov 2025 02:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 02:06:29 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Another state Liberal leader gets the boot</title>
+      <description>&lt;p&gt;First-term MP Kellie Sloane has become the new leader of the New South Wales Liberals, following former leader Mark Speakman's decision to step down.&lt;/p&gt;&lt;p&gt;It follows Jess Wilson taking over for Brad Battin as the Victorian Liberal leader. &lt;/p&gt;&lt;p&gt;We'll hear from the Sydney Morning Herald's state political editor, and a senior federal Liberal, as the outgoing premier partially blames the federal wing for his demise. &lt;/p&gt;&lt;p&gt;Then, the federal government has given up a multi-year campaign to host next year's COP31 climate summit, ceding hosting rights to Türkiye.&lt;/p&gt;&lt;p&gt;While the details of a deal with Türkiye are still being finalised, Minister for Climate Change and Energy Chris Bowen says he will still lead negotiations at the summit.&lt;/p&gt;&lt;p&gt;The Greens argue that the government's heart was never really in it, and the City of Adelaide shares why they're disappointed to lose out to Istanbul. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990676</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990676</guid>
+      <pubDate>Fri, 21 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f6/Z/id.mp3" length="35237046" type="audio/mpeg"/>
+      <itunes:duration>0:24:28</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why Turkiye wants to host COP31</title>
       <description>&lt;p&gt;The COP31 climate summit will not be held in Australia, but in a deal struck with Turkiye, Climate Change Minister Chris Bowen will be appointed President of next year's meeting. &lt;/p&gt;&lt;p&gt;The Breakfast Wrap will find out why Turkiye wants to host the summit and put itself at the center of global climate action negotiations. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -191,15 +200,6 @@
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105919206</guid>
       <pubDate>Mon, 27 Oct 2025 05:30:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ee/Z/3m.mp3" length="58704000" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Russia responds to new US sanctions</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105908368</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105908368</guid>
-      <pubDate>Fri, 24 Oct 2025 05:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ea/Z/ii.mp3" length="57683520" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
     </item>
   </channel>
