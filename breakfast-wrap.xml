@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Nov 2025 02:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 02:08:58 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why the BOM website cost $96 million</title>
+      <description>&lt;p&gt;The Bureau of Meteorology is weathering a storm of its own over its controversial website redesign. &lt;/p&gt;&lt;p&gt;It has revealed the cost is $96.5 million, after initially saying the redesign cost $4 million.&lt;/p&gt;&lt;p&gt;Then, Melissa Clarke wraps the reaction to One Nation leader Pauline Hanson wearing a burqa in the Senate, her latest parliamentary stunt. &lt;/p&gt;&lt;p&gt;And we hear from Oscar-winning actor Russel Crowe about his latest film.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106003478</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106003478</guid>
+      <pubDate>Tue, 25 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fa/Z/97.mp3" length="35328047" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Darwin weathers its strongest cyclone in decades</title>
       <description>&lt;p&gt;Clean-up efforts have begun in the Top End after Tropical Cyclone Fina swept through the Northern Territory at category three strength.&lt;/p&gt;&lt;p&gt;Fina was the NT's strongest cyclone to pass Darwin since the devastating Cyclone Tracy in 1974.&lt;/p&gt;&lt;p&gt;Then, if you were to use just one word, how would you describe the last federal election? &lt;/p&gt;&lt;p&gt;According to veteran journalist, Niki Savva, it was an earthquake which shook the nation.&lt;/p&gt;&lt;p&gt;In her fifth book, the award-winning author reflects on the 2025 election, and the subsequent aftershocks that continue to be felt in the nation's capital and beyond. &lt;/p&gt;&lt;p&gt;And a panel of fertility experts has developed the first Australian evidence-based guidelines on male fertility to assist specialists in finding the root causes of infertility.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -192,15 +201,6 @@
       <pubDate>Wed, 29 Oct 2025 05:30:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ee/Z/qv.mp3" length="58321920" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What's at stake for the Trump-Xi meeting?</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105921946</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105921946</guid>
-      <pubDate>Tue, 28 Oct 2025 05:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ed/Z/ue.mp3" length="23366400" type="audio/mpeg"/>
-      <itunes:duration>0:24:20</itunes:duration>
     </item>
   </channel>
 </rss>
