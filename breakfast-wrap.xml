@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Nov 2025 02:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 02:09:38 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: US will monitor immigrant crime in Australia</title>
+      <description>&lt;p&gt;Data on crimes committed by migrants in Australia will be tracked by the United States, following a directive from the Trump Administration. The ABC has confirmed the US Embassy in Canberra has been given the directive along with embassies in several other western nations, including New Zealand and Canada. &lt;/p&gt;&lt;p&gt;The CEO of the Association of Mining and Exploration Companies, Warren Pearce, has called on the parliament to pass the government's long-awaited environmental reforms. &lt;/p&gt;&lt;p&gt;Mr Pearce says there is a sense of urgency for a deal to be made this week on the final sitting week of 2025. &lt;/p&gt;&lt;p&gt;Then, Nigeria's president says all 24 schoolgirls who were abducted by armed assailants from a government boarding school last week in Kebbi, in the country's north-west, have been rescued.&lt;/p&gt;&lt;p&gt;And, the University of Canberra has announced it will develop a large-scale aged care community next to the University of Canberra Hospital, as part of a 100-year agreement to bring residents closer to where healthcare staff are trained.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106008296</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106008296</guid>
+      <pubDate>Wed, 26 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fb/Z/e1.mp3" length="34195055" type="audio/mpeg"/>
+      <itunes:duration>0:23:44</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why the BOM website cost $96 million</title>
       <description>&lt;p&gt;The Bureau of Meteorology is weathering a storm of its own over its controversial website redesign. &lt;/p&gt;&lt;p&gt;It has revealed the cost is $96.5 million, after initially saying the redesign cost $4 million.&lt;/p&gt;&lt;p&gt;Then, Melissa Clarke wraps the reaction to One Nation leader Pauline Hanson wearing a burqa in the Senate, her latest parliamentary stunt. &lt;/p&gt;&lt;p&gt;And we hear from Oscar-winning actor Russel Crowe about his latest film.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -192,15 +201,6 @@
       <pubDate>Thu, 30 Oct 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ef/Z/vt.mp3" length="35336687" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Israel launches fresh strikes on Gaza</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105926744</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105926744</guid>
-      <pubDate>Wed, 29 Oct 2025 05:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ee/Z/qv.mp3" length="58321920" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
     </item>
   </channel>
 </rss>
