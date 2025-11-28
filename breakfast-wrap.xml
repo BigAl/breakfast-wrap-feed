@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Nov 2025 02:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 02:06:17 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: How the government secured its environmental deal</title>
+      <description>&lt;p&gt;A long-awaited overhaul of federal environment laws passed the Senate yesterday, after the government struck a deal with the Greens. &lt;/p&gt;&lt;p&gt;We'll hear from the man who wrote the blueprint for the revamp of the Environmental Protection and Biodiversity Conservation Act. We'll also hear from the Environment Minister Murray Watt and the Greens environment spokesperson Sarah Hanson-Young. &lt;/p&gt;&lt;p&gt;Then, The Lebanese prime minister has criticised Hezbollah overnight for failing to disarm, saying that its refusal to do so is hurting his country.&lt;/p&gt;&lt;p&gt;It comes as Israel carried out more strikes in Lebanon this week, killing civilians; the United Naitons has now confirmed at least 127 deaths since last year's ceasefire.&lt;/p&gt;&lt;p&gt;And for the third consecutive season, North Melbourne and Brisbane will face off in the AFLW grand final - the Lions' seventh decider in the league's first 10 seasons.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106014514</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106014514</guid>
+      <pubDate>Fri, 28 Nov 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fd/Z/t9.mp3" length="35363183" type="audio/mpeg"/>
+      <itunes:duration>0:24:33</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Labor strikes environmental laws deal</title>
       <description>&lt;p&gt;Prime Minister Anthony Albanese says Labor has struck a deal to overhaul the nation's outdated environmental protection laws.&lt;/p&gt;&lt;p&gt;Mr Albanese says the laws will pass the Senate today, more than five years after Graeme Samuel handed down a review into the legislation.&lt;/p&gt;&lt;p&gt;Then, a massive high-rise apartment fire in Hong Kong's Tai Po district has killed at least 44 people and left hundreds more missing, with firefighters continuing to battle the blaze, which has spread across multiple buildings.&lt;/p&gt;&lt;p&gt;Also, Optus crews spent hours repairing a mobile phone outage for more than 14,000 services yesterday. We hear from the former boss of the consumer watchdog. &lt;/p&gt;&lt;p&gt;And Tasmania's fiscal future is back in the spotlight, after the state's credit rating dropped to the lowest in the country, alongside the Northern Territory.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Fri, 31 Oct 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/eh/Z/97.mp3" length="34352879" type="audio/mpeg"/>
       <itunes:duration>0:23:51</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Labor's race to pass environmental reforms</title>
-      <description>&lt;p&gt;The federal government's long-awaited overhaul of environmental approvals will be introduced to parliament today.&lt;/p&gt;&lt;p&gt;But passage for the bills will be treacherous, with the Coalition calling it a &quot;handbrake on investment&quot;  and the Greens arguing it &quot;weakens environmental protection&quot;.&lt;/p&gt;&lt;p&gt;Then, we get the details on reports of paramilitary forces committing mass killings and other atrocities in the Sudanese city of el-Fasher.&lt;/p&gt;&lt;p&gt;And we'll go inside an unprecedented corporate dumping. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105933438</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105933438</guid>
-      <pubDate>Thu, 30 Oct 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ef/Z/vt.mp3" length="35336687" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
