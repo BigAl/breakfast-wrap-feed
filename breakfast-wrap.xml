@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Nov 2025 02:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 02:36:12 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Will the government order an independent childcare review</title>
+      <description>&lt;p&gt;This year the ABC's Four Corners program exposed cases of child abuse and alleged child abuse, neglect, and injury within the childcare sector, highlighting critical gaps in safety and accountability.&lt;/p&gt;&lt;p&gt;The Productivity Commission recommended an independent review of national childcare standards, but the federal government is yet to commit to such a review.&lt;/p&gt;&lt;p&gt;Meanwhile, the federal opposition is gearing up for a new political fight on immigration.&lt;/p&gt;&lt;p&gt;Then overseas, Venezuela has condemned US President Donald Trump's latest warning about its airspace, after Mr Trump posted online that the skies around the country should be treated as closed.&lt;/p&gt;&lt;p&gt;We'll also find out about tension between Japan and China. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106023702</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106023702</guid>
+      <pubDate>Mon, 01 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fg/Z/d7.mp3" length="35728367" type="audio/mpeg"/>
+      <itunes:duration>0:24:48</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: How the government secured its environmental deal</title>
       <description>&lt;p&gt;A long-awaited overhaul of federal environment laws passed the Senate yesterday, after the government struck a deal with the Greens. &lt;/p&gt;&lt;p&gt;We'll hear from the man who wrote the blueprint for the revamp of the Environmental Protection and Biodiversity Conservation Act. We'll also hear from the Environment Minister Murray Watt and the Greens environment spokesperson Sarah Hanson-Young. &lt;/p&gt;&lt;p&gt;Then, The Lebanese prime minister has criticised Hezbollah overnight for failing to disarm, saying that its refusal to do so is hurting his country.&lt;/p&gt;&lt;p&gt;It comes as Israel carried out more strikes in Lebanon this week, killing civilians; the United Naitons has now confirmed at least 127 deaths since last year's ceasefire.&lt;/p&gt;&lt;p&gt;And for the third consecutive season, North Melbourne and Brisbane will face off in the AFLW grand final - the Lions' seventh decider in the league's first 10 seasons.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Mon, 03 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ej/Z/mu.mp3" length="35620655" type="audio/mpeg"/>
       <itunes:duration>0:24:44</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: A royal eviction: Prince Andrew loses titles</title>
-      <description>&lt;p&gt;King Charles will strip brother Prince Andrew of his remaining royal titles and evict him from his royal residence, after weeks of pressure to act over Andrew's relationship with sex offender Jeffrey Epstein.&lt;/p&gt;&lt;p&gt;Then, we turn to the applause and tears in Victoria's parliament as Victoria becomes the first state in Australia to legislate a treaty with Aboriginal people following a late-night vote. &lt;/p&gt;&lt;p&gt;And US President Donald Trump and his Chinese counterpart Xi Jinping have taken steps to de-escalate their trade war following a meeting at an international airport in South Korea yesterday. We'll get reaction from the federal government and wrap the week in politics with our friday political panel. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105934988</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105934988</guid>
-      <pubDate>Fri, 31 Oct 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/eh/Z/97.mp3" length="34352879" type="audio/mpeg"/>
-      <itunes:duration>0:23:51</itunes:duration>
     </item>
   </channel>
 </rss>
