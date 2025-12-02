@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Dec 2025 02:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 02:17:12 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: AI plan unveiled</title>
+      <description>&lt;p&gt;The federal government has released its National AI Plan, describing it &quot;comprehensive road-map&quot; to unlock the full potential of the technology for all Australians.&lt;/p&gt;&lt;p&gt;Then, according to the Australian Medical Association (AMA), misinformation, anti-science sentiments and vaccine fatigue have eroded the public's trust in vaccines.&lt;/p&gt;&lt;p&gt;And it's been described as one of the biggest reforms to defence in five decades, but why is not everyone sold on the government's latest change to defence procurement. &lt;/p&gt;&lt;p&gt;And why have farmers been pushing for 'right to repair' protections?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026548</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026548</guid>
+      <pubDate>Tue, 02 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fh/Z/if.mp3" length="35443247" type="audio/mpeg"/>
+      <itunes:duration>0:24:36</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Will the government order an independent childcare review</title>
       <description>&lt;p&gt;This year the ABC's Four Corners program exposed cases of child abuse and alleged child abuse, neglect, and injury within the childcare sector, highlighting critical gaps in safety and accountability.&lt;/p&gt;&lt;p&gt;The Productivity Commission recommended an independent review of national childcare standards, but the federal government is yet to commit to such a review.&lt;/p&gt;&lt;p&gt;Meanwhile, the federal opposition is gearing up for a new political fight on immigration.&lt;/p&gt;&lt;p&gt;Then overseas, Venezuela has condemned US President Donald Trump's latest warning about its airspace, after Mr Trump posted online that the skies around the country should be treated as closed.&lt;/p&gt;&lt;p&gt;We'll also find out about tension between Japan and China. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Tue, 04 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ek/Z/tt.mp3" length="35273327" type="audio/mpeg"/>
       <itunes:duration>0:24:29</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Liberals under pressure after Nationals dump net zero</title>
-      <description>&lt;p&gt;The National Party has scrapped its commitment to reach net zero emissions by 2050, but says it still wants to reduce emissions.&lt;/p&gt;&lt;p&gt;It comes as its partner in the Coalition— the Liberal Party —  continues its review into energy policy. &lt;/p&gt;&lt;p&gt;Then, US President Donald Trump says he has ordered the Pentagon to prepare for potential military action in Nigeria if it fails to crack down on the killing of Christians.&lt;/p&gt;&lt;p&gt;Back home, a landmark new report has revealed around 65,000 First Nations' households which have prepaid supply arrangements are being disconnected up to 59 times per year.&lt;/p&gt;&lt;p&gt;And the Australian music industry has launched a campaign to localise our streaming algorithms and highlight homegrown talent. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105941662</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105941662</guid>
-      <pubDate>Mon, 03 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ej/Z/mu.mp3" length="35620655" type="audio/mpeg"/>
-      <itunes:duration>0:24:44</itunes:duration>
     </item>
   </channel>
 </rss>
