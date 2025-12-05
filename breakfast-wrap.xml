@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Dec 2025 02:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 02:17:54 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia receives AUKUS review from US</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026726</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026726</guid>
+      <pubDate>Fri, 05 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fl/Z/b3.mp3" length="56087040" type="audio/mpeg"/>
+      <itunes:duration>0:23:12</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australia's fresh commitment to Ukraine</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Fri, 07 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/eo/Z/fm.mp3" length="35141423" type="audio/mpeg"/>
       <itunes:duration>0:24:24</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What's behind SA's harmful algal bloom?</title>
-      <description>&lt;p&gt;As South Australian beaches prepare for their first summer with the devastating algal bloom, scientists believe they may have identified a little-known algal species behind the event.&lt;/p&gt;&lt;p&gt;The breakthrough research, which is undergoing academic peer review, has found that Karenia Cristata is the dominant species in this major bloom event.&lt;/p&gt;&lt;p&gt;Then, questions about the Liberal party's leadership and the Coalition's future intensified this week as the Liberal party continues to review its energy policy.&lt;/p&gt;&lt;p&gt;And as Australia's social media ban for children under-16 fast approaches, how much do you know about the platforms on the ban list, like Reddit and Kick? &lt;/p&gt;&lt;p&gt;We'll also head to the US where the Supreme Court has begun hearing a landmark case on the legality of Donald Trump's sweeping global tariffs.&lt;/p&gt;&lt;p&gt;And we'll turn to a  Democrat strategist for the washup of the New York City Mayoral race. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105941968</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105941968</guid>
-      <pubDate>Thu, 06 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/en/Z/am.mp3" length="35506031" type="audio/mpeg"/>
-      <itunes:duration>0:24:39</itunes:duration>
     </item>
   </channel>
 </rss>
