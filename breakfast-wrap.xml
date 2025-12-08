@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Dec 2025 02:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 02:18:53 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The emerging scale of Indonesia's cyclone devastation</title>
+      <description>&lt;p&gt;The death toll continues to rise on the Indonesian island of Sumatra after the region was devastated by Cyclone Senyar.&lt;/p&gt;&lt;p&gt;More than 900 people have been killed in floods and landslides, with more than a million people displaced.&lt;/p&gt;&lt;p&gt;We'll head to Indonesia to hear what is planned for the country's cyclone recovery. &lt;/p&gt;&lt;p&gt;Then, federal cabinet is expected to consider proposals for an east coast gas reserve today.&lt;/p&gt;&lt;p&gt;Plus, we'll find out how to support your child through the social media ban.&lt;/p&gt;&lt;p&gt;And 24-year-old Victorian Oscar Piastri has finished second in the season-ending Abu Dhabi Grand Prix, leaving him third overall in Formula One the championship. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026544</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026544</guid>
+      <pubDate>Mon, 08 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fn/Z/rd.mp3" length="35334959" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australia receives AUKUS review from US</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Mon, 10 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/eq/Z/s0.mp3" length="35690351" type="audio/mpeg"/>
       <itunes:duration>0:24:47</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Pacific pressure on Australia's COP30 delegation</title>
-      <description>&lt;p&gt;Pressure is mounting on the Australian delegation to COP30 to resolve an impasse with Türkiye over hosting rights for the next global climate talks in 2026.&lt;/p&gt;&lt;p&gt;But Australia's bid remains in doubt, as global leaders begin to question why Prime Minister Anthony Albanese won't be making the trip across the Pacific to personally vouch for Australia's case.&lt;/p&gt;&lt;p&gt;Then, it's been six months since the Coalition lost a landslide election to Labor.&lt;/p&gt;&lt;p&gt;So has the Liberal Party learnt the lessons it promised to follow after the election, or is it doomed to keep repeating history?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105947600</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105947600</guid>
-      <pubDate>Fri, 07 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/eo/Z/fm.mp3" length="35141423" type="audio/mpeg"/>
-      <itunes:duration>0:24:24</itunes:duration>
     </item>
   </channel>
 </rss>
