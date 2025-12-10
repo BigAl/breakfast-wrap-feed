@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 02:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 02:20:16 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Social media ban comes into effect</title>
+      <description>&lt;p&gt;As Australia's social media ban for under-16s comes into effect, we hear from one of the leading advocates for the ban, and the federal Coalition. &lt;/p&gt;&lt;p&gt;A warning, this episode includes references to suicide and self-harm.&lt;/p&gt;&lt;p&gt;We feature an interview with Mia Bannister. She lost her son, Ollie, to suicide when he was 14 years old after sustained online bullying and an eating disorder, which she says was fuelled by social media algorithms.&lt;/p&gt;&lt;p&gt;Today, Mia will stand beside Prime Minister Anthony Albanese for the launch of the social media ban.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026566</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026566</guid>
+      <pubDate>Wed, 10 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fq/Z/e2.mp3" length="35320559" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The battle for Hollywood</title>
       <description>&lt;p&gt;The battle for the future of Hollywood is heating up this morning after Paramount mounted a hostile bid worth US$108 billion for Warner Bros Discovery, just days after Netflix agreed to buy out the media giant.&lt;/p&gt;&lt;p&gt;Paramount says it's taking its bid straight to Warner Bros shareholders, asking them to reject the Netflix deal valued at more than US$70 billion. &lt;/p&gt;&lt;p&gt;Then, former deputy prime minister Barnaby Joyce has formally joined One Nation, after leaving the Nationals last month.The Member for New England intends to run on One Nation's Senate ticket for New South Wales at the next federal election.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Wed, 12 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/et/Z/8v.mp3" length="35111471" type="audio/mpeg"/>
       <itunes:duration>0:24:22</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The dismissal of Gough Whitlam, 50 years on</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105963544</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105963544</guid>
-      <pubDate>Tue, 11 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/es/Z/83.mp3" length="58834560" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
     </item>
   </channel>
 </rss>
