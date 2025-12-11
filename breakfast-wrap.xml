@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Dec 2025 02:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 02:21:51 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Anger at increasing Indigenous deaths in custody</title>
+      <description>&lt;p&gt;Australia has recorded the highest number of Indigenous deaths in custody since 1979/1980.New data from the Australian Institute of Criminology shows 33 of the 113 people who died in police or prison custody in the last financial year were Aboriginal and Torres Strait Islander people.&lt;/p&gt;&lt;p&gt;Then, US President Donald Trump has announced the United States has seized an oil tanker off the coast of Venezuela, in a move analysts are warning is likely to further inflame tensions between Washington and Caracas. &lt;/p&gt;&lt;p&gt;Meanwhile European leaders have hit back at Mr Trump after he labelled them &quot;weak&quot; while claiming European civilisation was being eroded by immigration. We'll hear from the Vice President of the European Parliament.&lt;/p&gt;&lt;p&gt;And staying overseas and fighting between Thailand and Cambodia has intensified, with both sides accusing each other of striking civilians.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026684</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026684</guid>
+      <pubDate>Thu, 11 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fr/Z/ng.mp3" length="35226095" type="audio/mpeg"/>
+      <itunes:duration>0:24:27</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Social media ban comes into effect</title>
       <description>&lt;p&gt;As Australia's social media ban for under-16s comes into effect, we hear from one of the leading advocates for the ban, and the federal Coalition. &lt;/p&gt;&lt;p&gt;A warning, this episode includes references to suicide and self-harm.&lt;/p&gt;&lt;p&gt;We feature an interview with Mia Bannister. She lost her son, Ollie, to suicide when he was 14 years old after sustained online bullying and an eating disorder, which she says was fuelled by social media algorithms.&lt;/p&gt;&lt;p&gt;Today, Mia will stand beside Prime Minister Anthony Albanese for the launch of the social media ban.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Thu, 13 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/eu/Z/cg.mp3" length="35701295" type="audio/mpeg"/>
       <itunes:duration>0:24:47</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Liberals converge on Canberra for net-zero talks</title>
-      <description>&lt;p&gt;Liberal party members are gathering today in Canberra to discuss their energy and climate policies, in the first of a series of meetings this week aiming to settle the Coalition's energy position.It is uncertain whether the Liberals will follow the Nationals and dump their commitment to net zero emissions by 2050.&lt;/p&gt;&lt;p&gt;Liberal Senator for South Australia, Leah Blythe, says she supports Sussan Ley and has &quot;full confidence&quot; in the Opposition Leader, regardless of the outcome of the policy debate. &lt;/p&gt;&lt;p&gt;Then, Home Affairs Minister Tony Burke has confirmed he met with Nauru's President David Adeang in Canberra, after the Pacific Island nation's leader made an unannounced visit to Parliament House yesterday. &lt;/p&gt;&lt;p&gt;The visit comes after reporting by Nine newspapers that criminal bikie gangs were awarded a lucrative contract to provide security for former immigration detainees transferred to Nauru.&lt;/p&gt;&lt;p&gt;Plus we'll cross the Tasman to hear about a decision to expel two of New Zealand's Te Pāti Maori MPs that has left the party in disarray.&lt;/p&gt;&lt;p&gt;And Ahmed Al-Sharaa has become the first Syrian leader ever welcomed to the White House, where he's held landmark talks with US President Donald Trump on rebuilding ties with the US, and cooperating in the fight against the Islamic State group.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105968218</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105968218</guid>
-      <pubDate>Wed, 12 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/et/Z/8v.mp3" length="35111471" type="audio/mpeg"/>
-      <itunes:duration>0:24:22</itunes:duration>
     </item>
   </channel>
 </rss>
