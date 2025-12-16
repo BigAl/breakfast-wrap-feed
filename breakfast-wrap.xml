@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 02:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 02:22:11 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia's gun laws in focus following Bondi attack</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026562</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026562</guid>
+      <pubDate>Tue, 16 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g0/Z/7u.mp3" length="62168640" type="audio/mpeg"/>
+      <itunes:duration>0:25:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: 10yo girl among victims of Bondi terror attack</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Mon, 17 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f1/Z/mo.mp3" length="35256623" type="audio/mpeg"/>
       <itunes:duration>0:24:28</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: BBC apology and Libs ditch net-zero</title>
-      <description>&lt;p&gt;The BBC has rejected demands for financial compensation by US President Donald Trump after broadcasting a program last year that contained a misleading edit of his speech on the day of the Capitol riots. &lt;/p&gt;&lt;p&gt;We'll hear from a former BBC Newsnight editor and co-host of the News Agents podcast Lewis Goodall. &lt;/p&gt;&lt;p&gt;Then, as the Liberals formally ditch net-zero by 2050, we'll speak with the minister in charge of the Coalition's energy and emissions policy, who's been wrangling Liberal negotiations.&lt;/p&gt;&lt;p&gt;We'll also find out the state of play in Tasmania, as disussions around the state's proposed stadium reach parliament. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105974866</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105974866</guid>
-      <pubDate>Fri, 14 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ev/Z/j2.mp3" length="35055023" type="audio/mpeg"/>
-      <itunes:duration>0:24:20</itunes:duration>
     </item>
   </channel>
 </rss>
