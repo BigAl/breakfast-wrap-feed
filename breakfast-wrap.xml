@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 02:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 02:17:21 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Police probe Bondi gunmen's overseas links</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026540</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026540</guid>
+      <pubDate>Wed, 17 Dec 2025 07:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g1/Z/7s.mp3" length="57098880" type="audio/mpeg"/>
+      <itunes:duration>0:23:24</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australia's gun laws in focus following Bondi attack</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Tue, 18 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f2/Z/rv.mp3" length="34585583" type="audio/mpeg"/>
       <itunes:duration>0:24:01</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Coalition reopens climate wars</title>
-      <description>&lt;p&gt;The Liberal and National parties have announced their new joint climate and energy policy, dumping a commitment to net zero emissions by 2050. &lt;/p&gt;&lt;p&gt;Instead, the policy promises to reduce emissions &quot;year on year,&quot; considering the &quot;real performance&quot; of other developed countries.&lt;/p&gt;&lt;p&gt;Opposition leader Sussan Ley has also said affordability would be at the heart of the Coalition's plan, though she did not outline when or by how much power bills should be reduced.&lt;/p&gt;&lt;p&gt;Then, a Monash University study has found lifesaving programs are either inaccessible or not inclusive to tourists and migrants.&lt;/p&gt;&lt;p&gt;And US President Donald Trump has withdrawn his support for Marjorie Taylor Greene, blasting the Georgia congresswoman as a &quot;traitor&quot;.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105988724</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105988724</guid>
-      <pubDate>Mon, 17 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f1/Z/mo.mp3" length="35256623" type="audio/mpeg"/>
-      <itunes:duration>0:24:28</itunes:duration>
     </item>
   </channel>
 </rss>
