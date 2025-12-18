@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Dec 2025 02:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 02:18:09 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Ex-ASIO chief's questions after Bondi attack</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026556</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026556</guid>
+      <pubDate>Thu, 18 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g2/Z/7b.mp3" length="60759360" type="audio/mpeg"/>
+      <itunes:duration>0:25:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Police probe Bondi gunmen's overseas links</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Wed, 19 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f3/Z/ur.mp3" length="34527407" type="audio/mpeg"/>
       <itunes:duration>0:23:58</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Pauline Hanson says Coalition following One Nation's lead</title>
-      <description>&lt;p&gt;New polling published in the Australian Financial Review shows One Nation is more trusted than Labor or the Coalition to deal with the influx of migrants.&lt;/p&gt;&lt;p&gt;In response, Pauline Hanson says her party has been &quot;setting the agenda for many years now&quot; from migration, to climate change and the Voice.&lt;/p&gt;&lt;p&gt;&quot;Everything that we've set in place, the Coalition have followed our lead … this is just another one.&quot;&lt;/p&gt;&lt;p&gt;It comes as the Coalition mulls its own immigration policy. &lt;/p&gt;&lt;p&gt;We'll hear about the polling from Redbridge's Tony Barry, and get analysis from Melissa Clarke. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990234</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990234</guid>
-      <pubDate>Tue, 18 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f2/Z/rv.mp3" length="34585583" type="audio/mpeg"/>
-      <itunes:duration>0:24:01</itunes:duration>
     </item>
   </channel>
 </rss>
