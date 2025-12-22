@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Dec 2025 02:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 02:27:32 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Thousands unite to mourn Bondi victims</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026560</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026560</guid>
+      <pubDate>Mon, 22 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g5/Z/hu.mp3" length="61194240" type="audio/mpeg"/>
+      <itunes:duration>0:25:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Can politicians find consensus on how to curb antisemitism?</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Fri, 21 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f6/Z/id.mp3" length="35237046" type="audio/mpeg"/>
       <itunes:duration>0:24:28</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Why Turkiye wants to host COP31</title>
-      <description>&lt;p&gt;The COP31 climate summit will not be held in Australia, but in a deal struck with Turkiye, Climate Change Minister Chris Bowen will be appointed President of next year's meeting. &lt;/p&gt;&lt;p&gt;The Breakfast Wrap will find out why Turkiye wants to host the summit and put itself at the center of global climate action negotiations. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990680</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990680</guid>
-      <pubDate>Thu, 20 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f5/Z/dt.mp3" length="34844207" type="audio/mpeg"/>
-      <itunes:duration>0:24:11</itunes:duration>
     </item>
   </channel>
 </rss>
