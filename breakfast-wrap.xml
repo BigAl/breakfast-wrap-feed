@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Dec 2025 02:27:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 02:22:38 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Will a domestic gas reserve lower energy bills?</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026542</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026542</guid>
+      <pubDate>Tue, 23 Dec 2025 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g6/Z/gg.mp3" length="62505600" type="audio/mpeg"/>
+      <itunes:duration>0:25:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Thousands unite to mourn Bondi victims</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Mon, 24 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f9/Z/1t.mp3" length="23681664" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Another state Liberal leader gets the boot</title>
-      <description>&lt;p&gt;First-term MP Kellie Sloane has become the new leader of the New South Wales Liberals, following former leader Mark Speakman's decision to step down.&lt;/p&gt;&lt;p&gt;It follows Jess Wilson taking over for Brad Battin as the Victorian Liberal leader. &lt;/p&gt;&lt;p&gt;We'll hear from the Sydney Morning Herald's state political editor, and a senior federal Liberal, as the outgoing premier partially blames the federal wing for his demise. &lt;/p&gt;&lt;p&gt;Then, the federal government has given up a multi-year campaign to host next year's COP31 climate summit, ceding hosting rights to Türkiye.&lt;/p&gt;&lt;p&gt;While the details of a deal with Türkiye are still being finalised, Minister for Climate Change and Energy Chris Bowen says he will still lead negotiations at the summit.&lt;/p&gt;&lt;p&gt;The Greens argue that the government's heart was never really in it, and the City of Adelaide shares why they're disappointed to lose out to Istanbul. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990676</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/105990676</guid>
-      <pubDate>Fri, 21 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/f6/Z/id.mp3" length="35237046" type="audio/mpeg"/>
-      <itunes:duration>0:24:28</itunes:duration>
     </item>
   </channel>
 </rss>
