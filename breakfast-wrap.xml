@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Dec 2025 02:32:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 02:23:34 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: PM resists calls for Bondi royal commission</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026680</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026680</guid>
+      <pubDate>Tue, 30 Dec 2025 07:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ga/Z/de.mp3" length="56520960" type="audio/mpeg"/>
+      <itunes:duration>0:23:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Bondi victims' families call for royal commission</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Fri, 28 Nov 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fd/Z/t9.mp3" length="35363183" type="audio/mpeg"/>
       <itunes:duration>0:24:33</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Labor strikes environmental laws deal</title>
-      <description>&lt;p&gt;Prime Minister Anthony Albanese says Labor has struck a deal to overhaul the nation's outdated environmental protection laws.&lt;/p&gt;&lt;p&gt;Mr Albanese says the laws will pass the Senate today, more than five years after Graeme Samuel handed down a review into the legislation.&lt;/p&gt;&lt;p&gt;Then, a massive high-rise apartment fire in Hong Kong's Tai Po district has killed at least 44 people and left hundreds more missing, with firefighters continuing to battle the blaze, which has spread across multiple buildings.&lt;/p&gt;&lt;p&gt;Also, Optus crews spent hours repairing a mobile phone outage for more than 14,000 services yesterday. We hear from the former boss of the consumer watchdog. &lt;/p&gt;&lt;p&gt;And Tasmania's fiscal future is back in the spotlight, after the state's credit rating dropped to the lowest in the country, alongside the Northern Territory.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106013014</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106013014</guid>
-      <pubDate>Thu, 27 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fc/Z/kn.mp3" length="35341295" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
