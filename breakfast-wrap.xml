@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Dec 2025 02:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 02:23:40 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Muslim Australians report abuse spike after Bondi attack</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026534</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026534</guid>
+      <pubDate>Wed, 31 Dec 2025 07:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gb/Z/3s.mp3" length="60608640" type="audio/mpeg"/>
+      <itunes:duration>0:25:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: PM resists calls for Bondi royal commission</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Mon, 01 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fg/Z/d7.mp3" length="35728367" type="audio/mpeg"/>
       <itunes:duration>0:24:48</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: How the government secured its environmental deal</title>
-      <description>&lt;p&gt;A long-awaited overhaul of federal environment laws passed the Senate yesterday, after the government struck a deal with the Greens. &lt;/p&gt;&lt;p&gt;We'll hear from the man who wrote the blueprint for the revamp of the Environmental Protection and Biodiversity Conservation Act. We'll also hear from the Environment Minister Murray Watt and the Greens environment spokesperson Sarah Hanson-Young. &lt;/p&gt;&lt;p&gt;Then, The Lebanese prime minister has criticised Hezbollah overnight for failing to disarm, saying that its refusal to do so is hurting his country.&lt;/p&gt;&lt;p&gt;It comes as Israel carried out more strikes in Lebanon this week, killing civilians; the United Naitons has now confirmed at least 127 deaths since last year's ceasefire.&lt;/p&gt;&lt;p&gt;And for the third consecutive season, North Melbourne and Brisbane will face off in the AFLW grand final - the Lions' seventh decider in the league's first 10 seasons.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106014514</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106014514</guid>
-      <pubDate>Fri, 28 Nov 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fd/Z/t9.mp3" length="35363183" type="audio/mpeg"/>
-      <itunes:duration>0:24:33</itunes:duration>
     </item>
   </channel>
 </rss>
