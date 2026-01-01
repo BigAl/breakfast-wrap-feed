@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Dec 2025 02:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 02:35:48 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia welcomes 2026</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026568</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026568</guid>
+      <pubDate>Thu, 01 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gb/Z/s7.mp3" length="61341120" type="audio/mpeg"/>
+      <itunes:duration>0:25:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Muslim Australians report abuse spike after Bondi attack</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Tue, 02 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fh/Z/if.mp3" length="35443247" type="audio/mpeg"/>
       <itunes:duration>0:24:36</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Will the government order an independent childcare review</title>
-      <description>&lt;p&gt;This year the ABC's Four Corners program exposed cases of child abuse and alleged child abuse, neglect, and injury within the childcare sector, highlighting critical gaps in safety and accountability.&lt;/p&gt;&lt;p&gt;The Productivity Commission recommended an independent review of national childcare standards, but the federal government is yet to commit to such a review.&lt;/p&gt;&lt;p&gt;Meanwhile, the federal opposition is gearing up for a new political fight on immigration.&lt;/p&gt;&lt;p&gt;Then overseas, Venezuela has condemned US President Donald Trump's latest warning about its airspace, after Mr Trump posted online that the skies around the country should be treated as closed.&lt;/p&gt;&lt;p&gt;We'll also find out about tension between Japan and China. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106023702</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106023702</guid>
-      <pubDate>Mon, 01 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fg/Z/d7.mp3" length="35728367" type="audio/mpeg"/>
-      <itunes:duration>0:24:48</itunes:duration>
     </item>
   </channel>
 </rss>
