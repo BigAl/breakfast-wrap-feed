@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2026 02:35:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 02:25:35 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australian injured in Swiss bar fire</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026732</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026732</guid>
+      <pubDate>Fri, 02 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gc/Z/hn.mp3" length="57164160" type="audio/mpeg"/>
+      <itunes:duration>0:23:29</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australia welcomes 2026</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Wed, 03 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fi/Z/s7.mp3" length="35139119" type="audio/mpeg"/>
       <itunes:duration>0:24:24</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: AI plan unveiled</title>
-      <description>&lt;p&gt;The federal government has released its National AI Plan, describing it &quot;comprehensive road-map&quot; to unlock the full potential of the technology for all Australians.&lt;/p&gt;&lt;p&gt;Then, according to the Australian Medical Association (AMA), misinformation, anti-science sentiments and vaccine fatigue have eroded the public's trust in vaccines.&lt;/p&gt;&lt;p&gt;And it's been described as one of the biggest reforms to defence in five decades, but why is not everyone sold on the government's latest change to defence procurement. &lt;/p&gt;&lt;p&gt;And why have farmers been pushing for 'right to repair' protections?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026548</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026548</guid>
-      <pubDate>Tue, 02 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fh/Z/if.mp3" length="35443247" type="audio/mpeg"/>
-      <itunes:duration>0:24:36</itunes:duration>
     </item>
   </channel>
 </rss>
