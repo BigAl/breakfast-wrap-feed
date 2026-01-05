@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jan 2026 02:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 02:36:55 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What could come next for Venezuela and Maduro?</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026552</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026552</guid>
+      <pubDate>Mon, 05 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ge/Z/3o.mp3" length="60295680" type="audio/mpeg"/>
+      <itunes:duration>0:25:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australian injured in Swiss bar fire</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Thu, 04 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fk/Z/20.mp3" length="56855040" type="audio/mpeg"/>
       <itunes:duration>0:23:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Teens flock to Lemon8 and Yope platforms</title>
-      <description>&lt;p&gt;The list of social media platforms banned for kids under 16 years old could grow ahead of next week's lockout.&lt;/p&gt;&lt;p&gt;The eSafety Commissioner has written to two platforms — Lemon8 and Yope — recommending they self-assess to determine if they fall under new laws that begin on December 10. &lt;/p&gt;&lt;p&gt;Then, more than 1300 people have been killed and hundreds of thousands displaced by devastating flooding and landslides across four countries in Asia in recent days.&lt;/p&gt;&lt;p&gt;And with the government's national road map for AI now public, how is the industry preparing to make the most of the windfall, specifically in regards to data centres. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026530</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026530</guid>
-      <pubDate>Wed, 03 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fi/Z/s7.mp3" length="35139119" type="audio/mpeg"/>
-      <itunes:duration>0:24:24</itunes:duration>
     </item>
   </channel>
 </rss>
