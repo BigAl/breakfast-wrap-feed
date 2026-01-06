@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 02:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 02:25:08 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Deposed Venezuelan leader Maduro fronts court</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026546</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026546</guid>
+      <pubDate>Tue, 06 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ge/Z/vp.mp3" length="56751360" type="audio/mpeg"/>
+      <itunes:duration>0:23:18</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What could come next for Venezuela and Maduro?</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -201,24 +210,6 @@
       <pubDate>Mon, 08 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fn/Z/rd.mp3" length="35334959" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australia receives AUKUS review from US</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026726</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026726</guid>
-      <pubDate>Fri, 05 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fl/Z/b3.mp3" length="56087040" type="audio/mpeg"/>
-      <itunes:duration>0:23:12</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australia's fresh commitment to Ukraine</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026682</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026682</guid>
-      <pubDate>Thu, 04 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fk/Z/20.mp3" length="56855040" type="audio/mpeg"/>
-      <itunes:duration>0:23:30</itunes:duration>
     </item>
   </channel>
 </rss>
