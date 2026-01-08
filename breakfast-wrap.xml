@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jan 2026 02:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 02:25:24 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: US seizes Venezuela-linked oil tankers</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026706</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026706</guid>
+      <pubDate>Thu, 08 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gg/Z/s5.mp3" length="67921920" type="audio/mpeg"/>
+      <itunes:duration>0:27:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Intense heatwave to bake Southern Australia</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Wed, 10 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fq/Z/e2.mp3" length="35320559" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The battle for Hollywood</title>
-      <description>&lt;p&gt;The battle for the future of Hollywood is heating up this morning after Paramount mounted a hostile bid worth US$108 billion for Warner Bros Discovery, just days after Netflix agreed to buy out the media giant.&lt;/p&gt;&lt;p&gt;Paramount says it's taking its bid straight to Warner Bros shareholders, asking them to reject the Netflix deal valued at more than US$70 billion. &lt;/p&gt;&lt;p&gt;Then, former deputy prime minister Barnaby Joyce has formally joined One Nation, after leaving the Nationals last month.The Member for New England intends to run on One Nation's Senate ticket for New South Wales at the next federal election.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026538</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026538</guid>
-      <pubDate>Tue, 09 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fp/Z/09.mp3" length="33661103" type="audio/mpeg"/>
-      <itunes:duration>0:23:22</itunes:duration>
     </item>
   </channel>
 </rss>
