@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 02:25:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 02:25:50 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: PM calls Bondi royal commission after weeks of pressure</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026550</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026550</guid>
+      <pubDate>Fri, 09 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gh/Z/qq.mp3" length="62677440" type="audio/mpeg"/>
+      <itunes:duration>0:26:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: US seizes Venezuela-linked oil tankers</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Thu, 11 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fr/Z/ng.mp3" length="35226095" type="audio/mpeg"/>
       <itunes:duration>0:24:27</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Social media ban comes into effect</title>
-      <description>&lt;p&gt;As Australia's social media ban for under-16s comes into effect, we hear from one of the leading advocates for the ban, and the federal Coalition. &lt;/p&gt;&lt;p&gt;A warning, this episode includes references to suicide and self-harm.&lt;/p&gt;&lt;p&gt;We feature an interview with Mia Bannister. She lost her son, Ollie, to suicide when he was 14 years old after sustained online bullying and an eating disorder, which she says was fuelled by social media algorithms.&lt;/p&gt;&lt;p&gt;Today, Mia will stand beside Prime Minister Anthony Albanese for the launch of the social media ban.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026566</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026566</guid>
-      <pubDate>Wed, 10 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fq/Z/e2.mp3" length="35320559" type="audio/mpeg"/>
-      <itunes:duration>0:24:31</itunes:duration>
     </item>
   </channel>
 </rss>
