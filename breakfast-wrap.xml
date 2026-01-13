@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 02:32:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 02:23:21 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Kevin Rudd steps down as US ambassador</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026532</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026532</guid>
+      <pubDate>Tue, 13 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gk/Z/qs.mp3" length="26404224" type="audio/mpeg"/>
+      <itunes:duration>0:26:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Victoria fires turn deadly as Iranian protests rage</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Mon, 15 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fv/Z/65.mp3" length="59537280" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: 2025 in sound</title>
-      <description>&lt;p&gt;The Breakfast Wrap takes a look back through the year in sound.&lt;/p&gt;&lt;p&gt;As Radio National Breakfast winds up regular programming for the year, our team has compiled the moments that made 2025&lt;/p&gt;&lt;p&gt;We'll also make sure you're across some of the news of the day. &lt;/p&gt;&lt;p&gt;And don't miss the Breakfast Wrap right across summer on the ABC Listen app, presented by Lexie Jeuniewic.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026564</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026564</guid>
-      <pubDate>Fri, 12 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/fs/Z/tr.mp3" length="34488239" type="audio/mpeg"/>
-      <itunes:duration>0:23:56</itunes:duration>
     </item>
   </channel>
 </rss>
