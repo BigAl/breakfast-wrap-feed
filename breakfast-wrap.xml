@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 02:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 02:26:46 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Concerns grow over gun and hate speech laws</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026730</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026730</guid>
+      <pubDate>Fri, 16 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/go/Z/87.mp3" length="26939520" type="audio/mpeg"/>
+      <itunes:duration>0:27:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Trump told killing of Iran protesters 'has stopped'</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Thu, 18 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g3/Z/gr.mp3" length="61362240" type="audio/mpeg"/>
       <itunes:duration>0:25:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Police probe Bondi gunmen's overseas links</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026540</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026540</guid>
-      <pubDate>Wed, 17 Dec 2025 07:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g1/Z/7s.mp3" length="57098880" type="audio/mpeg"/>
-      <itunes:duration>0:23:24</itunes:duration>
     </item>
   </channel>
 </rss>
