@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jan 2026 02:29:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 02:31:24 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The Coalition splits again</title>
+      <description>&lt;p&gt;We take you through the timeline of the second Coalition split since the election.&lt;/p&gt;&lt;p&gt;And we ask what role One Nation may have played in pressuring the Nationals, and whether more members may move to the conservative party. Former Nationals leader and One Nation convert is our guest. &lt;/p&gt;&lt;p&gt;Then, US President Donald Trump is dropping plans to add a 10 per cent tariff on goods from eight European countries over their opposition to his push to acquire Greenland. Treasurer Jim Chalmers shares the government's reaction. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220280</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220280</guid>
+      <pubDate>Thu, 22 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gt/Z/mp.mp3" length="34421423" type="audio/mpeg"/>
+      <itunes:duration>0:23:54</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Hate speech and gun law reforms pass parliament</title>
       <description>&lt;p&gt;The government's gun law reforms passed parliament yesterday, receiving support in the Senate from the Greens, while its hate laws passed with the support of the Liberal party.&lt;/p&gt;&lt;p&gt;Having failed to settle a joint position on the legislation, the Nationals opposed it when it reached the senate. We hear from the Government and the Greens. &lt;/p&gt;&lt;p&gt;Then an interview with the Chief of the Norwegian Defence Force, as Washington continues to push for a takeover of Greenland. &lt;/p&gt;&lt;p&gt;NATO military leaders are preparing for a scheduled meeting in Brussels this week, right as Denmark calls for a NATO mission in Greenland. &lt;/p&gt;&lt;p&gt;And we speak with the British politician pushing for the UK to adopt an Australian-style social media ban for under-16s.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -192,24 +201,6 @@
       <pubDate>Fri, 26 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g8/Z/av.mp3" length="63985920" type="audio/mpeg"/>
       <itunes:duration>0:26:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Gun, protest laws to tighten in NSW after Bondi attack</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026554</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026554</guid>
-      <pubDate>Wed, 24 Dec 2025 06:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g7/Z/a4.mp3" length="64527360" type="audio/mpeg"/>
-      <itunes:duration>0:26:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Will a domestic gas reserve lower energy bills?</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026542</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026542</guid>
-      <pubDate>Tue, 23 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g6/Z/gg.mp3" length="62505600" type="audio/mpeg"/>
-      <itunes:duration>0:25:30</itunes:duration>
     </item>
   </channel>
 </rss>
