@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jan 2026 02:31:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 02:27:26 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What is the future of NATO?</title>
+      <description>&lt;p&gt;Many are trying to gauge the future of the North Atlantic Treaty Organisation, so we're featuring two different perspectives. A former deputy NATO commander, and a former US envoy, who have different takes on the future of American involvement and what middle powers should be doing. &lt;/p&gt;&lt;p&gt;Then we'll dive back into federal politics and the split between the Nationals and Liberal party. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220282</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220282</guid>
+      <pubDate>Fri, 23 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gu/Z/sv.mp3" length="34950191" type="audio/mpeg"/>
+      <itunes:duration>0:24:16</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The Coalition splits again</title>
       <description>&lt;p&gt;We take you through the timeline of the second Coalition split since the election.&lt;/p&gt;&lt;p&gt;And we ask what role One Nation may have played in pressuring the Nationals, and whether more members may move to the conservative party. Former Nationals leader and One Nation convert is our guest. &lt;/p&gt;&lt;p&gt;Then, US President Donald Trump is dropping plans to add a 10 per cent tariff on goods from eight European countries over their opposition to his push to acquire Greenland. Treasurer Jim Chalmers shares the government's reaction. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
