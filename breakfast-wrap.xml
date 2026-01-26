@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jan 2026 02:27:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 02:38:26 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Minnesota politicians condemn second ICE killing</title>
+      <description>&lt;p&gt;There have been renewed protests and clashes with law enforcement in Minneapolis, after a man was shot dead by federal agents at the weekend. We hear from a Democratic State Senator as calls grow for ICE to leave the state. &lt;/p&gt;&lt;p&gt;Members of the federal Liberal and National parties have spent the weekend assessing the implications following another Coalition divorce. Deputy leader Ted O'Brien come on the program to back up his leader Sussan Ley. &lt;/p&gt;&lt;p&gt;And the Young Australian of the Year Nedd Brockman shares his vision to tackle homelessness. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220306</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220306</guid>
+      <pubDate>Mon, 26 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h1/Z/4l.mp3" length="35137967" type="audio/mpeg"/>
+      <itunes:duration>0:24:24</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What is the future of NATO?</title>
       <description>&lt;p&gt;Many are trying to gauge the future of the North Atlantic Treaty Organisation, so we're featuring two different perspectives. A former deputy NATO commander, and a former US envoy, who have different takes on the future of American involvement and what middle powers should be doing. &lt;/p&gt;&lt;p&gt;Then we'll dive back into federal politics and the split between the Nationals and Liberal party. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
