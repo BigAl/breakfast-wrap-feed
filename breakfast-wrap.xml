@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jan 2026 02:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 02:33:23 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Final hostage remains return to Israel</title>
+      <description>&lt;p&gt;The remains of the last Israeli hostage in Gaza are returned home, paving the way for progress on the US plan for the enclave. We hear from a former Israeli hostage negotiator turned peace activist. &lt;/p&gt;&lt;p&gt;Then, the dramatic end to the federal Liberal-National Coalition has the potential to reshape right-wing politics in Australia. While some are still working to get the Coalition back together, others say the break-up could lead to new opportunities for both parties.&lt;/p&gt;&lt;p&gt;Meanwhile we talk soaring temperatures, the energy grid and the Adelaide Writer's Festival with the South Australian Premier Peter Malinauskas. &lt;/p&gt;&lt;p&gt;And anti-vaping advocates say they have a program that could prevent problematic gambling behaviours in teenagers and young adults, and they're calling on the federal government to get behind it.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220258</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220258</guid>
+      <pubDate>Tue, 27 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h2/Z/4k.mp3" length="35261231" type="audio/mpeg"/>
+      <itunes:duration>0:24:29</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Minnesota politicians condemn second ICE killing</title>
       <description>&lt;p&gt;There have been renewed protests and clashes with law enforcement in Minneapolis, after a man was shot dead by federal agents at the weekend. We hear from a Democratic State Senator as calls grow for ICE to leave the state. &lt;/p&gt;&lt;p&gt;Members of the federal Liberal and National parties have spent the weekend assessing the implications following another Coalition divorce. Deputy leader Ted O'Brien come on the program to back up his leader Sussan Ley. &lt;/p&gt;&lt;p&gt;And the Young Australian of the Year Nedd Brockman shares his vision to tackle homelessness. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Mon, 29 Dec 2025 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g9/Z/nk.mp3" length="63079680" type="audio/mpeg"/>
       <itunes:duration>0:25:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Sydney to Hobart crews brace for rough seas</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026694</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026694</guid>
-      <pubDate>Fri, 26 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g8/Z/av.mp3" length="63985920" type="audio/mpeg"/>
-      <itunes:duration>0:26:00</itunes:duration>
     </item>
   </channel>
 </rss>
