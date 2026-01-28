@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 02:33:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 02:30:02 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Former ICE director questions agency's response</title>
+      <description>&lt;p&gt;US President Donald Trump says he wants an &quot;honourable and honest&quot; investigation into the killing of protester Alex Pretti by federal agents in Minneapolis. Mr Trump's so-called &quot;border tsar&quot; Tom Homan has arrived in Minneapolis to lead the immigration crackdown, replacing Border Patrol commander Gregory Bovino. The Breakfast Wrap speaks to a former director of ICE.&lt;/p&gt;&lt;p&gt;Then, former Prime Minister Scott Morrison has urged Muslim leaders to accredit preachers, to translate religious teachings into English and to clamp down on links to foreign Islamist groups. &lt;/p&gt;&lt;p&gt;On the program opposition front bencher Andrew Bragg supports the notion, saying that &quot;the Australian Muslim community has to take some responsibility for the behaviours we've seen exhibited over the last couple of decades&quot;.&lt;/p&gt;&lt;p&gt;And overseas, the political fallout continues in the UK, after former British home secretary Suella Braverman became the latest MP to defect from the Conservatives to join Nigel Farage's Reform UK party this week.Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106225670</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106225670</guid>
+      <pubDate>Wed, 28 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h3/Z/9s.mp3" length="33401327" type="audio/mpeg"/>
+      <itunes:duration>0:23:11</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Final hostage remains return to Israel</title>
       <description>&lt;p&gt;The remains of the last Israeli hostage in Gaza are returned home, paving the way for progress on the US plan for the enclave. We hear from a former Israeli hostage negotiator turned peace activist. &lt;/p&gt;&lt;p&gt;Then, the dramatic end to the federal Liberal-National Coalition has the potential to reshape right-wing politics in Australia. While some are still working to get the Coalition back together, others say the break-up could lead to new opportunities for both parties.&lt;/p&gt;&lt;p&gt;Meanwhile we talk soaring temperatures, the energy grid and the Adelaide Writer's Festival with the South Australian Premier Peter Malinauskas. &lt;/p&gt;&lt;p&gt;And anti-vaping advocates say they have a program that could prevent problematic gambling behaviours in teenagers and young adults, and they're calling on the federal government to get behind it.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -201,24 +210,6 @@
       <pubDate>Wed, 31 Dec 2025 07:30:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gb/Z/3s.mp3" length="60608640" type="audio/mpeg"/>
       <itunes:duration>0:25:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: PM resists calls for Bondi royal commission</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026680</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026680</guid>
-      <pubDate>Tue, 30 Dec 2025 07:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ga/Z/de.mp3" length="56520960" type="audio/mpeg"/>
-      <itunes:duration>0:23:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Bondi victims' families call for royal commission</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026686</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026686</guid>
-      <pubDate>Mon, 29 Dec 2025 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/g9/Z/nk.mp3" length="63079680" type="audio/mpeg"/>
-      <itunes:duration>0:25:30</itunes:duration>
     </item>
   </channel>
 </rss>
