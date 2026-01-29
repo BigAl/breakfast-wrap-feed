@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jan 2026 02:30:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 02:48:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The MP challenging the Nationals Leadership</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;&lt;p&gt;Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today.&lt;/p&gt;&lt;p&gt;Nationals backbencher Colin Boyce said he will move a spill motion to challenge David Littleproud for the leadership of the party next week.&lt;/p&gt;&lt;p&gt;Mr Littleproud says he's &quot;always respected&quot; the party room's &quot;decisions and direction&quot;, including &quot;the right to voice different opinions&quot; - and he stands by his record as Nationals leader. &lt;/p&gt;&lt;p&gt;Meanwhile, pressure on Opposition Leader Sussan Ley has intensified.&lt;/p&gt;&lt;p&gt;The two most likely leadership contenders - Andrew Hastie and Angus Taylor - aren't ruling out a tilt ahead of parliament resuming next week.&lt;/p&gt;&lt;p&gt;Turning to WA where authorities have confirmed they're investigating the alleged throwing of a bomb into a crowd at an Invasion Day rally in Perth as a &quot;potential terrorist act&quot;.&lt;/p&gt;&lt;p&gt;A 31-year old man has been charged with endangering lives or safety, and he's also been charged with making or possessing explosives under suspicious circumstances in connection with the Australia Day incident.&lt;/p&gt;&lt;p&gt;Overseas US President Donald Trump has signalled he wants to ease tensions in Minneapolis following the fatal shooting of American citizen Alex Pretti.&lt;/p&gt;&lt;p&gt;The killing of Mr Pretti has reignited local protests in Minneapolis and across the country, and comes just weeks after Renee Good was killed by an Immigration and Customs Enforcement official in the same city.Meanwhile a former senior lawyer says the latest investigation into the Minnesota governor and Minneapolis mayor is about shifting the focus of the events. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106228462</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106228462</guid>
+      <pubDate>Thu, 29 Jan 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h4/Z/do.mp3" length="34905846" type="audio/mpeg"/>
+      <itunes:duration>0:24:14</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Former ICE director questions agency's response</title>
       <description>&lt;p&gt;US President Donald Trump says he wants an &quot;honourable and honest&quot; investigation into the killing of protester Alex Pretti by federal agents in Minneapolis. Mr Trump's so-called &quot;border tsar&quot; Tom Homan has arrived in Minneapolis to lead the immigration crackdown, replacing Border Patrol commander Gregory Bovino. The Breakfast Wrap speaks to a former director of ICE.&lt;/p&gt;&lt;p&gt;Then, former Prime Minister Scott Morrison has urged Muslim leaders to accredit preachers, to translate religious teachings into English and to clamp down on links to foreign Islamist groups. &lt;/p&gt;&lt;p&gt;On the program opposition front bencher Andrew Bragg supports the notion, saying that &quot;the Australian Muslim community has to take some responsibility for the behaviours we've seen exhibited over the last couple of decades&quot;.&lt;/p&gt;&lt;p&gt;And overseas, the political fallout continues in the UK, after former British home secretary Suella Braverman became the latest MP to defect from the Conservatives to join Nigel Farage's Reform UK party this week.Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -201,15 +210,6 @@
       <pubDate>Thu, 01 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gb/Z/s7.mp3" length="61341120" type="audio/mpeg"/>
       <itunes:duration>0:25:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Muslim Australians report abuse spike after Bondi attack</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026534</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026534</guid>
-      <pubDate>Wed, 31 Dec 2025 07:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gb/Z/3s.mp3" length="60608640" type="audio/mpeg"/>
-      <itunes:duration>0:25:00</itunes:duration>
     </item>
   </channel>
 </rss>
