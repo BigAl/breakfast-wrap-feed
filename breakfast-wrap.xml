@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jan 2026 02:49:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 03:16:23 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Epstein survivors 'devastated' by leaked names</title>
+      <description>&lt;p&gt;Hear from the lawyer for some of the victims of convicted sex offender Jeffrey Epstein. &lt;/p&gt;&lt;p&gt;Gloria Allred says some her clients are devastated after their names were leaked in the latest batch of files released by the US Department of Justice.&lt;/p&gt;&lt;p&gt;Then, Nationals leader David Littleproud is widely expected to survive a leadership challenge brought by Queensland MP Colin Boyce.&lt;/p&gt;&lt;p&gt;And Opposition Leader Sussan Ley has appointed a temporary shadow ministry to fill roles vacated by the Nationals warning that she will permanently fill the positions if the coalition doesn't reunite within a week.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106243204</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106243204</guid>
+      <pubDate>Mon, 02 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h7/Z/m5.mp3" length="34964021" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Facing your would be-assassin</title>
       <description>&lt;p&gt;We hear from Iranian-American dissident and journalist Masih Alinejad after the sentencing of her would-be assassin in an American court. &lt;/p&gt;&lt;p&gt;Then we turn to the situation in Iran and the threats coming out of Washington. &lt;/p&gt;&lt;p&gt;Back home the Liberal and National parties woes continue. We hear from a Liberal standing by leader Sussan Ley. &lt;/p&gt;</description>
@@ -210,15 +219,6 @@
       <pubDate>Fri, 02 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gc/Z/hn.mp3" length="57164160" type="audio/mpeg"/>
       <itunes:duration>0:23:29</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australia welcomes 2026</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026568</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026568</guid>
-      <pubDate>Thu, 01 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gb/Z/s7.mp3" length="61341120" type="audio/mpeg"/>
-      <itunes:duration>0:25:30</itunes:duration>
     </item>
   </channel>
 </rss>
