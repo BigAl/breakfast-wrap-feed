@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 03:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 03:09:32 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What's the right response to an alleged attempted bombing?</title>
+      <description>&lt;p&gt;Independent Senator Lidia Thorpe has slammed the federal government's initial response to an alleged attempted bombing in Perth as &quot;very poor&quot;.&lt;/p&gt;&lt;p&gt;She will today pursue a motion in the Senate to condemn the alleged attack that is now being investigated as a potential terrorist attack.&lt;/p&gt;&lt;p&gt;Then, Liberal leader Sussan Ley and Nationals leader David Littleproud met last night to try and hash out the possibility of the Coalition reforming.&lt;/p&gt;&lt;p&gt;And as the reconciliation process continues, some polling shows One Nation's primary vote is outperforming the former Coalition parties. We'll hear from both parties, and ABC election analyst emeritus Antony Green. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106246230</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106246230</guid>
+      <pubDate>Tue, 03 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h8/Z/uq.mp3" length="34270518" type="audio/mpeg"/>
+      <itunes:duration>0:23:47</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Epstein survivors 'devastated' by leaked names</title>
       <description>&lt;p&gt;Hear from the lawyer for some of the victims of convicted sex offender Jeffrey Epstein. &lt;/p&gt;&lt;p&gt;Gloria Allred says some her clients are devastated after their names were leaked in the latest batch of files released by the US Department of Justice.&lt;/p&gt;&lt;p&gt;Then, Nationals leader David Littleproud is widely expected to survive a leadership challenge brought by Queensland MP Colin Boyce.&lt;/p&gt;&lt;p&gt;And Opposition Leader Sussan Ley has appointed a temporary shadow ministry to fill roles vacated by the Nationals warning that she will permanently fill the positions if the coalition doesn't reunite within a week.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
