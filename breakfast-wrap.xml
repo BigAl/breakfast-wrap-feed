@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 03:09:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 02:49:53 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The rate rise blame game</title>
+      <description>&lt;p&gt;With interest rates up once again, there are calls from the opposition and business for the government to lower spending, while experts say that's not the true culprit for rising inflation. &lt;/p&gt;&lt;p&gt;Today the Breakfast Wrap hears from a former policy advisor to the Prime Minister's office, as well as both sides of the political fence. &lt;/p&gt;&lt;p&gt;Then, NSW Police Commissioner Mal Lanyon has extended controversial restrictions on public assembly for another fortnight quoting &quot;significant risk to community safety&quot;. That period takes in a four-day visit from Israeli President Isaac Herzog who arrives on Sunday. &lt;/p&gt;&lt;p&gt;The NSW Opposition shares its perspective. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106248040</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106248040</guid>
+      <pubDate>Wed, 04 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ha/Z/59.mp3" length="11419584" type="audio/mpeg"/>
+      <itunes:duration>0:23:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What's the right response to an alleged attempted bombing?</title>
       <description>&lt;p&gt;Independent Senator Lidia Thorpe has slammed the federal government's initial response to an alleged attempted bombing in Perth as &quot;very poor&quot;.&lt;/p&gt;&lt;p&gt;She will today pursue a motion in the Senate to condemn the alleged attack that is now being investigated as a potential terrorist attack.&lt;/p&gt;&lt;p&gt;Then, Liberal leader Sussan Ley and Nationals leader David Littleproud met last night to try and hash out the possibility of the Coalition reforming.&lt;/p&gt;&lt;p&gt;And as the reconciliation process continues, some polling shows One Nation's primary vote is outperforming the former Coalition parties. We'll hear from both parties, and ABC election analyst emeritus Antony Green. &lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Mon, 05 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ge/Z/3o.mp3" length="60295680" type="audio/mpeg"/>
       <itunes:duration>0:25:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australian injured in Swiss bar fire</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026732</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026732</guid>
-      <pubDate>Fri, 02 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gc/Z/hn.mp3" length="57164160" type="audio/mpeg"/>
-      <itunes:duration>0:23:29</itunes:duration>
     </item>
   </channel>
 </rss>
