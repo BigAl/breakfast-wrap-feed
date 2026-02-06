@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Feb 2026 02:52:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 02:51:45 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: 'Terror act', the attempted bombing of a protest</title>
+      <description>&lt;p&gt;The attempted bombing of an Invasion Day rally in Perth last week has been declared a terrorist act.&lt;/p&gt;&lt;p&gt;The West Australian Premier Roger Cook says a 31-year-old man accused of throwing the homemade bomb has now been charged with 'engaging in a terrorist act'. We'll hear from Malarndirri McCarthy, the  Minister for Indigenous Australians.&lt;/p&gt;&lt;p&gt;Then, an interview with the US judge who ordered the release of a five year old boy and his father from immigration detention after they were detained by ICE. &lt;/p&gt;&lt;p&gt;And we'll finish up talking cryptocurrency as one of the largest platforms accusing Australian banks of stifling competition. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106256526</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106256526</guid>
+      <pubDate>Fri, 06 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hc/Z/fh.mp3" length="35203061" type="audio/mpeg"/>
+      <itunes:duration>0:24:26</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Should Australia arrest the Israeli president?</title>
       <description>&lt;p&gt;UN Commissioner Chris Sidoti is leading calls for Australia to arrest the President of Israel Isaac Herzog when he lands in the country this weekend. &lt;/p&gt;&lt;p&gt;Ahead of the visit, Mr Sidoti shares why he thinks Australia is obliged to act on the head of state's comments about Gaza. We'll get a response from the Foreign Minister Penny Wong and a senior Liberal shadow minister. &lt;/p&gt;&lt;p&gt;Then, the list of the world's rich and powerful who had alleged links to the late convicted sex offender Jeffrey Epstein is growing as journalists continue to sift through millions of unclassified documents released by the U-S government last week.&lt;/p&gt;&lt;p&gt;And what do you know about Claude AI? We'll find out why its rattled investors around the world. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Wed, 07 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gg/Z/14.mp3" length="48086016" type="audio/mpeg"/>
       <itunes:duration>0:25:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Deposed Venezuelan leader Maduro fronts court</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026546</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026546</guid>
-      <pubDate>Tue, 06 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ge/Z/vp.mp3" length="56751360" type="audio/mpeg"/>
-      <itunes:duration>0:23:18</itunes:duration>
     </item>
   </channel>
 </rss>
