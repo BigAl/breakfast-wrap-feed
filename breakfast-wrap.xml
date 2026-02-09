@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Feb 2026 02:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 03:17:33 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Coalition back together, again.</title>
+      <description>&lt;p&gt;The Coalition comes back together after a 17 day split, but a new Newspoll shows its primary vote at historic lows.&lt;/p&gt;&lt;p&gt;We hear from Liberal Shadow Minister James McGrath and Deputy Nationals Leader Kevin Hogan. &lt;/p&gt;&lt;p&gt;And we'll finish up with the story of Farm Angels, a part of the Changing Australia series. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-wrap-coalition-back-together-again/106268524</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-wrap-coalition-back-together-again/106268524</guid>
+      <pubDate>Mon, 09 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/he/Z/pk.mp3" length="11531904" type="audio/mpeg"/>
+      <itunes:duration>0:24:01</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: 'Terror act', the attempted bombing of a protest</title>
       <description>&lt;p&gt;The attempted bombing of an Invasion Day rally in Perth last week has been declared a terrorist act.&lt;/p&gt;&lt;p&gt;The West Australian Premier Roger Cook says a 31-year-old man accused of throwing the homemade bomb has now been charged with 'engaging in a terrorist act'. We'll hear from Malarndirri McCarthy, the  Minister for Indigenous Australians.&lt;/p&gt;&lt;p&gt;Then, an interview with the US judge who ordered the release of a five year old boy and his father from immigration detention after they were detained by ICE. &lt;/p&gt;&lt;p&gt;And we'll finish up talking cryptocurrency as one of the largest platforms accusing Australian banks of stifling competition. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Thu, 08 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gg/Z/s5.mp3" length="67921920" type="audio/mpeg"/>
       <itunes:duration>0:27:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Intense heatwave to bake Southern Australia</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026536</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026536</guid>
-      <pubDate>Wed, 07 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gg/Z/14.mp3" length="48086016" type="audio/mpeg"/>
-      <itunes:duration>0:25:00</itunes:duration>
     </item>
   </channel>
 </rss>
