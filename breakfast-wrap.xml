@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Feb 2026 03:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 03:24:53 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Scrutiny over NSW police protest response</title>
+      <description>&lt;p&gt;A NSW state politician claims she was &quot;beaten&quot; by police at a protest on Monday night demonstrating the Israeli president's visit.&lt;/p&gt;&lt;p&gt;We hear from Greens MP Abigail Boyd, and others in the crowd, as the Premier Chris Minns defends the response by NSW police. &lt;/p&gt;&lt;p&gt;Then, the son of jailed Hong Kong democracy activist Jimmy Lai speaks to Radio National Breakfast following the sentencing of his father to 20 years in jail. &lt;/p&gt;&lt;p&gt;And we break down the latest on the Epstein saga out of the UK, as King Charles wades in and PM Keir Starmer fends off political attacks. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106272136</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106272136</guid>
+      <pubDate>Tue, 10 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hf/Z/ta.mp3" length="35436341" type="audio/mpeg"/>
+      <itunes:duration>0:24:36</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Coalition back together, again.</title>
       <description>&lt;p&gt;The Coalition comes back together after a 17 day split, but a new Newspoll shows its primary vote at historic lows.&lt;/p&gt;&lt;p&gt;We hear from Liberal Shadow Minister James McGrath and Deputy Nationals Leader Kevin Hogan. &lt;/p&gt;&lt;p&gt;And we'll finish up with the story of Farm Angels, a part of the Changing Australia series. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
