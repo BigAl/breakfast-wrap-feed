@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Feb 2026 03:24:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 03:22:08 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Turnbull on social cohesion and Liberal leadership</title>
+      <description>&lt;p&gt;Today the Breakfast Wrap features an interview with former Australian Prime Minister Malcolm Turnbull, exploring two major stories. &lt;/p&gt;&lt;p&gt;We hear his response to protests in Sydney against the Israeli President's visit to Australia, and speculation of a leadership challenge in the Liberal Party. &lt;/p&gt;&lt;p&gt;Then, we follow his comments, hearing from the NSW government and the Deputy Foreign Minister to Israel Sharren Haskel. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/breakfast-wrap/106330470</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/breakfast-wrap/106330470</guid>
+      <pubDate>Wed, 11 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hh/Z/5s.mp3" length="11326080" type="audio/mpeg"/>
+      <itunes:duration>0:23:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Scrutiny over NSW police protest response</title>
       <description>&lt;p&gt;A NSW state politician claims she was &quot;beaten&quot; by police at a protest on Monday night demonstrating the Israeli president's visit.&lt;/p&gt;&lt;p&gt;We hear from Greens MP Abigail Boyd, and others in the crowd, as the Premier Chris Minns defends the response by NSW police. &lt;/p&gt;&lt;p&gt;Then, the son of jailed Hong Kong democracy activist Jimmy Lai speaks to Radio National Breakfast following the sentencing of his father to 20 years in jail. &lt;/p&gt;&lt;p&gt;And we break down the latest on the Epstein saga out of the UK, as King Charles wades in and PM Keir Starmer fends off political attacks. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Fri, 09 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gh/Z/qq.mp3" length="62677440" type="audio/mpeg"/>
       <itunes:duration>0:26:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: US seizes Venezuela-linked oil tankers</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026706</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026706</guid>
-      <pubDate>Thu, 08 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gg/Z/s5.mp3" length="67921920" type="audio/mpeg"/>
-      <itunes:duration>0:27:00</itunes:duration>
     </item>
   </channel>
 </rss>
