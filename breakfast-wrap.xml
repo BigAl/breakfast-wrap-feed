@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Feb 2026 03:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 03:17:48 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Liberal leadership challenge is on</title>
+      <description>&lt;p&gt;Start each day with comprehensive coverage and analysis of natHear fresh political analysis from Mel Clarke as Angus Taylor confirms  that he will challenge Sussan Ley for the Liberal leadership.&lt;/p&gt;&lt;p&gt;Several Liberal frontbenchers have resigned from their roles and a leadership vote could be held as soon as today.&lt;/p&gt;&lt;p&gt;Then, Muslim community leaders are calling for an apology over the actions of some police officers at Monday night's protests during the Israeli president's visit to Sydney.  &lt;/p&gt;&lt;p&gt;And more than 127 million people in Bangladesh are expected to vote today to pick the country's next leader and government, in what has been described as the first proper poll since 2008.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.ional and international events, and hear interviews with the people who matter today&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/liberal-leadership-challenge-is-on/106278072</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/liberal-leadership-challenge-is-on/106278072</guid>
+      <pubDate>Thu, 12 Feb 2026 10:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hi/Z/h4.mp3" length="35393135" type="audio/mpeg"/>
+      <itunes:duration>0:24:34</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Turnbull on social cohesion and Liberal leadership</title>
       <description>&lt;p&gt;Today the Breakfast Wrap features an interview with former Australian Prime Minister Malcolm Turnbull, exploring two major stories. &lt;/p&gt;&lt;p&gt;We hear his response to protests in Sydney against the Israeli President's visit to Australia, and speculation of a leadership challenge in the Liberal Party. &lt;/p&gt;&lt;p&gt;Then, we follow his comments, hearing from the NSW government and the Deputy Foreign Minister to Israel Sharren Haskel. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Mon, 12 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gj/Z/qk.mp3" length="25628160" type="audio/mpeg"/>
       <itunes:duration>0:26:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: PM calls Bondi royal commission after weeks of pressure</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026550</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026550</guid>
-      <pubDate>Fri, 09 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gh/Z/qq.mp3" length="62677440" type="audio/mpeg"/>
-      <itunes:duration>0:26:00</itunes:duration>
     </item>
   </channel>
 </rss>
