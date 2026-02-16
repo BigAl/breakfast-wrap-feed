@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Feb 2026 03:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 03:16:11 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why a US climate reversal 'is a very big deal'</title>
+      <description>&lt;p&gt;We hear from the former boss of the US EPA following the Trump administration removing a cornerstone of climate regulation.&lt;/p&gt;&lt;p&gt;Then, to federal politics. The Treasurer Jim Chalmers discusses some fo the early policy positions put foward by the new leadership of the Liberal Party. We also speak with the Vice President of the Liberal Party and the independent hoping to win Sussan's Ley's seat of Farrer. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106293802</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106293802</guid>
+      <pubDate>Mon, 16 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hm/Z/3h.mp3" length="35114351" type="audio/mpeg"/>
+      <itunes:duration>0:24:23</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Angus Taylor wins Liberal leadership</title>
       <description>&lt;p&gt;The Breakfast Wrap shares fresh analysis following Angus Taylor winning the Liberal leadership  34 votes to 17, with Jane Hume elected deputy.&lt;/p&gt;&lt;p&gt;Featuring commentary from Niki Savva and two Liberal politicians speaking before the vote, we try to understand the position the Liberal party is in and where they need to go now. &lt;/p&gt;&lt;p&gt;Then, its a big morning in parliament for other reasons.&lt;/p&gt;&lt;p&gt;It is18 years since the government's apology to the Stolen Generations. We feature an interview with the Aboriginal and Torres Strait Islander Social Justice Commissioner. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -227,15 +236,6 @@
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/rn-breakfast/106026702</guid>
       <pubDate>Wed, 14 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gl/Z/tf.mp3" length="25572864" type="audio/mpeg"/>
-      <itunes:duration>0:26:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Kevin Rudd steps down as US ambassador</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026532</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026532</guid>
-      <pubDate>Tue, 13 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gk/Z/qs.mp3" length="26404224" type="audio/mpeg"/>
       <itunes:duration>0:26:00</itunes:duration>
     </item>
   </channel>
