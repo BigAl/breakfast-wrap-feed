@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Feb 2026 03:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 03:10:24 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The search for Nancy Guthrie</title>
+      <description>&lt;p&gt;More than a fortnight after the kidnapping of an American TV personality's mother, we hear from a former FBI special agent about why this is such an unusual case. &lt;/p&gt;&lt;p&gt;Then, we head to Syria, for the latest on the IS-linked families trying to return to Australia. A journalist speaking to the families shares her insights. &lt;/p&gt;&lt;p&gt;And we question a Liberal politician over an alleged draft proposal to restrict migration from certain regions.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106294750</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106294750</guid>
+      <pubDate>Tue, 17 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hn/Z/b9.mp3" length="33940470" type="audio/mpeg"/>
+      <itunes:duration>0:23:34</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why a US climate reversal 'is a very big deal'</title>
       <description>&lt;p&gt;We hear from the former boss of the US EPA following the Trump administration removing a cornerstone of climate regulation.&lt;/p&gt;&lt;p&gt;Then, to federal politics. The Treasurer Jim Chalmers discusses some fo the early policy positions put foward by the new leadership of the Liberal Party. We also speak with the Vice President of the Liberal Party and the independent hoping to win Sussan's Ley's seat of Farrer. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Thu, 15 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gm/Z/vq.mp3" length="24462720" type="audio/mpeg"/>
       <itunes:duration>0:25:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Trump's message to Iranians as protests rage on</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/rn-breakfast/106026702</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/rn-breakfast/106026702</guid>
-      <pubDate>Wed, 14 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gl/Z/tf.mp3" length="25572864" type="audio/mpeg"/>
-      <itunes:duration>0:26:00</itunes:duration>
     </item>
   </channel>
 </rss>
