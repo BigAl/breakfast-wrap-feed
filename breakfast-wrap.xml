@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Feb 2026 03:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 03:13:55 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Government under pressure over return of IS-linked families</title>
+      <description>&lt;p&gt;An independent UN Commissioner has responded to PM Anthony Albanese's insistence that the Australian government will not help the families with links to Islamic State trying to return home from Syria. &lt;/p&gt;&lt;p&gt;Mr Albanese told the ABC this week that &quot;if you make your bed, you lie in it&quot;.&lt;/p&gt;&lt;p&gt;Independent UN Commissioner Fionnuala Ní Aoláin told Radio National Breakfast, &quot;&quot;these women are victims too, and their children are absolutely victims.&quot; &lt;/p&gt;&lt;p&gt;&quot;They didn't choose their beds, their beds were made for them.&quot;&lt;/p&gt;&lt;p&gt;Hear the extended interview in the Breakfast Wrap.&lt;/p&gt;&lt;p&gt;Then, we rememberr the life and legacy of the late Reverend Jesse Jackson, who's died at the age of 84. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106302360</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106302360</guid>
+      <pubDate>Wed, 18 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ho/Z/ik.mp3" length="35446127" type="audio/mpeg"/>
+      <itunes:duration>0:24:36</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The search for Nancy Guthrie</title>
       <description>&lt;p&gt;More than a fortnight after the kidnapping of an American TV personality's mother, we hear from a former FBI special agent about why this is such an unusual case. &lt;/p&gt;&lt;p&gt;Then, we head to Syria, for the latest on the IS-linked families trying to return to Australia. A journalist speaking to the families shares her insights. &lt;/p&gt;&lt;p&gt;And we question a Liberal politician over an alleged draft proposal to restrict migration from certain regions.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Fri, 16 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/go/Z/87.mp3" length="26939520" type="audio/mpeg"/>
       <itunes:duration>0:27:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Trump told killing of Iran protesters 'has stopped'</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026708</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026708</guid>
-      <pubDate>Thu, 15 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gm/Z/vq.mp3" length="24462720" type="audio/mpeg"/>
-      <itunes:duration>0:25:30</itunes:duration>
     </item>
   </channel>
 </rss>
