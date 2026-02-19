@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 03:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 03:12:09 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Pauline Hanson's Muslim comments condemned</title>
+      <description>&lt;p&gt;One Nation leader Pauline Hanson is facing widespread criticism this week for suggesting there were no good Muslims in Australia. &lt;/p&gt;&lt;p&gt;She has since issued a partial apology.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap we hear from the Muslim community in Western Sydney, and capture the political condemnation across the aisle. &lt;/p&gt;&lt;p&gt;Then, Australia's low debt status is being threatened; with the combination of federal and state debt heading towards levels not seen since World War Two. We'll get the latest analysis. &lt;/p&gt;&lt;p&gt;And the federal government has temporarily banned an Australian citizen with links to the Islamic State group from returning home from Syria. So for those who do return, what security measures are in place? &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106306986</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106306986</guid>
+      <pubDate>Thu, 19 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hp/Z/o8.mp3" length="35424245" type="audio/mpeg"/>
+      <itunes:duration>0:24:35</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Government under pressure over return of IS-linked families</title>
       <description>&lt;p&gt;An independent UN Commissioner has responded to PM Anthony Albanese's insistence that the Australian government will not help the families with links to Islamic State trying to return home from Syria. &lt;/p&gt;&lt;p&gt;Mr Albanese told the ABC this week that &quot;if you make your bed, you lie in it&quot;.&lt;/p&gt;&lt;p&gt;Independent UN Commissioner Fionnuala Ní Aoláin told Radio National Breakfast, &quot;&quot;these women are victims too, and their children are absolutely victims.&quot; &lt;/p&gt;&lt;p&gt;&quot;They didn't choose their beds, their beds were made for them.&quot;&lt;/p&gt;&lt;p&gt;Hear the extended interview in the Breakfast Wrap.&lt;/p&gt;&lt;p&gt;Then, we rememberr the life and legacy of the late Reverend Jesse Jackson, who's died at the age of 84. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
