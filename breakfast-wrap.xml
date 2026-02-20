@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 03:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 02:51:40 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Emily Maitlis on Andrew's arrest</title>
+      <description>&lt;p&gt;We cover the extraordinary news of the arrest of Andrew Mountbatten-Windsor with the journalist who once interviewed him. &lt;/p&gt;&lt;p&gt;The 2019 BBC Newsnight interview with the then Prince, was widely regarded as a car crash that would lead to Andrew's demise. &lt;/p&gt;&lt;p&gt;Emily Maitlis shares her shock at his arrest. &lt;/p&gt;&lt;p&gt;Then, we turn to Sudan as a UN probe finds atrocities committed bear the hallmarks of genocide. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106310922</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106310922</guid>
+      <pubDate>Fri, 20 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hr/Z/5r.mp3" length="35082677" type="audio/mpeg"/>
+      <itunes:duration>0:24:21</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Pauline Hanson's Muslim comments condemned</title>
       <description>&lt;p&gt;One Nation leader Pauline Hanson is facing widespread criticism this week for suggesting there were no good Muslims in Australia. &lt;/p&gt;&lt;p&gt;She has since issued a partial apology.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap we hear from the Muslim community in Western Sydney, and capture the political condemnation across the aisle. &lt;/p&gt;&lt;p&gt;Then, Australia's low debt status is being threatened; with the combination of federal and state debt heading towards levels not seen since World War Two. We'll get the latest analysis. &lt;/p&gt;&lt;p&gt;And the federal government has temporarily banned an Australian citizen with links to the Islamic State group from returning home from Syria. So for those who do return, what security measures are in place? &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 19 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gq/Z/e5.mp3" length="34410479" type="audio/mpeg"/>
       <itunes:duration>0:23:53</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Concerns grow over gun and hate speech laws</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026730</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106026730</guid>
-      <pubDate>Fri, 16 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/go/Z/87.mp3" length="26939520" type="audio/mpeg"/>
-      <itunes:duration>0:27:00</itunes:duration>
     </item>
   </channel>
 </rss>
