@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Feb 2026 02:51:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 03:16:15 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Four years of the war in Ukraine</title>
+      <description>&lt;p&gt;On the 24th of February 2022, after months of mounting tensions, Russian President Vladimir Putin launched an invasion of Ukraine.&lt;/p&gt;&lt;p&gt;Four years on and the invasion has become a war of attrition; as Ukraine fights to reclaim its territory from Russia.&lt;/p&gt;&lt;p&gt;We hear from the Ukrainian and European Ambassadors to Australia. &lt;/p&gt;&lt;p&gt;Then we turn to federal politics with National Party Leader David Littleproud. &lt;/p&gt;&lt;p&gt;We also return to two big international stories from last week, Sudan and the arrest of Andrew Mountbatten-Windsor. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106320120</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106320120</guid>
+      <pubDate>Mon, 23 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hu/Z/t3.mp3" length="35525621" type="audio/mpeg"/>
+      <itunes:duration>0:24:40</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Emily Maitlis on Andrew's arrest</title>
       <description>&lt;p&gt;We cover the extraordinary news of the arrest of Andrew Mountbatten-Windsor with the journalist who once interviewed him. &lt;/p&gt;&lt;p&gt;The 2019 BBC Newsnight interview with the then Prince, was widely regarded as a car crash that would lead to Andrew's demise. &lt;/p&gt;&lt;p&gt;Emily Maitlis shares her shock at his arrest. &lt;/p&gt;&lt;p&gt;Then, we turn to Sudan as a UN probe finds atrocities committed bear the hallmarks of genocide. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 20 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gr/Z/ft.mp3" length="11689152" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Could the chaos worsen in Minnesota?</title>
-      <description>&lt;p&gt;The Pentagon has reportedly ordered hundreds of active-duty U-S soldiers to prepare for a possible deployment to Minnesota following widespread protests at the weekend. We'll hear from a Democratic State Senator in Minneapolis. &lt;/p&gt;&lt;p&gt;Then, federal parliament returns today for an urgent sitting to respond to the Bondi terror attack, with the federal government forced to make major amendments to its proposed hate speech reforms.&lt;/p&gt;&lt;p&gt;EU ambassadors have held an urgent meeting after U-S President Donald Trump threatened to impose tariffs on opponents to his proposed Greenland takeover. A former Greenlandic politician in the Danish parliament who's been protesting Washington's advances shares their take. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106219698</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106219698</guid>
-      <pubDate>Mon, 19 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gq/Z/e5.mp3" length="34410479" type="audio/mpeg"/>
-      <itunes:duration>0:23:53</itunes:duration>
     </item>
   </channel>
 </rss>
