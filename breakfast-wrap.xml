@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 03:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 03:11:08 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia's role in removing Andrew from succession</title>
+      <description>&lt;p&gt;What role could Australia play in removing former prince Andrew from the &quot;royal batting lineup&quot;?&lt;/p&gt;&lt;p&gt;We get analysis from Tom Crowley and Anne Twomey following news that Prime Minister Anthony Albanese sent his British counterpart a letter confirming Australia would support the removal of Andrew Mountbatten-Windsor from the line of succession to the British throne.Mr Albanese has told the ABC he wants Australia to be the first to country to offer its support to the move. &lt;/p&gt;&lt;p&gt;Then, the federal government is under pressure from the opposition to do more to block the return of 34 Australians in Syria with links to the Islamic State terrorist group. &lt;/p&gt;&lt;p&gt;And there's a new wave of violence across Mexico today, after one of the world's most-wanted drug traffickers - the cartel boss known as El Mencho - was killed by security forces on Sunday.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106323172</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106323172</guid>
+      <pubDate>Tue, 24 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i0/Z/3i.mp3" length="34257263" type="audio/mpeg"/>
+      <itunes:duration>0:23:47</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Four years of the war in Ukraine</title>
       <description>&lt;p&gt;On the 24th of February 2022, after months of mounting tensions, Russian President Vladimir Putin launched an invasion of Ukraine.&lt;/p&gt;&lt;p&gt;Four years on and the invasion has become a war of attrition; as Ukraine fights to reclaim its territory from Russia.&lt;/p&gt;&lt;p&gt;We hear from the Ukrainian and European Ambassadors to Australia. &lt;/p&gt;&lt;p&gt;Then we turn to federal politics with National Party Leader David Littleproud. &lt;/p&gt;&lt;p&gt;We also return to two big international stories from last week, Sudan and the arrest of Andrew Mountbatten-Windsor. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Wed, 21 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gs/Z/kb.mp3" length="35188079" type="audio/mpeg"/>
       <itunes:duration>0:24:26</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Trump 'bullying' Europe says Danish politician</title>
-      <description>&lt;p&gt;European leaders have been rallying around Denmark in the face of US President Donald Trump's latest attempts to acquire Greenland.&lt;/p&gt;&lt;p&gt;Then, Federal Parliament is voting on the government's gun and hate speech reforms today - in the wake of last month's Bondi terror attack.&lt;/p&gt;&lt;p&gt;And less than three months after taking office, Japanese Prime Minister Sanae Takaichi says she will dissolve parliament and call a snap ⁠election.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106219664</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106219664</guid>
-      <pubDate>Tue, 20 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gr/Z/ft.mp3" length="11689152" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
     </item>
   </channel>
 </rss>
