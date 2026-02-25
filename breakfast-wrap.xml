@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Feb 2026 03:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 03:12:07 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why there's more UK Epstein fallout than in the US</title>
+      <description>&lt;p&gt;Why has the Epstein files lead to a more significant fallout in the UK, but not in the US?&lt;/p&gt;&lt;p&gt;In the UK, a former prince and a former ambassador face criminal investigations over their links to the late convicted sex offender Jeffrey Epstein, while a number of government officials have lost their jobs.&lt;/p&gt;&lt;p&gt;But in the US, prominent figures whose names come up thousands of times in the latest tranche of files - released by the US Department of Justice - remain unscathed.&lt;/p&gt;&lt;p&gt;We hear from the former White House ethics lawyer Richard Painter. &lt;/p&gt;&lt;p&gt;Then, we turn to the trial of Rodrigo Duterte at the International Criminal Court. &lt;/p&gt;&lt;p&gt;We cover the start of the Royal Commission into Antisemitism and Social Cohesion. &lt;/p&gt;&lt;p&gt;And ask why AI development is still outpacing regulation. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106329236</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106329236</guid>
+      <pubDate>Wed, 25 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i1/Z/be.mp3" length="35357429" type="audio/mpeg"/>
+      <itunes:duration>0:24:33</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australia's role in removing Andrew from succession</title>
       <description>&lt;p&gt;What role could Australia play in removing former prince Andrew from the &quot;royal batting lineup&quot;?&lt;/p&gt;&lt;p&gt;We get analysis from Tom Crowley and Anne Twomey following news that Prime Minister Anthony Albanese sent his British counterpart a letter confirming Australia would support the removal of Andrew Mountbatten-Windsor from the line of succession to the British throne.Mr Albanese has told the ABC he wants Australia to be the first to country to offer its support to the move. &lt;/p&gt;&lt;p&gt;Then, the federal government is under pressure from the opposition to do more to block the return of 34 Australians in Syria with links to the Islamic State terrorist group. &lt;/p&gt;&lt;p&gt;And there's a new wave of violence across Mexico today, after one of the world's most-wanted drug traffickers - the cartel boss known as El Mencho - was killed by security forces on Sunday.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 22 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gt/Z/mp.mp3" length="34421423" type="audio/mpeg"/>
       <itunes:duration>0:23:54</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Hate speech and gun law reforms pass parliament</title>
-      <description>&lt;p&gt;The government's gun law reforms passed parliament yesterday, receiving support in the Senate from the Greens, while its hate laws passed with the support of the Liberal party.&lt;/p&gt;&lt;p&gt;Having failed to settle a joint position on the legislation, the Nationals opposed it when it reached the senate. We hear from the Government and the Greens. &lt;/p&gt;&lt;p&gt;Then an interview with the Chief of the Norwegian Defence Force, as Washington continues to push for a takeover of Greenland. &lt;/p&gt;&lt;p&gt;NATO military leaders are preparing for a scheduled meeting in Brussels this week, right as Denmark calls for a NATO mission in Greenland. &lt;/p&gt;&lt;p&gt;And we speak with the British politician pushing for the UK to adopt an Australian-style social media ban for under-16s.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220292</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220292</guid>
-      <pubDate>Wed, 21 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gs/Z/kb.mp3" length="35188079" type="audio/mpeg"/>
-      <itunes:duration>0:24:26</itunes:duration>
     </item>
   </channel>
 </rss>
