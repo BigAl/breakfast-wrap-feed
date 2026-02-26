@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 03:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 02:51:38 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why is inflation so hot?</title>
+      <description>&lt;p&gt;Slightly higher than expected inflation in January has kept pressure on the Reserve Bank to inflict another interest rate hike and increased scrutiny of the federal government's economic management.&lt;/p&gt;&lt;p&gt;We'll unpack the latest figures and hear from the Treasurer and Shadow Treasurer. &lt;/p&gt;&lt;p&gt;Then, the Prime Minister is in hot water over comments he's made about a former Australian of the Year. &lt;/p&gt;&lt;p&gt;And debate is intensifying in Tasmania over the use of antibiotics in the salmon industry.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106330420</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106330420</guid>
+      <pubDate>Thu, 26 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i2/Z/hk.mp3" length="35282549" type="audio/mpeg"/>
+      <itunes:duration>0:24:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why there's more UK Epstein fallout than in the US</title>
       <description>&lt;p&gt;Why has the Epstein files lead to a more significant fallout in the UK, but not in the US?&lt;/p&gt;&lt;p&gt;In the UK, a former prince and a former ambassador face criminal investigations over their links to the late convicted sex offender Jeffrey Epstein, while a number of government officials have lost their jobs.&lt;/p&gt;&lt;p&gt;But in the US, prominent figures whose names come up thousands of times in the latest tranche of files - released by the US Department of Justice - remain unscathed.&lt;/p&gt;&lt;p&gt;We hear from the former White House ethics lawyer Richard Painter. &lt;/p&gt;&lt;p&gt;Then, we turn to the trial of Rodrigo Duterte at the International Criminal Court. &lt;/p&gt;&lt;p&gt;We cover the start of the Royal Commission into Antisemitism and Social Cohesion. &lt;/p&gt;&lt;p&gt;And ask why AI development is still outpacing regulation. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 23 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gu/Z/sv.mp3" length="34950191" type="audio/mpeg"/>
       <itunes:duration>0:24:16</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The Coalition splits again</title>
-      <description>&lt;p&gt;We take you through the timeline of the second Coalition split since the election.&lt;/p&gt;&lt;p&gt;And we ask what role One Nation may have played in pressuring the Nationals, and whether more members may move to the conservative party. Former Nationals leader and One Nation convert is our guest. &lt;/p&gt;&lt;p&gt;Then, US President Donald Trump is dropping plans to add a 10 per cent tariff on goods from eight European countries over their opposition to his push to acquire Greenland. Treasurer Jim Chalmers shares the government's reaction. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220280</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220280</guid>
-      <pubDate>Thu, 22 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gt/Z/mp.mp3" length="34421423" type="audio/mpeg"/>
-      <itunes:duration>0:23:54</itunes:duration>
     </item>
   </channel>
 </rss>
