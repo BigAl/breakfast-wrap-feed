@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Feb 2026 02:51:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 02:49:23 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Defining gambling harm as a public health risk</title>
+      <description>&lt;p&gt;When federal parliament returns, the Independent Member for Kooyong will introduce a private member's bill to officially define gambling harm as a risk to public health.&lt;/p&gt;&lt;p&gt;Today we hear from Monique Ryan. &lt;/p&gt;&lt;p&gt;Then,  journalists are raising concerns that some Epstein documents have been withheld, some relating to a woman's allegations of abuse levelled at the current US President Donald Trump. One of those journalists shares their reporting with the Breakfast Wrap. &lt;/p&gt;&lt;p&gt;And the Tasmanian salmon industry has until Monday to prove to the federal regulator it should be allowed to continue using the antibiotic florfenicol to treat diseased fish stock, or risk having their emergency permits revoked.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106339222</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106339222</guid>
+      <pubDate>Fri, 27 Feb 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i3/Z/m8.mp3" length="35184623" type="audio/mpeg"/>
+      <itunes:duration>0:24:25</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why is inflation so hot?</title>
       <description>&lt;p&gt;Slightly higher than expected inflation in January has kept pressure on the Reserve Bank to inflict another interest rate hike and increased scrutiny of the federal government's economic management.&lt;/p&gt;&lt;p&gt;We'll unpack the latest figures and hear from the Treasurer and Shadow Treasurer. &lt;/p&gt;&lt;p&gt;Then, the Prime Minister is in hot water over comments he's made about a former Australian of the Year. &lt;/p&gt;&lt;p&gt;And debate is intensifying in Tasmania over the use of antibiotics in the salmon industry.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 26 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h1/Z/4l.mp3" length="35137967" type="audio/mpeg"/>
       <itunes:duration>0:24:24</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What is the future of NATO?</title>
-      <description>&lt;p&gt;Many are trying to gauge the future of the North Atlantic Treaty Organisation, so we're featuring two different perspectives. A former deputy NATO commander, and a former US envoy, who have different takes on the future of American involvement and what middle powers should be doing. &lt;/p&gt;&lt;p&gt;Then we'll dive back into federal politics and the split between the Nationals and Liberal party. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220282</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220282</guid>
-      <pubDate>Fri, 23 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/gu/Z/sv.mp3" length="34950191" type="audio/mpeg"/>
-      <itunes:duration>0:24:16</itunes:duration>
     </item>
   </channel>
 </rss>
