@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Feb 2026 02:49:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 02:51:33 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Israel and America wage war in Iran</title>
+      <description>&lt;p&gt;As the US and Israel wage war in Iran, we hear from voices in the region, the Iranian diaspora in Australia, analysts looking at the future of the Iranian regime and the involvement of American allies like the UK and Australia. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106341152</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106341152</guid>
+      <pubDate>Mon, 02 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i6/Z/d5.mp3" length="34273974" type="audio/mpeg"/>
+      <itunes:duration>0:23:48</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Defining gambling harm as a public health risk</title>
       <description>&lt;p&gt;When federal parliament returns, the Independent Member for Kooyong will introduce a private member's bill to officially define gambling harm as a risk to public health.&lt;/p&gt;&lt;p&gt;Today we hear from Monique Ryan. &lt;/p&gt;&lt;p&gt;Then,  journalists are raising concerns that some Epstein documents have been withheld, some relating to a woman's allegations of abuse levelled at the current US President Donald Trump. One of those journalists shares their reporting with the Breakfast Wrap. &lt;/p&gt;&lt;p&gt;And the Tasmanian salmon industry has until Monday to prove to the federal regulator it should be allowed to continue using the antibiotic florfenicol to treat diseased fish stock, or risk having their emergency permits revoked.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,24 +237,6 @@
       <pubDate>Wed, 28 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h3/Z/9s.mp3" length="33401327" type="audio/mpeg"/>
       <itunes:duration>0:23:11</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Final hostage remains return to Israel</title>
-      <description>&lt;p&gt;The remains of the last Israeli hostage in Gaza are returned home, paving the way for progress on the US plan for the enclave. We hear from a former Israeli hostage negotiator turned peace activist. &lt;/p&gt;&lt;p&gt;Then, the dramatic end to the federal Liberal-National Coalition has the potential to reshape right-wing politics in Australia. While some are still working to get the Coalition back together, others say the break-up could lead to new opportunities for both parties.&lt;/p&gt;&lt;p&gt;Meanwhile we talk soaring temperatures, the energy grid and the Adelaide Writer's Festival with the South Australian Premier Peter Malinauskas. &lt;/p&gt;&lt;p&gt;And anti-vaping advocates say they have a program that could prevent problematic gambling behaviours in teenagers and young adults, and they're calling on the federal government to get behind it.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220258</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220258</guid>
-      <pubDate>Tue, 27 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h2/Z/4k.mp3" length="35261231" type="audio/mpeg"/>
-      <itunes:duration>0:24:29</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Minnesota politicians condemn second ICE killing</title>
-      <description>&lt;p&gt;There have been renewed protests and clashes with law enforcement in Minneapolis, after a man was shot dead by federal agents at the weekend. We hear from a Democratic State Senator as calls grow for ICE to leave the state. &lt;/p&gt;&lt;p&gt;Members of the federal Liberal and National parties have spent the weekend assessing the implications following another Coalition divorce. Deputy leader Ted O'Brien come on the program to back up his leader Sussan Ley. &lt;/p&gt;&lt;p&gt;And the Young Australian of the Year Nedd Brockman shares his vision to tackle homelessness. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220306</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106220306</guid>
-      <pubDate>Mon, 26 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h1/Z/4l.mp3" length="35137967" type="audio/mpeg"/>
-      <itunes:duration>0:24:24</itunes:duration>
     </item>
   </channel>
 </rss>
