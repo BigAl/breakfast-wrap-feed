@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 02:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 03:11:37 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Is the war in Iran legal?</title>
+      <description>&lt;p&gt;The British PM Keir Starmer has defended Britain's non-involvement in the strikes on Iran, by pointing to needing a sound legal basis for doing so. The question whether the joint US-Israeli strikes on Iran are legal under international law has been side-stepped by Australian political leaders.&lt;/p&gt;&lt;p&gt;Much of the international legal community questions the American argument that it was done pre-emptively, to defend against any potential Iranian aggression. &lt;/p&gt;&lt;p&gt;Onthe Breakfast Wrap we hear from an international legal scholar, the former British Ambassador to Iran and the Australian government. &lt;/p&gt;&lt;p&gt;Then, a few days into this conflict, Dr Kylie Moore-Gilbert shares her shock at the start of hostilities and the death of the Ayatollah. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106341134</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106341134</guid>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i7/Z/kh.mp3" length="35334959" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Israel and America wage war in Iran</title>
       <description>&lt;p&gt;As the US and Israel wage war in Iran, we hear from voices in the region, the Iranian diaspora in Australia, analysts looking at the future of the Iranian regime and the involvement of American allies like the UK and Australia. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Thu, 29 Jan 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h4/Z/do.mp3" length="34905846" type="audio/mpeg"/>
       <itunes:duration>0:24:14</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Former ICE director questions agency's response</title>
-      <description>&lt;p&gt;US President Donald Trump says he wants an &quot;honourable and honest&quot; investigation into the killing of protester Alex Pretti by federal agents in Minneapolis. Mr Trump's so-called &quot;border tsar&quot; Tom Homan has arrived in Minneapolis to lead the immigration crackdown, replacing Border Patrol commander Gregory Bovino. The Breakfast Wrap speaks to a former director of ICE.&lt;/p&gt;&lt;p&gt;Then, former Prime Minister Scott Morrison has urged Muslim leaders to accredit preachers, to translate religious teachings into English and to clamp down on links to foreign Islamist groups. &lt;/p&gt;&lt;p&gt;On the program opposition front bencher Andrew Bragg supports the notion, saying that &quot;the Australian Muslim community has to take some responsibility for the behaviours we've seen exhibited over the last couple of decades&quot;.&lt;/p&gt;&lt;p&gt;And overseas, the political fallout continues in the UK, after former British home secretary Suella Braverman became the latest MP to defect from the Conservatives to join Nigel Farage's Reform UK party this week.Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106225670</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106225670</guid>
-      <pubDate>Wed, 28 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h3/Z/9s.mp3" length="33401327" type="audio/mpeg"/>
-      <itunes:duration>0:23:11</itunes:duration>
     </item>
   </channel>
 </rss>
