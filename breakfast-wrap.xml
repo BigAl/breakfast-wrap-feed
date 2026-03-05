@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 02:48:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 02:50:14 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The escalation trap</title>
+      <description>&lt;p&gt;As the US talks about expanding its bombing campaign in Iran, and the regime continues to retaliate, is there a point where this war can stop or will it continue to escalate? &lt;/p&gt;&lt;p&gt;We hear from a former Obama advisor about the cycle of escalation, and why he doesn't think the US topple the regime from the air alone. &lt;/p&gt;&lt;p&gt;We also hear from former Trump National Security Advisor John Bolton. &lt;/p&gt;&lt;p&gt;Then, a story you wouldn't expect on the Breakfast Wrap - we dive into the Kyle and Jackie O saga, with the former host of Media Watch Paul Barry. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106346058</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106346058</guid>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ia/Z/4t.mp3" length="35285999" type="audio/mpeg"/>
+      <itunes:duration>0:24:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The future role of middle powers</title>
       <description>&lt;p&gt;We hear from a senior Canadian Minister about the role of middle powers like Canada and Australia, as the Canadian PM lands in the country for an official visit. &lt;/p&gt;&lt;p&gt;PM Mark Carney is riding high following his Davos speech where he pushed for middle powers to stand together. &lt;/p&gt;&lt;p&gt;It comes as some question the viability of the global rules based order. We hear from senior Liberal Andrew Hastie who thinks it is no more. &lt;/p&gt;&lt;p&gt;Then, developments in Iran: Evan Lucas shares analysis about the oil price and the Strait of Hormuz. &lt;/p&gt;&lt;p&gt;And the former head of nuclear verification at the international nuclear watchdog counters claims from Donald Trump about Iran's nuclear program. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Mon, 02 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h7/Z/m5.mp3" length="34964021" type="audio/mpeg"/>
       <itunes:duration>0:24:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Facing your would be-assassin</title>
-      <description>&lt;p&gt;We hear from Iranian-American dissident and journalist Masih Alinejad after the sentencing of her would-be assassin in an American court. &lt;/p&gt;&lt;p&gt;Then we turn to the situation in Iran and the threats coming out of Washington. &lt;/p&gt;&lt;p&gt;Back home the Liberal and National parties woes continue. We hear from a Liberal standing by leader Sussan Ley. &lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106232528</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106232528</guid>
-      <pubDate>Fri, 30 Jan 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/h5/Z/f4.mp3" length="35367798" type="audio/mpeg"/>
-      <itunes:duration>0:24:33</itunes:duration>
     </item>
   </channel>
 </rss>
