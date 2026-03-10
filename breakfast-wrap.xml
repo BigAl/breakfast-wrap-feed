@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 03:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 02:47:34 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Iranian soccer players granted asylum</title>
+      <description>&lt;p&gt;The federal government has confirmed five Iranian football players will remain in Australia after seeking asylum.&lt;/p&gt;&lt;p&gt;Home Affairs Minister, Tony Burke, says he met with the women last night and told them they were &quot;welcome to stay in Australia&quot;.&lt;/p&gt;&lt;p&gt;It follows US President Donald Trump confirming on social media overnight that he had spoken to Prime Minister Anthony Albanese about the team, and that he was quote &quot;on it&quot;.&lt;/p&gt;&lt;p&gt;Then, the fallout from the war continues, with at least one Australian bank predicting inflation above the RBA's target band if oil price surges don't subside. &lt;/p&gt;&lt;p&gt;And we also turn to the flooding situation in Katherine and the concern about crocodiles in floodwaters. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106366224</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106366224</guid>
+      <pubDate>Tue, 10 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/if/Z/71.mp3" length="34881071" type="audio/mpeg"/>
+      <itunes:duration>0:24:13</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The dilemma facing the Iranian soccer team</title>
       <description>&lt;p&gt;Iran wrapped up its Women Asian Cup run with a two-nil loss to the Philippines on the Gold Coast last night, but there are grave concerns over what happens to the players now.&lt;/p&gt;&lt;p&gt;The players' decision not to sing the national anthem before a match last week prompted an angry rebuke on Iranian state television; with one presenter saying, &quot;in times of war, traitors must be dealt with more harshly&quot;.&lt;/p&gt;&lt;p&gt;Human rights groups are now worried the players face severe punishment if they return home.&lt;/p&gt;&lt;p&gt;Then, we hear from the former Lebanese Health Minister about Israel's latest strikes in Beirut. &lt;/p&gt;&lt;p&gt;And the E-Safety Commissioner discusses the latest online safety code.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Thu, 05 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hb/Z/8u.mp3" length="34545845" type="audio/mpeg"/>
       <itunes:duration>0:23:59</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The rate rise blame game</title>
-      <description>&lt;p&gt;With interest rates up once again, there are calls from the opposition and business for the government to lower spending, while experts say that's not the true culprit for rising inflation. &lt;/p&gt;&lt;p&gt;Today the Breakfast Wrap hears from a former policy advisor to the Prime Minister's office, as well as both sides of the political fence. &lt;/p&gt;&lt;p&gt;Then, NSW Police Commissioner Mal Lanyon has extended controversial restrictions on public assembly for another fortnight quoting &quot;significant risk to community safety&quot;. That period takes in a four-day visit from Israeli President Isaac Herzog who arrives on Sunday. &lt;/p&gt;&lt;p&gt;The NSW Opposition shares its perspective. &lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106248040</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106248040</guid>
-      <pubDate>Wed, 04 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ha/Z/59.mp3" length="11419584" type="audio/mpeg"/>
-      <itunes:duration>0:23:00</itunes:duration>
     </item>
   </channel>
 </rss>
