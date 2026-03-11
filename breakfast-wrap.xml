@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 02:47:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 02:47:10 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Is Australia at war?</title>
+      <description>&lt;p&gt;Australia has been drawn further into the escalating Middle East conflict, with a military surveillance plane and 85 personnel deployed to the United Arab Emirates to help defend the nation from Iranian drone attacks.&lt;/p&gt;&lt;p&gt;The government says it amounts to &quot;defensive&quot; help for the UAE and troops won't take &quot;offensive&quot; action against Iran, but does it mean Australia is now at war?&lt;/p&gt;&lt;p&gt;We ask the Foreign Minister Penny Wong and hear from the Greens. &lt;/p&gt;&lt;p&gt;Then, is the escalating conflict in the Middle East the first AI war? We hear from an expert tracking how artificial intelligence is being used across the conflict. &lt;/p&gt;&lt;p&gt;And the Nationals have a new leader after the surprise resignation of David Littleproud - those details on the Wrap.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106371320</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106371320</guid>
+      <pubDate>Wed, 11 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ig/Z/hi.mp3" length="34978421" type="audio/mpeg"/>
+      <itunes:duration>0:24:17</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Iranian soccer players granted asylum</title>
       <description>&lt;p&gt;The federal government has confirmed five Iranian football players will remain in Australia after seeking asylum.&lt;/p&gt;&lt;p&gt;Home Affairs Minister, Tony Burke, says he met with the women last night and told them they were &quot;welcome to stay in Australia&quot;.&lt;/p&gt;&lt;p&gt;It follows US President Donald Trump confirming on social media overnight that he had spoken to Prime Minister Anthony Albanese about the team, and that he was quote &quot;on it&quot;.&lt;/p&gt;&lt;p&gt;Then, the fallout from the war continues, with at least one Australian bank predicting inflation above the RBA's target band if oil price surges don't subside. &lt;/p&gt;&lt;p&gt;And we also turn to the flooding situation in Katherine and the concern about crocodiles in floodwaters. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Fri, 06 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hc/Z/fh.mp3" length="35203061" type="audio/mpeg"/>
       <itunes:duration>0:24:26</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Should Australia arrest the Israeli president?</title>
-      <description>&lt;p&gt;UN Commissioner Chris Sidoti is leading calls for Australia to arrest the President of Israel Isaac Herzog when he lands in the country this weekend. &lt;/p&gt;&lt;p&gt;Ahead of the visit, Mr Sidoti shares why he thinks Australia is obliged to act on the head of state's comments about Gaza. We'll get a response from the Foreign Minister Penny Wong and a senior Liberal shadow minister. &lt;/p&gt;&lt;p&gt;Then, the list of the world's rich and powerful who had alleged links to the late convicted sex offender Jeffrey Epstein is growing as journalists continue to sift through millions of unclassified documents released by the U-S government last week.&lt;/p&gt;&lt;p&gt;And what do you know about Claude AI? We'll find out why its rattled investors around the world. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106252454</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106252454</guid>
-      <pubDate>Thu, 05 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hb/Z/8u.mp3" length="34545845" type="audio/mpeg"/>
-      <itunes:duration>0:23:59</itunes:duration>
     </item>
   </channel>
 </rss>
