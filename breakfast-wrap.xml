@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 02:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 02:52:30 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Ex-spy chief quits Bondi royal commission</title>
+      <description>&lt;p&gt;Dennis Richardson has explained the reasons for his shock resignation from the Royal Commission on Antisemitism and Social Cohesion, saying he felt he was &quot;surplus to requirements&quot; and &quot;grossly overpaid&quot;. &lt;/p&gt;&lt;p&gt;We play his first broadcast interview on the matter on the Breakfast Wrap and get a response from the federal opposition. &lt;/p&gt;&lt;p&gt;Then we speak with the investigative outlet Bellingcat, who's been looking into the deadly strike on a school in Iran. It comes as the New York Times reports on an ongoing military investigation that now blames the US for the strike. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106372904</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106372904</guid>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ih/Z/mv.mp3" length="34716911" type="audio/mpeg"/>
+      <itunes:duration>0:24:06</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Is Australia at war?</title>
       <description>&lt;p&gt;Australia has been drawn further into the escalating Middle East conflict, with a military surveillance plane and 85 personnel deployed to the United Arab Emirates to help defend the nation from Iranian drone attacks.&lt;/p&gt;&lt;p&gt;The government says it amounts to &quot;defensive&quot; help for the UAE and troops won't take &quot;offensive&quot; action against Iran, but does it mean Australia is now at war?&lt;/p&gt;&lt;p&gt;We ask the Foreign Minister Penny Wong and hear from the Greens. &lt;/p&gt;&lt;p&gt;Then, is the escalating conflict in the Middle East the first AI war? We hear from an expert tracking how artificial intelligence is being used across the conflict. &lt;/p&gt;&lt;p&gt;And the Nationals have a new leader after the surprise resignation of David Littleproud - those details on the Wrap.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,24 +228,6 @@
       <pubDate>Tue, 10 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hf/Z/ta.mp3" length="35436341" type="audio/mpeg"/>
       <itunes:duration>0:24:36</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Coalition back together, again.</title>
-      <description>&lt;p&gt;The Coalition comes back together after a 17 day split, but a new Newspoll shows its primary vote at historic lows.&lt;/p&gt;&lt;p&gt;We hear from Liberal Shadow Minister James McGrath and Deputy Nationals Leader Kevin Hogan. &lt;/p&gt;&lt;p&gt;And we'll finish up with the story of Farm Angels, a part of the Changing Australia series. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-wrap-coalition-back-together-again/106268524</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-wrap-coalition-back-together-again/106268524</guid>
-      <pubDate>Mon, 09 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/he/Z/pk.mp3" length="11531904" type="audio/mpeg"/>
-      <itunes:duration>0:24:01</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: 'Terror act', the attempted bombing of a protest</title>
-      <description>&lt;p&gt;The attempted bombing of an Invasion Day rally in Perth last week has been declared a terrorist act.&lt;/p&gt;&lt;p&gt;The West Australian Premier Roger Cook says a 31-year-old man accused of throwing the homemade bomb has now been charged with 'engaging in a terrorist act'. We'll hear from Malarndirri McCarthy, the  Minister for Indigenous Australians.&lt;/p&gt;&lt;p&gt;Then, an interview with the US judge who ordered the release of a five year old boy and his father from immigration detention after they were detained by ICE. &lt;/p&gt;&lt;p&gt;And we'll finish up talking cryptocurrency as one of the largest platforms accusing Australian banks of stifling competition. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106256526</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106256526</guid>
-      <pubDate>Fri, 06 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hc/Z/fh.mp3" length="35203061" type="audio/mpeg"/>
-      <itunes:duration>0:24:26</itunes:duration>
     </item>
   </channel>
 </rss>
