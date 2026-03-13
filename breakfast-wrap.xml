@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 02:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 02:49:43 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Ex-US defence specialist questions Iran strikes</title>
+      <description>&lt;p&gt;We hear from the man who once ran the Pentagon's civilian protection department, tasked with providing guidance on strikes and investigating killings in war.  &lt;/p&gt;&lt;p&gt;He is accusing the Trump administration of failing to protect civilians in its bombardment of Iran, as the military investigates a strike on an Iranian school, which left more than 160 people dead, most of them children&lt;/p&gt;&lt;p&gt;Then a former advisor on Iran to both Presidents Biden and Trump discusses the future of the war. &lt;/p&gt;&lt;p&gt;And we hear about the domestic impacts, as One Nation MP Barnaby Joyce shares frustrations over the supply of petrol.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106374556</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106374556</guid>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ii/Z/vd.mp3" length="35032559" type="audio/mpeg"/>
+      <itunes:duration>0:24:19</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Ex-spy chief quits Bondi royal commission</title>
       <description>&lt;p&gt;Dennis Richardson has explained the reasons for his shock resignation from the Royal Commission on Antisemitism and Social Cohesion, saying he felt he was &quot;surplus to requirements&quot; and &quot;grossly overpaid&quot;. &lt;/p&gt;&lt;p&gt;We play his first broadcast interview on the matter on the Breakfast Wrap and get a response from the federal opposition. &lt;/p&gt;&lt;p&gt;Then we speak with the investigative outlet Bellingcat, who's been looking into the deadly strike on a school in Iran. It comes as the New York Times reports on an ongoing military investigation that now blames the US for the strike. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -59,7 +68,7 @@
       <itunes:duration>0:24:20</itunes:duration>
     </item>
     <item>
-      <title>Breakast Wrap: Israeli Ambassador defends widening of Iran war</title>
+      <title>Breafkast Wrap: Israeli Ambassador defends widening of Iran war</title>
       <description>&lt;p&gt;As the Middle East conflict intensifies, Israel has issued a mass evacuation warning for the southern suburbs of Beirut, with thousands of residents fleeing the region.&lt;/p&gt;&lt;p&gt;We get the latest from Beirut, and hear from the new Israeli Ambassador to Australia. &lt;/p&gt;&lt;p&gt;Then, Tracey Holmes explains the pressure on the Iranian womens football team from the regime as they compete in a tournament in Australia. &lt;/p&gt;&lt;p&gt;We also cross to Milan ahead of the Paralympic games beginning this weekend and feature a live musical performance at the end. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
       <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106347728</link>
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106347728</guid>
@@ -219,15 +228,6 @@
       <pubDate>Wed, 11 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hh/Z/5s.mp3" length="11326080" type="audio/mpeg"/>
       <itunes:duration>0:23:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Scrutiny over NSW police protest response</title>
-      <description>&lt;p&gt;A NSW state politician claims she was &quot;beaten&quot; by police at a protest on Monday night demonstrating the Israeli president's visit.&lt;/p&gt;&lt;p&gt;We hear from Greens MP Abigail Boyd, and others in the crowd, as the Premier Chris Minns defends the response by NSW police. &lt;/p&gt;&lt;p&gt;Then, the son of jailed Hong Kong democracy activist Jimmy Lai speaks to Radio National Breakfast following the sentencing of his father to 20 years in jail. &lt;/p&gt;&lt;p&gt;And we break down the latest on the Epstein saga out of the UK, as King Charles wades in and PM Keir Starmer fends off political attacks. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106272136</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106272136</guid>
-      <pubDate>Tue, 10 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hf/Z/ta.mp3" length="35436341" type="audio/mpeg"/>
-      <itunes:duration>0:24:36</itunes:duration>
     </item>
   </channel>
 </rss>
