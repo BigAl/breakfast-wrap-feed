@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 03:31:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:52:14 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The state of the Strait</title>
+      <description>&lt;p&gt;We'll hear from the boss of the United Nations' International Maritime Organisation (IMO) ahead of body holding an extraordinary session to address the escalating crisis in the Gulf.&lt;/p&gt;&lt;p&gt;We'll also get the perspective of a former Iranian Ambassador. &lt;/p&gt;&lt;p&gt;And hear the latest on the South Australian election with the state opposition, as it faces a challenge from One Nation.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106394402</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106394402</guid>
+      <pubDate>Tue, 17 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/im/Z/ke.mp3" length="34758959" type="audio/mpeg"/>
+      <itunes:duration>0:24:08</itunes:duration>
+    </item>
     <item>
       <title>The Breakfast Wrap: Donald Trump calls for naval escorts</title>
       <description>&lt;p&gt;Iran's effective closure of the Strait of Hormuz has entered its third week, and shipping has been put to a halt.&lt;/p&gt;&lt;p&gt;US President Donald Trump has urged its allies and China to send warships to the Strait to help secure the key shipping route out of the Middle East.&lt;/p&gt;&lt;p&gt;But the US is yet to do so - so will any other nation offer its own navy? &lt;/p&gt;&lt;p&gt;Fuel prices in Australia have risen sharply amid uncertainty over the ongoing conflict in the MIddle East .&lt;/p&gt;&lt;p&gt;On the weekend, U-S President Donald Trump called for other nations to help secure the Strait of Hormuz from Iranian attacks... which have disrupted global energy supplies.&lt;/p&gt;&lt;p&gt;Israeli bombardments have now killed more than 800 people in Lebanon as the conflict in the middle east intensifies.&lt;/p&gt;&lt;p&gt;Israel began its operation in Lebanon after Iran-aligned Hezbollah launched strikes in response to the killing of Iran's Supreme Leader, Ayatollah Ali Khamenei.&lt;/p&gt;&lt;p&gt;In just 10 days, more than 800-thousand people — nearly one out of every seven residents of Lebanon — have been displaced.&lt;/p&gt;&lt;p&gt;Back home, opinion polling indicates the Labor government is set for a victory in the upcoming South Australian election...&lt;/p&gt;&lt;p&gt;A recent poll from Roy Morgan indicates primary support for Labor is 35 per cent... ahead of One Nation's 28 per cent and the Coalition's 16-point-five per cent.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Fri, 13 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hj/Z/p4.mp3" length="11312832" type="audio/mpeg"/>
       <itunes:duration>0:23:00</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Liberal leadership challenge is on</title>
-      <description>&lt;p&gt;Start each day with comprehensive coverage and analysis of natHear fresh political analysis from Mel Clarke as Angus Taylor confirms  that he will challenge Sussan Ley for the Liberal leadership.&lt;/p&gt;&lt;p&gt;Several Liberal frontbenchers have resigned from their roles and a leadership vote could be held as soon as today.&lt;/p&gt;&lt;p&gt;Then, Muslim community leaders are calling for an apology over the actions of some police officers at Monday night's protests during the Israeli president's visit to Sydney.  &lt;/p&gt;&lt;p&gt;And more than 127 million people in Bangladesh are expected to vote today to pick the country's next leader and government, in what has been described as the first proper poll since 2008.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.ional and international events, and hear interviews with the people who matter today&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/liberal-leadership-challenge-is-on/106278072</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/liberal-leadership-challenge-is-on/106278072</guid>
-      <pubDate>Thu, 12 Feb 2026 10:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hi/Z/h4.mp3" length="35393135" type="audio/mpeg"/>
-      <itunes:duration>0:24:34</itunes:duration>
     </item>
   </channel>
 </rss>
