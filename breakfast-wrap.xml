@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 02:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 03:16:45 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The US President calls out Australia</title>
+      <description>&lt;p&gt;US President Donald Trump has again criticised allies for refusing to send naval escorts to the Strait of Hormuz, singling out Australia.&lt;/p&gt;&lt;p&gt;In a post on Truth Social, Mr Trump says, &quot;we no longer &quot;need,&quot; or desire, the NATO Countries' assistance — WE NEVER DID! Likewise, Japan, Australia, or South Korea.&quot;&lt;/p&gt;&lt;p&gt;We get the response from the federal government and opposition, and hear from an ex-Prime Minister who used to deal with Mr Trump - Malcolm Turnbull shares his response. &lt;/p&gt;&lt;p&gt;And the Greens are “pleased” that the government is considering options for tax reform.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106396030</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106396030</guid>
+      <pubDate>Wed, 18 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/in/Z/pv.mp3" length="11824512" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The state of the Strait</title>
       <description>&lt;p&gt;We'll hear from the boss of the United Nations' International Maritime Organisation (IMO) ahead of body holding an extraordinary session to address the escalating crisis in the Gulf.&lt;/p&gt;&lt;p&gt;We'll also get the perspective of a former Iranian Ambassador. &lt;/p&gt;&lt;p&gt;And hear the latest on the South Australian election with the state opposition, as it faces a challenge from One Nation.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Mon, 16 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hm/Z/3h.mp3" length="35114351" type="audio/mpeg"/>
       <itunes:duration>0:24:23</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Angus Taylor wins Liberal leadership</title>
-      <description>&lt;p&gt;The Breakfast Wrap shares fresh analysis following Angus Taylor winning the Liberal leadership  34 votes to 17, with Jane Hume elected deputy.&lt;/p&gt;&lt;p&gt;Featuring commentary from Niki Savva and two Liberal politicians speaking before the vote, we try to understand the position the Liberal party is in and where they need to go now. &lt;/p&gt;&lt;p&gt;Then, its a big morning in parliament for other reasons.&lt;/p&gt;&lt;p&gt;It is18 years since the government's apology to the Stolen Generations. We feature an interview with the Aboriginal and Torres Strait Islander Social Justice Commissioner. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106284562</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106284562</guid>
-      <pubDate>Fri, 13 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hj/Z/p4.mp3" length="11312832" type="audio/mpeg"/>
-      <itunes:duration>0:23:00</itunes:duration>
     </item>
   </channel>
 </rss>
