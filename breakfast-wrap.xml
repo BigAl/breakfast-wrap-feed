@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 03:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 02:51:19 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The Middle East's war on energy</title>
+      <description>&lt;p&gt;Energy prices have sharply surged on global markets following Israeli strikes on Iran's South Pars gas field - the world's largest natural gas reserve.&lt;/p&gt;&lt;p&gt;Iran has retaliated with strikes targeting major energy infrastructure inside Qatar, Saudi Arabia and the U-A-E.&lt;/p&gt;&lt;p&gt;U-S President Donald Trump says America knew nothing of Israel's attack on South Pars - promising that Israel will launch no more attacks on Iranian oil infrastructure.&lt;/p&gt;&lt;p&gt;Also, the Department of Prime Minister and Cabinet has asked Treasury to model &quot;new levy options&quot; as a means of taxing windfall profits of gas companies, as the government tries to shield Australians from the economic impacts of the conflict.&lt;/p&gt;&lt;p&gt;Fuel prices have risen sharply around the world since Iran began its effective blockade of the Strait of Hormuz - a key shipping route for about a fifth of the world's oil.&lt;/p&gt;&lt;p&gt;The federal government yesterday launched a taskforce to manage fuel supply, while the ACCC announced a probe into price gouging.&lt;/p&gt;&lt;p&gt;Meanwhile, strong winds and heavy rain have begun lashing far north Queensland... as severe Tropical Cyclone Narelle made landfall this morning.&lt;/p&gt;&lt;p&gt;Queensland Premier David Crisafulli warned it could be one of the biggest cyclones &quot;in living memory&quot;.&lt;/p&gt;&lt;p&gt;And, Prime Minister Anthony Albanese and Home Affairs Minister Tony Burkehave attended Eid Prayers at Lakemba Mosque this morning.&lt;/p&gt;&lt;p&gt;But they were met with boos and demands for them to leave from some attending. &lt;/p&gt;&lt;p&gt;Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106407054</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106407054</guid>
+      <pubDate>Fri, 20 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/iq/Z/dn.mp3" length="35606255" type="audio/mpeg"/>
+      <itunes:duration>0:24:43</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The race for fuel security</title>
       <description>&lt;p&gt;Today's National Cabinet meeting is looking at ways to tackle demand-driven shortages of fuel. &lt;/p&gt;&lt;p&gt;So we hear from one of the industries struggling with shortages and high prices - the ag sector. &lt;/p&gt;&lt;p&gt;Then, we cross to far north Queensland for the latest on Tropical Cyclone Narelle, and we find out how communities in the NT are faring following disasters earlier this month. &lt;/p&gt;&lt;p&gt;And we probe the deepening divide among MAGA Republicans about the war in Iran.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Wed, 18 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ho/Z/ik.mp3" length="35446127" type="audio/mpeg"/>
       <itunes:duration>0:24:36</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The search for Nancy Guthrie</title>
-      <description>&lt;p&gt;More than a fortnight after the kidnapping of an American TV personality's mother, we hear from a former FBI special agent about why this is such an unusual case. &lt;/p&gt;&lt;p&gt;Then, we head to Syria, for the latest on the IS-linked families trying to return to Australia. A journalist speaking to the families shares her insights. &lt;/p&gt;&lt;p&gt;And we question a Liberal politician over an alleged draft proposal to restrict migration from certain regions.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106294750</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106294750</guid>
-      <pubDate>Tue, 17 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hn/Z/b9.mp3" length="33940470" type="audio/mpeg"/>
-      <itunes:duration>0:23:34</itunes:duration>
     </item>
   </channel>
 </rss>
