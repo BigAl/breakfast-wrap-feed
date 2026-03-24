@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 03:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 02:53:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: 1000 days since major gambling reform report</title>
+      <description>&lt;p&gt;It's been a thousand days since the late Labor MP Peta Murphy handed down a landmark parliamentary report on gambling reform, calling for a total ban on gambling advertising.&lt;/p&gt;&lt;p&gt;Nearly three years on, the Albanese government says it's still &quot;considering&quot; its response.&lt;/p&gt;&lt;p&gt;Today, independent MP Kate Chaney - a member of the Murphy review committee - will introduce a bill that would ban online gambling ads.&lt;/p&gt;&lt;p&gt;Then, we hear how the closure of the Strait of Hormuz is affecting industries other than oil and gas - including the supply of helium. &lt;/p&gt;&lt;p&gt;And a new report has found popular AI chatbot services are failing to protect children from exposure to sexually explicit content.  &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409254</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409254</guid>
+      <pubDate>Tue, 24 Mar 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/it/Z/qh.mp3" length="35489327" type="audio/mpeg"/>
+      <itunes:duration>0:24:38</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: 48 hours to open the Strait of Hormuz</title>
       <description>&lt;p&gt;US President Donald Trump threatened the Iranian regime over the weekend that it had 48 hours to open the Strait of Hormuz, or he would obliterate the country's power plants.&lt;/p&gt;&lt;p&gt;Iran's revolutionary guard says if power plants are targeted, the Strait of Hormuz will be &quot;completely&quot; closed and not reopened until the facilities are rebuilt.  &lt;/p&gt;&lt;p&gt;Meanwhile, gulf countries are finding themselves in the crossfire - with about 3,000 projectiles directed at Iran's neighbours since the war began.&lt;/p&gt;&lt;p&gt;The U-S has recently approved a $16.5 billion arms deal for several Gulf states - but will deeper American involvement boost their security - or force a rethink of the alliance?&lt;/p&gt;&lt;p&gt;Back home the federal government yesterday announced that six fuel tankers scheduled to deliver oil to Australia next month have now been cancelled or deferred.&lt;/p&gt;&lt;p&gt;Meanwhile, Labor has comfortably won re-election in South Australia, as One Nation had its best result in an election in nearly three decades. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Fri, 20 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hr/Z/5r.mp3" length="35082677" type="audio/mpeg"/>
       <itunes:duration>0:24:21</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Pauline Hanson's Muslim comments condemned</title>
-      <description>&lt;p&gt;One Nation leader Pauline Hanson is facing widespread criticism this week for suggesting there were no good Muslims in Australia. &lt;/p&gt;&lt;p&gt;She has since issued a partial apology.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap we hear from the Muslim community in Western Sydney, and capture the political condemnation across the aisle. &lt;/p&gt;&lt;p&gt;Then, Australia's low debt status is being threatened; with the combination of federal and state debt heading towards levels not seen since World War Two. We'll get the latest analysis. &lt;/p&gt;&lt;p&gt;And the federal government has temporarily banned an Australian citizen with links to the Islamic State group from returning home from Syria. So for those who do return, what security measures are in place? &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106306986</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106306986</guid>
-      <pubDate>Thu, 19 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hp/Z/o8.mp3" length="35424245" type="audio/mpeg"/>
-      <itunes:duration>0:24:35</itunes:duration>
     </item>
   </channel>
 </rss>
