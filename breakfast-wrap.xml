@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 02:53:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 03:15:25 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Is this trade agreement a good deal?</title>
+      <description>&lt;p&gt;Australia's long-awaited trade deal with the European Union is being hailed by the Prime Minister as a major economic win.&lt;/p&gt;&lt;p&gt;But the response from the agriculture sector - particularly the red meat industry - is far less optimistic, with some industry leaders labelling it the &quot;worst-ever free trade agreement&quot;.&lt;/p&gt;&lt;p&gt;We hear from the Trade Minister.&lt;/p&gt;&lt;p&gt;Then we cross to Beirut as Israel says it wants to occupy southern Lebanon. &lt;/p&gt;&lt;p&gt;Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409220</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409220</guid>
+      <pubDate>Wed, 25 Mar 2026 06:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/iu/Z/us.mp3" length="34679471" type="audio/mpeg"/>
+      <itunes:duration>0:24:04</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: 1000 days since major gambling reform report</title>
       <description>&lt;p&gt;It's been a thousand days since the late Labor MP Peta Murphy handed down a landmark parliamentary report on gambling reform, calling for a total ban on gambling advertising.&lt;/p&gt;&lt;p&gt;Nearly three years on, the Albanese government says it's still &quot;considering&quot; its response.&lt;/p&gt;&lt;p&gt;Today, independent MP Kate Chaney - a member of the Murphy review committee - will introduce a bill that would ban online gambling ads.&lt;/p&gt;&lt;p&gt;Then, we hear how the closure of the Strait of Hormuz is affecting industries other than oil and gas - including the supply of helium. &lt;/p&gt;&lt;p&gt;And a new report has found popular AI chatbot services are failing to protect children from exposure to sexually explicit content.  &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Mon, 23 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hu/Z/t3.mp3" length="35525621" type="audio/mpeg"/>
       <itunes:duration>0:24:40</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Emily Maitlis on Andrew's arrest</title>
-      <description>&lt;p&gt;We cover the extraordinary news of the arrest of Andrew Mountbatten-Windsor with the journalist who once interviewed him. &lt;/p&gt;&lt;p&gt;The 2019 BBC Newsnight interview with the then Prince, was widely regarded as a car crash that would lead to Andrew's demise. &lt;/p&gt;&lt;p&gt;Emily Maitlis shares her shock at his arrest. &lt;/p&gt;&lt;p&gt;Then, we turn to Sudan as a UN probe finds atrocities committed bear the hallmarks of genocide. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106310922</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106310922</guid>
-      <pubDate>Fri, 20 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/hr/Z/5r.mp3" length="35082677" type="audio/mpeg"/>
-      <itunes:duration>0:24:21</itunes:duration>
     </item>
   </channel>
 </rss>
