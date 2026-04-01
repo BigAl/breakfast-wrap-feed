@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 03:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:38:03 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Could the Strait of Hormuz stay shut post US-exit?</title>
+      <description>&lt;p&gt;There is growing speculation that the US could exit the war with Iran, with the Strait of Hormuz still remaining effectively closed. &lt;/p&gt;&lt;p&gt;We'll unpack the comments fueling the speculation, and hear how Europe and how both sides of Australian politics are responding.&lt;/p&gt;&lt;p&gt;Then, we'll turn to domestic affairs - and hear about the latest debates in parliament and tension within the Liberal party. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106449582</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106449582</guid>
+      <pubDate>Wed, 01 Apr 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j5/Z/p6.mp3" length="35221487" type="audio/mpeg"/>
+      <itunes:duration>0:24:27</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Zomi Frankcom's family still seeking answers</title>
       <description>&lt;p&gt;Two years ago this week Australian Zomi Frankcom was one of seven aid workers killed by an Israeli Defence Force strike in Gaza. &lt;/p&gt;&lt;p&gt;Two years on, Zomi's family still wants answers - and accountability. We hear from her brother Mal.&lt;/p&gt;&lt;p&gt;Then, the states, territories and feds have a fuel plan. We speak with the Energy Minister Chris Bowen. &lt;/p&gt;&lt;p&gt;And we answer your questions about the fuel crisis. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Fri, 27 Feb 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i3/Z/m8.mp3" length="35184623" type="audio/mpeg"/>
       <itunes:duration>0:24:25</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Why is inflation so hot?</title>
-      <description>&lt;p&gt;Slightly higher than expected inflation in January has kept pressure on the Reserve Bank to inflict another interest rate hike and increased scrutiny of the federal government's economic management.&lt;/p&gt;&lt;p&gt;We'll unpack the latest figures and hear from the Treasurer and Shadow Treasurer. &lt;/p&gt;&lt;p&gt;Then, the Prime Minister is in hot water over comments he's made about a former Australian of the Year. &lt;/p&gt;&lt;p&gt;And debate is intensifying in Tasmania over the use of antibiotics in the salmon industry.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106330420</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106330420</guid>
-      <pubDate>Thu, 26 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i2/Z/hk.mp3" length="35282549" type="audio/mpeg"/>
-      <itunes:duration>0:24:30</itunes:duration>
     </item>
   </channel>
 </rss>
