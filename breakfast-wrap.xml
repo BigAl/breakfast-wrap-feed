@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 03:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:22:31 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Artemis II launches for the Moon</title>
+      <description>&lt;p&gt;It is a historic day for space flight with the Artemis II mission launching this morning from Cape Canaveral in Florida. &lt;/p&gt;&lt;p&gt;We hear from a former NASA astronaut as the world watches our first return to the Moon in more than 50 years. While this mission won't see astronauts land on the lunar surface, they will voyage around it before returning to Earth in ten days. &lt;/p&gt;&lt;p&gt;Then, we look at news back home, the PM's address to the nation and developments out of the Middle East. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106450876</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106450876</guid>
+      <pubDate>Thu, 02 Apr 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j6/Z/vk.mp3" length="36212789" type="audio/mpeg"/>
+      <itunes:duration>0:25:08</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Could the Strait of Hormuz stay shut post US-exit?</title>
       <description>&lt;p&gt;There is growing speculation that the US could exit the war with Iran, with the Strait of Hormuz still remaining effectively closed. &lt;/p&gt;&lt;p&gt;We'll unpack the comments fueling the speculation, and hear how Europe and how both sides of Australian politics are responding.&lt;/p&gt;&lt;p&gt;Then, we'll turn to domestic affairs - and hear about the latest debates in parliament and tension within the Liberal party. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Mon, 02 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i6/Z/d5.mp3" length="34273974" type="audio/mpeg"/>
       <itunes:duration>0:23:48</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Defining gambling harm as a public health risk</title>
-      <description>&lt;p&gt;When federal parliament returns, the Independent Member for Kooyong will introduce a private member's bill to officially define gambling harm as a risk to public health.&lt;/p&gt;&lt;p&gt;Today we hear from Monique Ryan. &lt;/p&gt;&lt;p&gt;Then,  journalists are raising concerns that some Epstein documents have been withheld, some relating to a woman's allegations of abuse levelled at the current US President Donald Trump. One of those journalists shares their reporting with the Breakfast Wrap. &lt;/p&gt;&lt;p&gt;And the Tasmanian salmon industry has until Monday to prove to the federal regulator it should be allowed to continue using the antibiotic florfenicol to treat diseased fish stock, or risk having their emergency permits revoked.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106339222</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106339222</guid>
-      <pubDate>Fri, 27 Feb 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i3/Z/m8.mp3" length="35184623" type="audio/mpeg"/>
-      <itunes:duration>0:24:25</itunes:duration>
     </item>
   </channel>
 </rss>
