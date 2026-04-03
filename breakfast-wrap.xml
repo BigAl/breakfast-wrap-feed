@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:22:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 03:23:54 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Your questions about the war in Iran</title>
+      <description>&lt;p&gt;For weeks we've been asking you to send in your questions about the war in Iran, the geopolitics, and also the economic fallout, particularly around the global fuel crisis and Australia's response. &lt;/p&gt;&lt;p&gt;So on today's Breakfast Wrap we share the answers to your questions. 25 minutes of experts we've spoken to on Radio National Breakfast since the war began. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106525854</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106525854</guid>
+      <pubDate>Fri, 03 Apr 2026 04:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j7/Z/ao.mp3" length="12260544" type="audio/mpeg"/>
+      <itunes:duration>0:25:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Artemis II launches for the Moon</title>
       <description>&lt;p&gt;It is a historic day for space flight with the Artemis II mission launching this morning from Cape Canaveral in Florida. &lt;/p&gt;&lt;p&gt;We hear from a former NASA astronaut as the world watches our first return to the Moon in more than 50 years. While this mission won't see astronauts land on the lunar surface, they will voyage around it before returning to Earth in ten days. &lt;/p&gt;&lt;p&gt;Then, we look at news back home, the PM's address to the nation and developments out of the Middle East. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
