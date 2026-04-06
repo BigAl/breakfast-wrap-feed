@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 03:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 03:36:11 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Has the government's gambling response gone far enough?</title>
+      <description>&lt;p&gt;Long-awaited government action on gambling reform will include a partial ban on gambling advertising on television and radio and a total ban in sports venues.&lt;/p&gt;&lt;p&gt;The government says gambling ads will also be banned on social media and streaming platforms unless users are logged in, over 18 and have the option to opt out.&lt;/p&gt;&lt;p&gt;So how much further do some politicians want the government to go?&lt;/p&gt;&lt;p&gt;We'll then hear about the US President's latest threats over Iran, and about a long-awaited threat he has finally followed through on, that will impact the Australian pharmaceutical sector. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106463654</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106463654</guid>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j9/Z/ok.mp3" length="34627061" type="audio/mpeg"/>
+      <itunes:duration>0:24:02</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Your questions about the war in Iran</title>
       <description>&lt;p&gt;For weeks we've been asking you to send in your questions about the war in Iran, the geopolitics, and also the economic fallout, particularly around the global fuel crisis and Australia's response. &lt;/p&gt;&lt;p&gt;So on today's Breakfast Wrap we share the answers to your questions. 25 minutes of experts we've spoken to on Radio National Breakfast since the war began. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Tue, 03 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i7/Z/kh.mp3" length="35334959" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Israel and America wage war in Iran</title>
-      <description>&lt;p&gt;As the US and Israel wage war in Iran, we hear from voices in the region, the Iranian diaspora in Australia, analysts looking at the future of the Iranian regime and the involvement of American allies like the UK and Australia. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106341152</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106341152</guid>
-      <pubDate>Mon, 02 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i6/Z/d5.mp3" length="34273974" type="audio/mpeg"/>
-      <itunes:duration>0:23:48</itunes:duration>
     </item>
   </channel>
 </rss>
