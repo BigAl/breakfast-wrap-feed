@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 03:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:26:54 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Humans go further into space than ever before</title>
+      <description>&lt;p&gt;The Artemis II crew goes further into space than any humans have gone before.&lt;/p&gt;&lt;p&gt;We'll bring you everything you need to know as the capsule goes dark, for a planned blackout on the far side of the moon.&lt;/p&gt;&lt;p&gt;Then, to fuel news predating the current global fuel crisis,  could the life-threatening shortage in Cuba be about to ease?&lt;/p&gt;&lt;p&gt;We'll also look at the latest comments on Iran from US President Donald Trump and his repeated criticism of Australia. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106471264</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106471264</guid>
+      <pubDate>Tue, 07 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ja/Z/nb.mp3" length="35123567" type="audio/mpeg"/>
+      <itunes:duration>0:24:23</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Has the government's gambling response gone far enough?</title>
       <description>&lt;p&gt;Long-awaited government action on gambling reform will include a partial ban on gambling advertising on television and radio and a total ban in sports venues.&lt;/p&gt;&lt;p&gt;The government says gambling ads will also be banned on social media and streaming platforms unless users are logged in, over 18 and have the option to opt out.&lt;/p&gt;&lt;p&gt;So how much further do some politicians want the government to go?&lt;/p&gt;&lt;p&gt;We'll then hear about the US President's latest threats over Iran, and about a long-awaited threat he has finally followed through on, that will impact the Australian pharmaceutical sector. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Wed, 04 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i8/Z/s0.mp3" length="34125935" type="audio/mpeg"/>
       <itunes:duration>0:23:41</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Is the war in Iran legal?</title>
-      <description>&lt;p&gt;The British PM Keir Starmer has defended Britain's non-involvement in the strikes on Iran, by pointing to needing a sound legal basis for doing so. The question whether the joint US-Israeli strikes on Iran are legal under international law has been side-stepped by Australian political leaders.&lt;/p&gt;&lt;p&gt;Much of the international legal community questions the American argument that it was done pre-emptively, to defend against any potential Iranian aggression. &lt;/p&gt;&lt;p&gt;Onthe Breakfast Wrap we hear from an international legal scholar, the former British Ambassador to Iran and the Australian government. &lt;/p&gt;&lt;p&gt;Then, a few days into this conflict, Dr Kylie Moore-Gilbert shares her shock at the start of hostilities and the death of the Ayatollah. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106341134</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106341134</guid>
-      <pubDate>Tue, 03 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/i7/Z/kh.mp3" length="35334959" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
