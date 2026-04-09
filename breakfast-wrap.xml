@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 03:28:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 03:24:25 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Lebanon under Israeli bombardment despite Iran ceasefire</title>
+      <description>&lt;p&gt;We hear from the former Lebanese Health Minister, a surgeon today treating an influx of casualties in a Beirut hospital after Israel's deadly strikes. They come despite Israel and the US agreeing to a ceasefire with Iran. &lt;/p&gt;&lt;p&gt;We unpack why the US and Israel say Lebanon was excluded from the ceasefire with Iran, and what the Australian government's response is - hear our interview with Foreign Minister Penny Wong. &lt;/p&gt;&lt;p&gt;We also dissect what is happening with the Strait of Hormuz, as there's confusion over whether Iran has reopened it.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106481324</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106481324</guid>
+      <pubDate>Thu, 09 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jc/Z/ro.mp3" length="35329775" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Iran ceasefire and Trump's violent rhetoric</title>
       <description>&lt;p&gt;The US President agrees to a two week ceasefire if Iran reopens the Strait of Hormuz, only hours after he violently threatens annihilation.&lt;/p&gt;&lt;p&gt;We unpack the gravity of his comments and get immediate analysis on the prospect of this conflict screeching to a halt, right as it was set to escalate. &lt;/p&gt;&lt;p&gt;Then, the Nationals are set to plant an ideological flag in the ground over the economy. The new leader Matt Canavan fronts up. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Fri, 06 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ib/Z/lr.mp3" length="34056239" type="audio/mpeg"/>
       <itunes:duration>0:23:38</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The escalation trap</title>
-      <description>&lt;p&gt;As the US talks about expanding its bombing campaign in Iran, and the regime continues to retaliate, is there a point where this war can stop or will it continue to escalate? &lt;/p&gt;&lt;p&gt;We hear from a former Obama advisor about the cycle of escalation, and why he doesn't think the US topple the regime from the air alone. &lt;/p&gt;&lt;p&gt;We also hear from former Trump National Security Advisor John Bolton. &lt;/p&gt;&lt;p&gt;Then, a story you wouldn't expect on the Breakfast Wrap - we dive into the Kyle and Jackie O saga, with the former host of Media Watch Paul Barry. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106346058</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106346058</guid>
-      <pubDate>Thu, 05 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ia/Z/4t.mp3" length="35285999" type="audio/mpeg"/>
-      <itunes:duration>0:24:30</itunes:duration>
     </item>
   </channel>
 </rss>
