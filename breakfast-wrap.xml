@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 03:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:36:19 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What is the future of the Iran ceasefire?</title>
+      <description>&lt;p&gt;The Israeli Prime Minister has ordered talks with the Lebanese government, so what does this mean for the ceasefire in the Middle East?&lt;/p&gt;&lt;p&gt;We'll take you on the ground to Beirut and you'll hear from a former senior figure in the US State Department.&lt;/p&gt;&lt;p&gt;The Acting Prime Minister Richard Marles will also weigh in on the future of the Strait of Hormuz, and our Friday political panel will wrap the week.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106483024</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106483024</guid>
+      <pubDate>Fri, 10 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/je/Z/08.mp3" length="35585519" type="audio/mpeg"/>
+      <itunes:duration>0:24:42</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Lebanon under Israeli bombardment despite Iran ceasefire</title>
       <description>&lt;p&gt;We hear from the former Lebanese Health Minister, a surgeon today treating an influx of casualties in a Beirut hospital after Israel's deadly strikes. They come despite Israel and the US agreeing to a ceasefire with Iran. &lt;/p&gt;&lt;p&gt;We unpack why the US and Israel say Lebanon was excluded from the ceasefire with Iran, and what the Australian government's response is - hear our interview with Foreign Minister Penny Wong. &lt;/p&gt;&lt;p&gt;We also dissect what is happening with the Strait of Hormuz, as there's confusion over whether Iran has reopened it.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
