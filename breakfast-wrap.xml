@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:36:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 03:48:45 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Trump's US blockade on the Strait of Hormuz</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and the most significant stories impacting the lives of all Australians.&lt;/p&gt;&lt;p&gt;First it was Iran imposing a de facto blockade in the Strait of Hormuz, strangling a fifth of the world's oil trade.&lt;/p&gt;&lt;p&gt;Now, US President Donald Trump has vowed to blockade the strait after peace talks with Iran failed to secure an agreement&lt;/p&gt;&lt;p&gt;Iran has demanded the right to collect tolls from vessels travelling through the strait, but Mr Trump says no one who pays them will “have safe passage on the high seas.”&lt;/p&gt;&lt;p&gt;We unpack what this means for the shipping industry, and the legality of a US blockade in the Strait.&lt;/p&gt;&lt;p&gt;Then, the federal government is launching a campaign encouraging Australians to use less fuel where possible. Environment Minister Murray Watt joins the program.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106493864</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106493864</guid>
+      <pubDate>Mon, 13 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jg/Z/c1.mp3" length="33608111" type="audio/mpeg"/>
+      <itunes:duration>0:23:20</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What is the future of the Iran ceasefire?</title>
       <description>&lt;p&gt;The Israeli Prime Minister has ordered talks with the Lebanese government, so what does this mean for the ceasefire in the Middle East?&lt;/p&gt;&lt;p&gt;We'll take you on the ground to Beirut and you'll hear from a former senior figure in the US State Department.&lt;/p&gt;&lt;p&gt;The Acting Prime Minister Richard Marles will also weigh in on the future of the Strait of Hormuz, and our Friday political panel will wrap the week.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 09 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ie/Z/0t.mp3" length="35042351" type="audio/mpeg"/>
       <itunes:duration>0:24:20</itunes:duration>
-    </item>
-    <item>
-      <title>Breafkast Wrap: Israeli Ambassador defends widening of Iran war</title>
-      <description>&lt;p&gt;As the Middle East conflict intensifies, Israel has issued a mass evacuation warning for the southern suburbs of Beirut, with thousands of residents fleeing the region.&lt;/p&gt;&lt;p&gt;We get the latest from Beirut, and hear from the new Israeli Ambassador to Australia. &lt;/p&gt;&lt;p&gt;Then, Tracey Holmes explains the pressure on the Iranian womens football team from the regime as they compete in a tournament in Australia. &lt;/p&gt;&lt;p&gt;We also cross to Milan ahead of the Paralympic games beginning this weekend and feature a live musical performance at the end. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106347728</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106347728</guid>
-      <pubDate>Fri, 06 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ib/Z/lr.mp3" length="34056239" type="audio/mpeg"/>
-      <itunes:duration>0:23:38</itunes:duration>
     </item>
   </channel>
 </rss>
