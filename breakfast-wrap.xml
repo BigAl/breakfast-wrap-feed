@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Apr 2026 03:36:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 03:35:45 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: IMF warns of global recession</title>
+      <description>&lt;p&gt;The International Monetary Fund has warned of significant pressure on the global economy and inflation if the war between the US and Iran is prolonged.&lt;/p&gt;&lt;p&gt;Its worst-case scenario would see a global recession... inflation as high as six per cent... and elevated fuel prices all the way through 2027.&lt;/p&gt;&lt;p&gt;We'll speak to Treasurer Jim Chalamers.&lt;/p&gt;&lt;p&gt;Then, Israel and Lebanon have held their first direct talks in over three decades, with U.S. Secretary of State Marco Rubio calling it a “historic opportunity”.&lt;/p&gt;&lt;p&gt;But he also made clear no breakthrough agreement was expected, as the conflict -- between the Iran-backed militant group Hezbollah and Israel -- continues.&lt;/p&gt;&lt;p&gt;Back in Australia, the Opposition Leader Angus Taylor has outlined the first part of the Coalition's immigration policy, aiming to reduce migration, increase screening of visa applicants and kick migrants out of the country who do not abide by Australian values.&lt;/p&gt;&lt;p&gt;Finally, we look back at three years of civil war in Sudan, which has seen more than 14-million people displaced.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106497310</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106497310</guid>
+      <pubDate>Wed, 15 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ji/Z/jv.mp3" length="35485295" type="audio/mpeg"/>
+      <itunes:duration>0:24:38</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: President Trump vs Pope Leo</title>
       <description>&lt;p&gt;U.S. President Donald Trump says the American military has begun a blockade of Iranian ports as part of his effort to force Iran to reopen the Strait of Hormuz.&lt;/p&gt;&lt;p&gt;Speaking outside the Oval Office overnight, Mr Trump suggested the U.S. is still willing to engage with Iran, after 21-hour long peace talks failed at the weekend. &lt;/p&gt;&lt;p&gt;Also, an extraordinary feud is growing between US President Donald Trump and the Pope.&lt;/p&gt;&lt;p&gt;The global leader of the Catholic church has said he plans to continue speaking out against war, despite scathing comments from the US president.&lt;/p&gt;&lt;p&gt;While in Australia, energy prices are on the rise due to the war in the Middle East, but the cost of electricity hasn't seen a similar jump, we'll unpack why that is.&lt;/p&gt;&lt;p&gt;There's also a lot of movement in the defence industry.&lt;/p&gt;&lt;p&gt;You'll hear about the billions of dollars set to be invested in drones, and major changes in the top military.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Wed, 11 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ig/Z/hi.mp3" length="34978421" type="audio/mpeg"/>
       <itunes:duration>0:24:17</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Iranian soccer players granted asylum</title>
-      <description>&lt;p&gt;The federal government has confirmed five Iranian football players will remain in Australia after seeking asylum.&lt;/p&gt;&lt;p&gt;Home Affairs Minister, Tony Burke, says he met with the women last night and told them they were &quot;welcome to stay in Australia&quot;.&lt;/p&gt;&lt;p&gt;It follows US President Donald Trump confirming on social media overnight that he had spoken to Prime Minister Anthony Albanese about the team, and that he was quote &quot;on it&quot;.&lt;/p&gt;&lt;p&gt;Then, the fallout from the war continues, with at least one Australian bank predicting inflation above the RBA's target band if oil price surges don't subside. &lt;/p&gt;&lt;p&gt;And we also turn to the flooding situation in Katherine and the concern about crocodiles in floodwaters. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106366224</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106366224</guid>
-      <pubDate>Tue, 10 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/if/Z/71.mp3" length="34881071" type="audio/mpeg"/>
-      <itunes:duration>0:24:13</itunes:duration>
     </item>
   </channel>
 </rss>
