@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 03:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:42:42 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Refinery fire disrupts Australia's petrol supply</title>
+      <description>&lt;p&gt;A fire has broken out at Viva Energy's Geelong Oil Refinery -  one of Australia's two remaining oil refineries.&lt;/p&gt;&lt;p&gt;Firefighters spent the night battling the fire, and questions are now being asked around the impact on domestic fuel supply.&lt;/p&gt;&lt;p&gt;This comes as senior federal government ministers travel to Asian countries, as they seek assurances on fuel reserves.&lt;/p&gt;&lt;p&gt;Trade Minister Don Farrell joins the program before he heads to Singapore.&lt;/p&gt;&lt;p&gt;Then, key Pakistani mediators are in the Iranian capital trying to revive peace talks between the U-S and Iran.&lt;/p&gt;&lt;p&gt;US and Iran blockades in the Strait of Hormuz remain, but President Donald Trump remains optimistic a deal can be reached.&lt;/p&gt;&lt;p&gt;And the Coalition says it has a plan to restore &quot;integrity and confidence&quot; to Australia's migration system - but experts say there are significant flaws in their policy.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106506200</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106506200</guid>
+      <pubDate>Thu, 16 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jk/Z/ih.mp3" length="34001519" type="audio/mpeg"/>
+      <itunes:duration>0:23:36</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: IMF warns of global recession</title>
       <description>&lt;p&gt;The International Monetary Fund has warned of significant pressure on the global economy and inflation if the war between the US and Iran is prolonged.&lt;/p&gt;&lt;p&gt;Its worst-case scenario would see a global recession... inflation as high as six per cent... and elevated fuel prices all the way through 2027.&lt;/p&gt;&lt;p&gt;We'll speak to Treasurer Jim Chalamers.&lt;/p&gt;&lt;p&gt;Then, Israel and Lebanon have held their first direct talks in over three decades, with U.S. Secretary of State Marco Rubio calling it a “historic opportunity”.&lt;/p&gt;&lt;p&gt;But he also made clear no breakthrough agreement was expected, as the conflict -- between the Iran-backed militant group Hezbollah and Israel -- continues.&lt;/p&gt;&lt;p&gt;Back in Australia, the Opposition Leader Angus Taylor has outlined the first part of the Coalition's immigration policy, aiming to reduce migration, increase screening of visa applicants and kick migrants out of the country who do not abide by Australian values.&lt;/p&gt;&lt;p&gt;Finally, we look back at three years of civil war in Sudan, which has seen more than 14-million people displaced.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 12 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ih/Z/mv.mp3" length="34716911" type="audio/mpeg"/>
       <itunes:duration>0:24:06</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Is Australia at war?</title>
-      <description>&lt;p&gt;Australia has been drawn further into the escalating Middle East conflict, with a military surveillance plane and 85 personnel deployed to the United Arab Emirates to help defend the nation from Iranian drone attacks.&lt;/p&gt;&lt;p&gt;The government says it amounts to &quot;defensive&quot; help for the UAE and troops won't take &quot;offensive&quot; action against Iran, but does it mean Australia is now at war?&lt;/p&gt;&lt;p&gt;We ask the Foreign Minister Penny Wong and hear from the Greens. &lt;/p&gt;&lt;p&gt;Then, is the escalating conflict in the Middle East the first AI war? We hear from an expert tracking how artificial intelligence is being used across the conflict. &lt;/p&gt;&lt;p&gt;And the Nationals have a new leader after the surprise resignation of David Littleproud - those details on the Wrap.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106371320</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106371320</guid>
-      <pubDate>Wed, 11 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ig/Z/hi.mp3" length="34978421" type="audio/mpeg"/>
-      <itunes:duration>0:24:17</itunes:duration>
     </item>
   </channel>
 </rss>
