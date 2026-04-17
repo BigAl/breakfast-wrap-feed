@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 03:39:02 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Trump 'not happy' with Australia - again</title>
+      <description>&lt;p&gt;A 10-day ceasefire between Israel and Lebanon has now begun - signalling a pause in Israel's conflict with Iran-backed Hezbollah that has raged in parallel to the war with Iran.&lt;/p&gt;&lt;p&gt;Also, President Donald Trump has lashed out at Australia - again - for not helping re-open the Strait of Hormuz.&lt;/p&gt;&lt;p&gt;Both Defence Minister Richard Marles and his shadow counterpart James Paterson join the program.&lt;/p&gt;&lt;p&gt;It comes as the federal government announces a $53 billion spending boost in defence - but is this enough of an investment? We ask a defence expert.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106507908</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106507908</guid>
+      <pubDate>Fri, 17 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jl/Z/oc.mp3" length="34841903" type="audio/mpeg"/>
+      <itunes:duration>0:24:11</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Refinery fire disrupts Australia's petrol supply</title>
       <description>&lt;p&gt;A fire has broken out at Viva Energy's Geelong Oil Refinery -  one of Australia's two remaining oil refineries.&lt;/p&gt;&lt;p&gt;Firefighters spent the night battling the fire, and questions are now being asked around the impact on domestic fuel supply.&lt;/p&gt;&lt;p&gt;This comes as senior federal government ministers travel to Asian countries, as they seek assurances on fuel reserves.&lt;/p&gt;&lt;p&gt;Trade Minister Don Farrell joins the program before he heads to Singapore.&lt;/p&gt;&lt;p&gt;Then, key Pakistani mediators are in the Iranian capital trying to revive peace talks between the U-S and Iran.&lt;/p&gt;&lt;p&gt;US and Iran blockades in the Strait of Hormuz remain, but President Donald Trump remains optimistic a deal can be reached.&lt;/p&gt;&lt;p&gt;And the Coalition says it has a plan to restore &quot;integrity and confidence&quot; to Australia's migration system - but experts say there are significant flaws in their policy.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 13 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ii/Z/vd.mp3" length="35032559" type="audio/mpeg"/>
       <itunes:duration>0:24:19</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Ex-spy chief quits Bondi royal commission</title>
-      <description>&lt;p&gt;Dennis Richardson has explained the reasons for his shock resignation from the Royal Commission on Antisemitism and Social Cohesion, saying he felt he was &quot;surplus to requirements&quot; and &quot;grossly overpaid&quot;. &lt;/p&gt;&lt;p&gt;We play his first broadcast interview on the matter on the Breakfast Wrap and get a response from the federal opposition. &lt;/p&gt;&lt;p&gt;Then we speak with the investigative outlet Bellingcat, who's been looking into the deadly strike on a school in Iran. It comes as the New York Times reports on an ongoing military investigation that now blames the US for the strike. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106372904</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106372904</guid>
-      <pubDate>Thu, 12 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ih/Z/mv.mp3" length="34716911" type="audio/mpeg"/>
-      <itunes:duration>0:24:06</itunes:duration>
     </item>
   </channel>
 </rss>
