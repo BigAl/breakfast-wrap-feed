@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 03:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 03:48:26 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The State of the Strait</title>
+      <description>&lt;p&gt;US President Donald Trump says the U.S. military has taken control of an Iranian-flagged cargo ship by blowing a hole in its engine room. &lt;/p&gt;&lt;p&gt;It comes after Iran reversed its decision to reopen the Strait of Hormuz.&lt;/p&gt;&lt;p&gt;Iran has fired upon multiple vessels at the weekend, with no casualties reported. &lt;/p&gt;&lt;p&gt;We dive into the state of the Strait with a former merchant mariner.&lt;/p&gt;&lt;p&gt;Then, we look at what this means for global oil markets, and how the diminishing supply of jet fuel could impact Australian airfares.&lt;/p&gt;&lt;p&gt;Then, there's lots to unpack with our federal politicians around the economic fallout of the Iran war. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106516318</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106516318</guid>
+      <pubDate>Mon, 20 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jn/Z/t0.mp3" length="35012975" type="audio/mpeg"/>
+      <itunes:duration>0:24:18</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Trump 'not happy' with Australia - again</title>
       <description>&lt;p&gt;A 10-day ceasefire between Israel and Lebanon has now begun - signalling a pause in Israel's conflict with Iran-backed Hezbollah that has raged in parallel to the war with Iran.&lt;/p&gt;&lt;p&gt;Also, President Donald Trump has lashed out at Australia - again - for not helping re-open the Strait of Hormuz.&lt;/p&gt;&lt;p&gt;Both Defence Minister Richard Marles and his shadow counterpart James Paterson join the program.&lt;/p&gt;&lt;p&gt;It comes as the federal government announces a $53 billion spending boost in defence - but is this enough of an investment? We ask a defence expert.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 16 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/il/Z/fu.mp3" length="35989295" type="audio/mpeg"/>
       <itunes:duration>0:24:59</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Ex-US defence specialist questions Iran strikes</title>
-      <description>&lt;p&gt;We hear from the man who once ran the Pentagon's civilian protection department, tasked with providing guidance on strikes and investigating killings in war.  &lt;/p&gt;&lt;p&gt;He is accusing the Trump administration of failing to protect civilians in its bombardment of Iran, as the military investigates a strike on an Iranian school, which left more than 160 people dead, most of them children&lt;/p&gt;&lt;p&gt;Then a former advisor on Iran to both Presidents Biden and Trump discusses the future of the war. &lt;/p&gt;&lt;p&gt;And we hear about the domestic impacts, as One Nation MP Barnaby Joyce shares frustrations over the supply of petrol.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106374556</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106374556</guid>
-      <pubDate>Fri, 13 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ii/Z/vd.mp3" length="35032559" type="audio/mpeg"/>
-      <itunes:duration>0:24:19</itunes:duration>
     </item>
   </channel>
 </rss>
