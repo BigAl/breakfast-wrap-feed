@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 03:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 03:41:12 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: British PM apologises over Mandelson scandal</title>
+      <description>&lt;p&gt;US President Donald Trump has offered mixed messages overnight about the path ahead for the U.S. war against Iran, declaring that he is in no rush to end the conflict as the second round of peace talks with Iran hangs in the balance.&lt;/p&gt;&lt;p&gt;Iran is currently refusing to send a delegation to the talks in Pakistan - after the U.S. Navy attacked and seized an Iranian-flagged cargo ship near the Strait of Hormuz. &lt;/p&gt;&lt;p&gt;Meanwhile the UK and France have been leading talks on how to best protect commercial shipping routes, once the Strait of Hormuz is secured.&lt;/p&gt;&lt;p&gt;France's Trade Minister joins the program.&lt;/p&gt;&lt;p&gt;Then, you'll learn more about the state of the Strait from an expert who's spent 30 years as an officer in the UK Royal Navy.&lt;/p&gt;&lt;p&gt;Back home, the global oil crisis is impacting Australia's ability to build the one million homes needed under the national housing accord. Housing Minister Clare O'Neill fronts up.&lt;/p&gt;&lt;p&gt;Meanwhile the government is considering a windfall tax on profits made by gas exports.&lt;/p&gt;&lt;p&gt;It comes as new research finds Japan has earned $8 billion a year on average on imports of Australian gas over the past five years.&lt;/p&gt;&lt;p&gt;And in the UK Prime Minister Keir Starmer has been grilled in parliament over the appointment of the former British ambassador to the United States, Lord Peter Mandelson.&lt;/p&gt;&lt;p&gt;Lord Mandelson was sacked in September, just nine months into the job, when new details emerged about his friendship with the late convicted sex offender Jeffrey Epstein.&lt;/p&gt;&lt;p&gt;Sir Starmer has been facing more questions about what he knew and when, after it was revealed Lord Mandelson failed the security vetting process for the ambassadorship. Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106524262</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106524262</guid>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jp/Z/43.mp3" length="34943855" type="audio/mpeg"/>
+      <itunes:duration>0:24:15</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The State of the Strait</title>
       <description>&lt;p&gt;US President Donald Trump says the U.S. military has taken control of an Iranian-flagged cargo ship by blowing a hole in its engine room. &lt;/p&gt;&lt;p&gt;It comes after Iran reversed its decision to reopen the Strait of Hormuz.&lt;/p&gt;&lt;p&gt;Iran has fired upon multiple vessels at the weekend, with no casualties reported. &lt;/p&gt;&lt;p&gt;We dive into the state of the Strait with a former merchant mariner.&lt;/p&gt;&lt;p&gt;Then, we look at what this means for global oil markets, and how the diminishing supply of jet fuel could impact Australian airfares.&lt;/p&gt;&lt;p&gt;Then, there's lots to unpack with our federal politicians around the economic fallout of the Iran war. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 17 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/im/Z/ke.mp3" length="34758959" type="audio/mpeg"/>
       <itunes:duration>0:24:08</itunes:duration>
-    </item>
-    <item>
-      <title>The Breakfast Wrap: Donald Trump calls for naval escorts</title>
-      <description>&lt;p&gt;Iran's effective closure of the Strait of Hormuz has entered its third week, and shipping has been put to a halt.&lt;/p&gt;&lt;p&gt;US President Donald Trump has urged its allies and China to send warships to the Strait to help secure the key shipping route out of the Middle East.&lt;/p&gt;&lt;p&gt;But the US is yet to do so - so will any other nation offer its own navy? &lt;/p&gt;&lt;p&gt;Fuel prices in Australia have risen sharply amid uncertainty over the ongoing conflict in the MIddle East .&lt;/p&gt;&lt;p&gt;On the weekend, U-S President Donald Trump called for other nations to help secure the Strait of Hormuz from Iranian attacks... which have disrupted global energy supplies.&lt;/p&gt;&lt;p&gt;Israeli bombardments have now killed more than 800 people in Lebanon as the conflict in the middle east intensifies.&lt;/p&gt;&lt;p&gt;Israel began its operation in Lebanon after Iran-aligned Hezbollah launched strikes in response to the killing of Iran's Supreme Leader, Ayatollah Ali Khamenei.&lt;/p&gt;&lt;p&gt;In just 10 days, more than 800-thousand people — nearly one out of every seven residents of Lebanon — have been displaced.&lt;/p&gt;&lt;p&gt;Back home, opinion polling indicates the Labor government is set for a victory in the upcoming South Australian election...&lt;/p&gt;&lt;p&gt;A recent poll from Roy Morgan indicates primary support for Labor is 35 per cent... ahead of One Nation's 28 per cent and the Coalition's 16-point-five per cent.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106389546</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106389546</guid>
-      <pubDate>Mon, 16 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/il/Z/fu.mp3" length="35989295" type="audio/mpeg"/>
-      <itunes:duration>0:24:59</itunes:duration>
     </item>
   </channel>
 </rss>
