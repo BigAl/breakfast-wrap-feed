@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 03:36:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 03:42:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What do NDIS families think of these major reforms?</title>
+      <description>&lt;p&gt;The federal government has announced sweeping changes to the National Disability Insurance Scheme, in a bid to bring spending back down to sustainable levels, and clamp down on fraud.&lt;/p&gt;&lt;p&gt;On the program we bring you the reactions of participants and their families, as well as advocates and providers.&lt;/p&gt;&lt;p&gt;You'll also hear from one of the original architects of the NDIS, and Health Minister Mark Butler.&lt;/p&gt;&lt;p&gt;Meanwhile in the Strait of Hormuz, Iran has attacked three vessels, seizing two, as tensions rise in the vital waterway.&lt;/p&gt;&lt;p&gt;It comes as US President Donald Trump claims a ceasefire with Iran has been extended - but without a new date.&lt;/p&gt;&lt;p&gt;We'll unpack the state of the Strait.&lt;/p&gt;&lt;p&gt; Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106530952</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106530952</guid>
+      <pubDate>Thu, 23 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jr/Z/cl.mp3" length="35432303" type="audio/mpeg"/>
+      <itunes:duration>0:24:36</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Major reforms ahead for NDIS</title>
       <description>&lt;p&gt;Big changes are coming to the National Disability Insurance Scheme today - with Health Minister Mark Butler expected to announce measures to curb the growing cost of the scheme later today.&lt;/p&gt;&lt;p&gt;We dive into this with one of the original architects of the scheme, and Greens NDIS Minister, Jordon Steele-John.&lt;/p&gt;&lt;p&gt;In the Middle East, US President Donald Trump has announced a ceasefire between the US and Iran, hours before it was set to expire - you'll get the latest on a rapidly evolving situation.&lt;/p&gt;&lt;p&gt;The E-Safety Commissioner will also weigh in on her decision to put online gaming giants on notice, over fears that extremists and sexual predators are using these platforms to radicalise young people.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 19 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ip/Z/0v.mp3" length="35386223" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The US President calls out Australia</title>
-      <description>&lt;p&gt;US President Donald Trump has again criticised allies for refusing to send naval escorts to the Strait of Hormuz, singling out Australia.&lt;/p&gt;&lt;p&gt;In a post on Truth Social, Mr Trump says, &quot;we no longer &quot;need,&quot; or desire, the NATO Countries' assistance — WE NEVER DID! Likewise, Japan, Australia, or South Korea.&quot;&lt;/p&gt;&lt;p&gt;We get the response from the federal government and opposition, and hear from an ex-Prime Minister who used to deal with Mr Trump - Malcolm Turnbull shares his response. &lt;/p&gt;&lt;p&gt;And the Greens are “pleased” that the government is considering options for tax reform.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106396030</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106396030</guid>
-      <pubDate>Wed, 18 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/in/Z/pv.mp3" length="11824512" type="audio/mpeg"/>
-      <itunes:duration>0:24:00</itunes:duration>
     </item>
   </channel>
 </rss>
