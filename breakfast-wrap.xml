@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 03:46:02 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Is the government's gas tax dead?</title>
+      <description>&lt;p&gt;The prime minister is poised to kill off a move to increase taxes on gas giants - echoing the industry's argument that exporters are already paying tens of billions of dollars in taxes each year.&lt;/p&gt;&lt;p&gt;You'll hear from a range of key voices in the gas tax debate.&lt;/p&gt;&lt;p&gt;The United Nations is confident it can get fertiliser shipments through the Strait of Hormuz within seven days, and save millions of people from food insecurity. We speak to the UN boss in charge of the mission.&lt;/p&gt;&lt;p&gt;Back home, fallout from the NDIS reforms continue, as the autism community fears many will be left without support when the federal government cuts 160,000 people from the scheme.&lt;/p&gt;&lt;p&gt;And the new director of Adelaide Writer's Week joins the show.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106532226</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106532226</guid>
+      <pubDate>Fri, 24 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/js/Z/kt.mp3" length="35705327" type="audio/mpeg"/>
+      <itunes:duration>0:24:47</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What do NDIS families think of these major reforms?</title>
       <description>&lt;p&gt;The federal government has announced sweeping changes to the National Disability Insurance Scheme, in a bid to bring spending back down to sustainable levels, and clamp down on fraud.&lt;/p&gt;&lt;p&gt;On the program we bring you the reactions of participants and their families, as well as advocates and providers.&lt;/p&gt;&lt;p&gt;You'll also hear from one of the original architects of the NDIS, and Health Minister Mark Butler.&lt;/p&gt;&lt;p&gt;Meanwhile in the Strait of Hormuz, Iran has attacked three vessels, seizing two, as tensions rise in the vital waterway.&lt;/p&gt;&lt;p&gt;It comes as US President Donald Trump claims a ceasefire with Iran has been extended - but without a new date.&lt;/p&gt;&lt;p&gt;We'll unpack the state of the Strait.&lt;/p&gt;&lt;p&gt; Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 20 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/iq/Z/dn.mp3" length="35606255" type="audio/mpeg"/>
       <itunes:duration>0:24:43</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The race for fuel security</title>
-      <description>&lt;p&gt;Today's National Cabinet meeting is looking at ways to tackle demand-driven shortages of fuel. &lt;/p&gt;&lt;p&gt;So we hear from one of the industries struggling with shortages and high prices - the ag sector. &lt;/p&gt;&lt;p&gt;Then, we cross to far north Queensland for the latest on Tropical Cyclone Narelle, and we find out how communities in the NT are faring following disasters earlier this month. &lt;/p&gt;&lt;p&gt;And we probe the deepening divide among MAGA Republicans about the war in Iran.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106407076</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106407076</guid>
-      <pubDate>Thu, 19 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ip/Z/0v.mp3" length="35386223" type="audio/mpeg"/>
-      <itunes:duration>0:24:34</itunes:duration>
     </item>
   </channel>
 </rss>
