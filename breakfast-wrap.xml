@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 03:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 03:55:33 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Inside the White House Correspondents' Dinner</title>
+      <description>&lt;p&gt;Lax security and entry tickets left in bathrooms. We hear what it was like inside the White House Correspondents' Dinner as a suspected gunman tries to cause chaos at one of the biggest events in Washington. &lt;/p&gt;&lt;p&gt;Then, how will the attack impact the upcoming royal visit to DC? &lt;/p&gt;&lt;p&gt;We'll also hear about the widely condemned boos at ANZAC Day ceremonies around the country, from someone who was targeted. &lt;/p&gt;&lt;p&gt;And what is the impact of the government's major NDIS reform on those who use the services?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106540266</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106540266</guid>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jv/Z/92.mp3" length="23492736" type="audio/mpeg"/>
+      <itunes:duration>0:24:28</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Is the government's gas tax dead?</title>
       <description>&lt;p&gt;The prime minister is poised to kill off a move to increase taxes on gas giants - echoing the industry's argument that exporters are already paying tens of billions of dollars in taxes each year.&lt;/p&gt;&lt;p&gt;You'll hear from a range of key voices in the gas tax debate.&lt;/p&gt;&lt;p&gt;The United Nations is confident it can get fertiliser shipments through the Strait of Hormuz within seven days, and save millions of people from food insecurity. We speak to the UN boss in charge of the mission.&lt;/p&gt;&lt;p&gt;Back home, fallout from the NDIS reforms continue, as the autism community fears many will be left without support when the federal government cuts 160,000 people from the scheme.&lt;/p&gt;&lt;p&gt;And the new director of Adelaide Writer's Week joins the show.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 23 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/is/Z/n4.mp3" length="35281967" type="audio/mpeg"/>
       <itunes:duration>0:24:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The Middle East's war on energy</title>
-      <description>&lt;p&gt;Energy prices have sharply surged on global markets following Israeli strikes on Iran's South Pars gas field - the world's largest natural gas reserve.&lt;/p&gt;&lt;p&gt;Iran has retaliated with strikes targeting major energy infrastructure inside Qatar, Saudi Arabia and the U-A-E.&lt;/p&gt;&lt;p&gt;U-S President Donald Trump says America knew nothing of Israel's attack on South Pars - promising that Israel will launch no more attacks on Iranian oil infrastructure.&lt;/p&gt;&lt;p&gt;Also, the Department of Prime Minister and Cabinet has asked Treasury to model &quot;new levy options&quot; as a means of taxing windfall profits of gas companies, as the government tries to shield Australians from the economic impacts of the conflict.&lt;/p&gt;&lt;p&gt;Fuel prices have risen sharply around the world since Iran began its effective blockade of the Strait of Hormuz - a key shipping route for about a fifth of the world's oil.&lt;/p&gt;&lt;p&gt;The federal government yesterday launched a taskforce to manage fuel supply, while the ACCC announced a probe into price gouging.&lt;/p&gt;&lt;p&gt;Meanwhile, strong winds and heavy rain have begun lashing far north Queensland... as severe Tropical Cyclone Narelle made landfall this morning.&lt;/p&gt;&lt;p&gt;Queensland Premier David Crisafulli warned it could be one of the biggest cyclones &quot;in living memory&quot;.&lt;/p&gt;&lt;p&gt;And, Prime Minister Anthony Albanese and Home Affairs Minister Tony Burkehave attended Eid Prayers at Lakemba Mosque this morning.&lt;/p&gt;&lt;p&gt;But they were met with boos and demands for them to leave from some attending. &lt;/p&gt;&lt;p&gt;Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106407054</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106407054</guid>
-      <pubDate>Fri, 20 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/iq/Z/dn.mp3" length="35606255" type="audio/mpeg"/>
-      <itunes:duration>0:24:43</itunes:duration>
     </item>
   </channel>
 </rss>
