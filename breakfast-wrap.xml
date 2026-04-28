@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 03:55:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:00:50 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: 30 years since Port Arthur</title>
+      <description>&lt;p&gt;The Port Arthur massacre is remembered not just for the horror of that day, but for the political and societal response that followed, changing Australia forever.&lt;/p&gt;&lt;p&gt;Hear our interview with then Prime Minister John Howard, who played a major role in reforming the country's gun laws in the wake of the attack. &lt;/p&gt;&lt;p&gt;We'll also cross to the US to hear from a former FBI agent following the White House Correspondents' Dinner shooting, and find out about a tech titan's court battle for the ages. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106542134</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106542134</guid>
+      <pubDate>Tue, 28 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k0/Z/9i.mp3" length="34106351" type="audio/mpeg"/>
+      <itunes:duration>0:23:41</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Inside the White House Correspondents' Dinner</title>
       <description>&lt;p&gt;Lax security and entry tickets left in bathrooms. We hear what it was like inside the White House Correspondents' Dinner as a suspected gunman tries to cause chaos at one of the biggest events in Washington. &lt;/p&gt;&lt;p&gt;Then, how will the attack impact the upcoming royal visit to DC? &lt;/p&gt;&lt;p&gt;We'll also hear about the widely condemned boos at ANZAC Day ceremonies around the country, from someone who was targeted. &lt;/p&gt;&lt;p&gt;And what is the impact of the government's major NDIS reform on those who use the services?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 24 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/it/Z/qh.mp3" length="35489327" type="audio/mpeg"/>
       <itunes:duration>0:24:38</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: 48 hours to open the Strait of Hormuz</title>
-      <description>&lt;p&gt;US President Donald Trump threatened the Iranian regime over the weekend that it had 48 hours to open the Strait of Hormuz, or he would obliterate the country's power plants.&lt;/p&gt;&lt;p&gt;Iran's revolutionary guard says if power plants are targeted, the Strait of Hormuz will be &quot;completely&quot; closed and not reopened until the facilities are rebuilt.  &lt;/p&gt;&lt;p&gt;Meanwhile, gulf countries are finding themselves in the crossfire - with about 3,000 projectiles directed at Iran's neighbours since the war began.&lt;/p&gt;&lt;p&gt;The U-S has recently approved a $16.5 billion arms deal for several Gulf states - but will deeper American involvement boost their security - or force a rethink of the alliance?&lt;/p&gt;&lt;p&gt;Back home the federal government yesterday announced that six fuel tankers scheduled to deliver oil to Australia next month have now been cancelled or deferred.&lt;/p&gt;&lt;p&gt;Meanwhile, Labor has comfortably won re-election in South Australia, as One Nation had its best result in an election in nearly three decades. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409258</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409258</guid>
-      <pubDate>Mon, 23 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/is/Z/n4.mp3" length="35281967" type="audio/mpeg"/>
-      <itunes:duration>0:24:30</itunes:duration>
     </item>
   </channel>
 </rss>
