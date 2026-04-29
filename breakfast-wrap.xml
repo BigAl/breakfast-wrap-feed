@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 04:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:58:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The King's speech</title>
+      <description>&lt;p&gt;Overnight, King Charles followed in his mother's foot steps - telling the joint session of Congress that the bond between the US and UK is irreplaceable and unbreakable.&lt;/p&gt;&lt;p&gt;We'll unpack the historic address and look at how the royal visit is going. &lt;/p&gt;&lt;p&gt;Then, Prime Minister Anthony Albanese has unveiled the government's long-awaited proposal to make tech giants pay for Australian journalism. &lt;/p&gt;&lt;p&gt;And with the Foreign Minister in China, calls are growing for renewed attention on the ethnic minority Uyghur population.&lt;/p&gt;&lt;p&gt; Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106545808</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106545808</guid>
+      <pubDate>Wed, 29 Apr 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k1/Z/al.mp3" length="35258927" type="audio/mpeg"/>
+      <itunes:duration>0:24:29</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: 30 years since Port Arthur</title>
       <description>&lt;p&gt;The Port Arthur massacre is remembered not just for the horror of that day, but for the political and societal response that followed, changing Australia forever.&lt;/p&gt;&lt;p&gt;Hear our interview with then Prime Minister John Howard, who played a major role in reforming the country's gun laws in the wake of the attack. &lt;/p&gt;&lt;p&gt;We'll also cross to the US to hear from a former FBI agent following the White House Correspondents' Dinner shooting, and find out about a tech titan's court battle for the ages. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,24 +237,6 @@
       <pubDate>Fri, 27 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j0/Z/mr.mp3" length="35339567" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Is this trade agreement a good deal?</title>
-      <description>&lt;p&gt;Australia's long-awaited trade deal with the European Union is being hailed by the Prime Minister as a major economic win.&lt;/p&gt;&lt;p&gt;But the response from the agriculture sector - particularly the red meat industry - is far less optimistic, with some industry leaders labelling it the &quot;worst-ever free trade agreement&quot;.&lt;/p&gt;&lt;p&gt;We hear from the Trade Minister.&lt;/p&gt;&lt;p&gt;Then we cross to Beirut as Israel says it wants to occupy southern Lebanon. &lt;/p&gt;&lt;p&gt;Start each day with comprehensive coverage and analysis of national and international events, and hear interviews with the people who matter today&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409220</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409220</guid>
-      <pubDate>Wed, 25 Mar 2026 06:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/iu/Z/us.mp3" length="34679471" type="audio/mpeg"/>
-      <itunes:duration>0:24:04</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: 1000 days since major gambling reform report</title>
-      <description>&lt;p&gt;It's been a thousand days since the late Labor MP Peta Murphy handed down a landmark parliamentary report on gambling reform, calling for a total ban on gambling advertising.&lt;/p&gt;&lt;p&gt;Nearly three years on, the Albanese government says it's still &quot;considering&quot; its response.&lt;/p&gt;&lt;p&gt;Today, independent MP Kate Chaney - a member of the Murphy review committee - will introduce a bill that would ban online gambling ads.&lt;/p&gt;&lt;p&gt;Then, we hear how the closure of the Strait of Hormuz is affecting industries other than oil and gas - including the supply of helium. &lt;/p&gt;&lt;p&gt;And a new report has found popular AI chatbot services are failing to protect children from exposure to sexually explicit content.  &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409254</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106409254</guid>
-      <pubDate>Tue, 24 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/it/Z/qh.mp3" length="35489327" type="audio/mpeg"/>
-      <itunes:duration>0:24:38</itunes:duration>
     </item>
   </channel>
 </rss>
