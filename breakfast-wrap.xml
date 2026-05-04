@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 04:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 04:03:40 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: How Australia conquered curling</title>
+      <description>&lt;p&gt;Is this Australia's Cool Runnings moment?&lt;/p&gt;&lt;p&gt;Australia's mixed team curlers Tahli Gill and Dean Hewitt have claimed world championship gold in Switzerland.&lt;/p&gt;&lt;p&gt;We hear from Dean fresh off the win. &lt;/p&gt;&lt;p&gt;Then, the Japanese Prime Minister is in town for annual talks, so why is this a particularly important trip from the new leader?&lt;/p&gt;&lt;p&gt;And we'll return to Alice Springs days after the devastation of the death of a five year-old girl. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106563004</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106563004</guid>
+      <pubDate>Mon, 04 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k6/Z/2f.mp3" length="35347055" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Grief and anger in Alice Springs</title>
       <description>&lt;p&gt;As Alice Springs grieves the death of a five-year-old girl missing since the weekend, violence erupts outside the hospital where the accused killer is being held.&lt;/p&gt;&lt;p&gt;We hear from community organisations and police working in town as emotions boil over, and the alleged murderer is moved to Darwin for safety reasons. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 31 Mar 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j4/Z/i5.mp3" length="35402351" type="audio/mpeg"/>
       <itunes:duration>0:24:35</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Houthis enter the war</title>
-      <description>&lt;p&gt;The conflict in the Middle East has deepened, with Yemen's Iran-backed militia group -the Houthis - launching attacks on Israel over the weekend.&lt;/p&gt;&lt;p&gt;The entry of this powerful Iranian proxy has raised fears of further disruption to the global economy.&lt;/p&gt;&lt;p&gt;Then, the federal government says it is trying to avoid COVID-style restrictions amid the fuel crisis.&lt;/p&gt;&lt;p&gt;Commonwealth, state and territory leaders are gathering for a national cabinet meeting to map out a co-ordinated response to fuel security.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106436636</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106436636</guid>
-      <pubDate>Mon, 30 Mar 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j3/Z/91.mp3" length="34214063" type="audio/mpeg"/>
-      <itunes:duration>0:23:45</itunes:duration>
     </item>
   </channel>
 </rss>
