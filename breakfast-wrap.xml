@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 03:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:59:17 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The seafarers stuck in the Strait of Hormuz</title>
+      <description>&lt;p&gt;Whatever is going on in the Strait of Hormuz, tens of thousands of seafarers remain trapped, unable to transit the waterway. &lt;/p&gt;&lt;p&gt;We hear from one Indian seafarer who's been stuck for three months and the union trying to help him.&lt;/p&gt;&lt;p&gt;Then, as she delivered the third interest rate rise of the year, the RBA governor said this in response to a question,&lt;/p&gt;&lt;p&gt;'The extent to which government makes up the shortfalls for households by giving them more money, it makes it harder to dampen demand'.&lt;/p&gt;&lt;p&gt;So what is the government's response to the point that anything it does to support households makes the RBA's job more difficult? We ask the Federal Treasurer Jim Chalmers. &lt;/p&gt;&lt;p&gt;And we hear about the government's latest attempt to bolster counter-terrorism efforts. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106574338</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106574338</guid>
+      <pubDate>Wed, 06 May 2026 09:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k8/Z/ge.mp3" length="34610927" type="audio/mpeg"/>
+      <itunes:duration>0:24:02</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why big tobacco was given a secret Senate hearing</title>
       <description>&lt;p&gt;The federal government and the Greens are demanding answers after a Liberal-led Senate inquiry allowed tobacco giant Philip Morris to deliver evidence behind closed doors yesterday.&lt;/p&gt;&lt;p&gt;Liberal Senator Leah Blyth chairs the committee looking into illegal tobacco in Australia and granted the closed hearing - to the dismay of several health organisations already giving evidence.&lt;/p&gt;&lt;p&gt;We hear from one of the organisation's who gave its evidence publicly. &lt;/p&gt;&lt;p&gt;Then, what is going on in the Strait of Hormuz? A former US Naval commander shares their insights. &lt;/p&gt;&lt;p&gt;And we ask the government about gambling reform. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 02 Apr 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j6/Z/vk.mp3" length="36212789" type="audio/mpeg"/>
       <itunes:duration>0:25:08</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Could the Strait of Hormuz stay shut post US-exit?</title>
-      <description>&lt;p&gt;There is growing speculation that the US could exit the war with Iran, with the Strait of Hormuz still remaining effectively closed. &lt;/p&gt;&lt;p&gt;We'll unpack the comments fueling the speculation, and hear how Europe and how both sides of Australian politics are responding.&lt;/p&gt;&lt;p&gt;Then, we'll turn to domestic affairs - and hear about the latest debates in parliament and tension within the Liberal party. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106449582</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106449582</guid>
-      <pubDate>Wed, 01 Apr 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/j5/Z/p6.mp3" length="35221487" type="audio/mpeg"/>
-      <itunes:duration>0:24:27</itunes:duration>
     </item>
   </channel>
 </rss>
