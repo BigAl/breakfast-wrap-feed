@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 03:49:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:19:27 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Albanese blames Coalition for One Nation's Farrer success</title>
+      <description>&lt;p&gt;PM Anthony Albanese says the &quot;Liberal and National parties made a big mistake legitimising One Nation&quot;, following the weekend's Farrer by-election.&lt;/p&gt;&lt;p&gt;We hear from Mr Albanese, and Nationals defector turned One Nation MP Barnaby Joyce following the party's historic win. &lt;/p&gt;&lt;p&gt;Then, a similar challenge to the major parties in the UK sees Keir Starmer's prime ministership under threat. &lt;/p&gt;&lt;p&gt;And we'll get the latest on the US war with Iran. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106590818</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106590818</guid>
+      <pubDate>Mon, 11 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kd/Z/fg.mp3" length="34976687" type="audio/mpeg"/>
+      <itunes:duration>0:24:17</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Sir David Attenborough turns 100</title>
       <description>&lt;p&gt;Today the beloved English broadcaster and natural historian David Attenborough celebrates 100 years on this earth and a lifetime of achievements.&lt;/p&gt;&lt;p&gt;We hear from one of his closest collaborators. &lt;/p&gt;&lt;p&gt;We also follow developments in Iran with a former US diplomat, and get the latest on the Islamic State families who've now returned to Australia.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Wed, 08 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jb/Z/r9.mp3" length="35056757" type="audio/mpeg"/>
       <itunes:duration>0:24:20</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Humans go further into space than ever before</title>
-      <description>&lt;p&gt;The Artemis II crew goes further into space than any humans have gone before.&lt;/p&gt;&lt;p&gt;We'll bring you everything you need to know as the capsule goes dark, for a planned blackout on the far side of the moon.&lt;/p&gt;&lt;p&gt;Then, to fuel news predating the current global fuel crisis,  could the life-threatening shortage in Cuba be about to ease?&lt;/p&gt;&lt;p&gt;We'll also look at the latest comments on Iran from US President Donald Trump and his repeated criticism of Australia. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106471264</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106471264</guid>
-      <pubDate>Tue, 07 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ja/Z/nb.mp3" length="35123567" type="audio/mpeg"/>
-      <itunes:duration>0:24:23</itunes:duration>
     </item>
   </channel>
 </rss>
