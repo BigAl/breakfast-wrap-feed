@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 04:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 04:01:24 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Inside the budget lockup</title>
+      <description>&lt;p&gt;Its budget day! We hear from Carrington Clarke as he prepares for the lock-up in Parliament House. &lt;/p&gt;&lt;p&gt;Finance Minister Katy Gallagher previews what we can expect, and her shadow across the aisle Claire Chandler lays out the Coalition's questions. &lt;/p&gt;&lt;p&gt;Then we hear about the pressure British PM  Keir Starmer is under as multiple Labour MPs and Cabinet Ministers call time on his leadership.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106595280</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106595280</guid>
+      <pubDate>Tue, 12 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ke/Z/kp.mp3" length="35316527" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Albanese blames Coalition for One Nation's Farrer success</title>
       <description>&lt;p&gt;PM Anthony Albanese says the &quot;Liberal and National parties made a big mistake legitimising One Nation&quot;, following the weekend's Farrer by-election.&lt;/p&gt;&lt;p&gt;We hear from Mr Albanese, and Nationals defector turned One Nation MP Barnaby Joyce following the party's historic win. &lt;/p&gt;&lt;p&gt;Then, a similar challenge to the major parties in the UK sees Keir Starmer's prime ministership under threat. &lt;/p&gt;&lt;p&gt;And we'll get the latest on the US war with Iran. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Thu, 09 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jc/Z/ro.mp3" length="35329775" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Iran ceasefire and Trump's violent rhetoric</title>
-      <description>&lt;p&gt;The US President agrees to a two week ceasefire if Iran reopens the Strait of Hormuz, only hours after he violently threatens annihilation.&lt;/p&gt;&lt;p&gt;We unpack the gravity of his comments and get immediate analysis on the prospect of this conflict screeching to a halt, right as it was set to escalate. &lt;/p&gt;&lt;p&gt;Then, the Nationals are set to plant an ideological flag in the ground over the economy. The new leader Matt Canavan fronts up. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106476270</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106476270</guid>
-      <pubDate>Wed, 08 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jb/Z/r9.mp3" length="35056757" type="audio/mpeg"/>
-      <itunes:duration>0:24:20</itunes:duration>
     </item>
   </channel>
 </rss>
