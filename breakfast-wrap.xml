@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 04:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 04:09:12 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Shorten vindicated by budget tax reforms</title>
+      <description>&lt;p&gt;Former Labor Opposition leader Bill Shorten says he's vindicated by negative gearing changes introduced by the Treasurer in last night's budget.&lt;/p&gt;&lt;p&gt;Mr Shorten attempted to bring in similar tax reforms in the 2019 election campaign that he ultimately lost to Scott Morrison.&lt;/p&gt;&lt;p&gt;Mr Shorten shares his views first with Radio National Breakfast. &lt;/p&gt;&lt;p&gt;Then, we get the latest analysis on the budget from Tom Crowley, and hear from the Treasurer and Shadow Treasurer.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106597396</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106597396</guid>
+      <pubDate>Wed, 13 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kf/Z/pn.mp3" length="35251439" type="audio/mpeg"/>
+      <itunes:duration>0:24:28</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Inside the budget lockup</title>
       <description>&lt;p&gt;Its budget day! We hear from Carrington Clarke as he prepares for the lock-up in Parliament House. &lt;/p&gt;&lt;p&gt;Finance Minister Katy Gallagher previews what we can expect, and her shadow across the aisle Claire Chandler lays out the Coalition's questions. &lt;/p&gt;&lt;p&gt;Then we hear about the pressure British PM  Keir Starmer is under as multiple Labour MPs and Cabinet Ministers call time on his leadership.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Fri, 10 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/je/Z/08.mp3" length="35585519" type="audio/mpeg"/>
       <itunes:duration>0:24:42</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Lebanon under Israeli bombardment despite Iran ceasefire</title>
-      <description>&lt;p&gt;We hear from the former Lebanese Health Minister, a surgeon today treating an influx of casualties in a Beirut hospital after Israel's deadly strikes. They come despite Israel and the US agreeing to a ceasefire with Iran. &lt;/p&gt;&lt;p&gt;We unpack why the US and Israel say Lebanon was excluded from the ceasefire with Iran, and what the Australian government's response is - hear our interview with Foreign Minister Penny Wong. &lt;/p&gt;&lt;p&gt;We also dissect what is happening with the Strait of Hormuz, as there's confusion over whether Iran has reopened it.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106481324</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106481324</guid>
-      <pubDate>Thu, 09 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jc/Z/ro.mp3" length="35329775" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
