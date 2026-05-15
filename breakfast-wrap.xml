@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 04:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:13:43 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Unpacking a big week in politics</title>
+      <description>&lt;p&gt;Can you believe the Farrer by-election was last weekend?&lt;/p&gt;&lt;p&gt;Its been such a big week in federal politics, with One Nation's win, the budget and the opposition's budget reply - we'll unpack all of it with our Friday political panel. &lt;/p&gt;&lt;p&gt;We'll also hear from the former consumer watchdog after the federal court found Coles had broken the law by misleading consumers. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106607258</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106607258</guid>
+      <pubDate>Fri, 15 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ki/Z/7n.mp3" length="35299247" type="audio/mpeg"/>
+      <itunes:duration>0:24:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Trump and Xi's high stakes meeting</title>
       <description>&lt;p&gt;Two of the world's most powerful leaders are about to hold a high-stakes meeting in Beijing.&lt;/p&gt;&lt;p&gt;We'll find out what's on the agenda and what both sides want from the discussions from a former advisor to the US National Security Council and the CIA.&lt;/p&gt;&lt;p&gt;Then, what questions do you have about the government's tax changes in the budget? We'll put them to a chartered accountant. &lt;/p&gt;&lt;p&gt;And we'll speak with someone on the frontline of Ukraine's veteran mental health battle, as Russia's invasion continues for a fourth year. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Tue, 14 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jh/Z/ff.mp3" length="34110959" type="audio/mpeg"/>
       <itunes:duration>0:23:41</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Trump's US blockade on the Strait of Hormuz</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and the most significant stories impacting the lives of all Australians.&lt;/p&gt;&lt;p&gt;First it was Iran imposing a de facto blockade in the Strait of Hormuz, strangling a fifth of the world's oil trade.&lt;/p&gt;&lt;p&gt;Now, US President Donald Trump has vowed to blockade the strait after peace talks with Iran failed to secure an agreement&lt;/p&gt;&lt;p&gt;Iran has demanded the right to collect tolls from vessels travelling through the strait, but Mr Trump says no one who pays them will “have safe passage on the high seas.”&lt;/p&gt;&lt;p&gt;We unpack what this means for the shipping industry, and the legality of a US blockade in the Strait.&lt;/p&gt;&lt;p&gt;Then, the federal government is launching a campaign encouraging Australians to use less fuel where possible. Environment Minister Murray Watt joins the program.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106493864</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106493864</guid>
-      <pubDate>Mon, 13 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jg/Z/c1.mp3" length="33608111" type="audio/mpeg"/>
-      <itunes:duration>0:23:20</itunes:duration>
     </item>
   </channel>
 </rss>
