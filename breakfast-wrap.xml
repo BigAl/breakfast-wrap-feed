@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 04:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:37:25 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Ebola outbreak declared global health emergency</title>
+      <description>&lt;p&gt;The World Health Organisation has declared an Ebola outbreak in the Democratic Republic of the Congo a public health emergency of international concern.&lt;/p&gt;&lt;p&gt;There have been around 250 suspected cases - and 80 deaths - reported in Congo's eastern Ituri province.&lt;/p&gt;&lt;p&gt;We hear from Professor Jane Halton, former Australian Health Department Secretary and current boss of the non-profit Coalition for Epidemic Preparedness Innovations.&lt;/p&gt;&lt;p&gt;Then, how different are the Coalition and One Nation on immigration policy? Shadow minister Dave Sharma gives his take. &lt;/p&gt;&lt;p&gt;And NSW is undertaking an inquiry into the live music sector, so what is the message from festival organisers? &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106615344</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106615344</guid>
+      <pubDate>Mon, 18 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kk/Z/hk.mp3" length="35204783" type="audio/mpeg"/>
+      <itunes:duration>0:24:26</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Unpacking a big week in politics</title>
       <description>&lt;p&gt;Can you believe the Farrer by-election was last weekend?&lt;/p&gt;&lt;p&gt;Its been such a big week in federal politics, with One Nation's win, the budget and the opposition's budget reply - we'll unpack all of it with our Friday political panel. &lt;/p&gt;&lt;p&gt;We'll also hear from the former consumer watchdog after the federal court found Coles had broken the law by misleading consumers. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Wed, 15 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ji/Z/jv.mp3" length="35485295" type="audio/mpeg"/>
       <itunes:duration>0:24:38</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: President Trump vs Pope Leo</title>
-      <description>&lt;p&gt;U.S. President Donald Trump says the American military has begun a blockade of Iranian ports as part of his effort to force Iran to reopen the Strait of Hormuz.&lt;/p&gt;&lt;p&gt;Speaking outside the Oval Office overnight, Mr Trump suggested the U.S. is still willing to engage with Iran, after 21-hour long peace talks failed at the weekend. &lt;/p&gt;&lt;p&gt;Also, an extraordinary feud is growing between US President Donald Trump and the Pope.&lt;/p&gt;&lt;p&gt;The global leader of the Catholic church has said he plans to continue speaking out against war, despite scathing comments from the US president.&lt;/p&gt;&lt;p&gt;While in Australia, energy prices are on the rise due to the war in the Middle East, but the cost of electricity hasn't seen a similar jump, we'll unpack why that is.&lt;/p&gt;&lt;p&gt;There's also a lot of movement in the defence industry.&lt;/p&gt;&lt;p&gt;You'll hear about the billions of dollars set to be invested in drones, and major changes in the top military.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106496382</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106496382</guid>
-      <pubDate>Tue, 14 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jh/Z/ff.mp3" length="34110959" type="audio/mpeg"/>
-      <itunes:duration>0:23:41</itunes:duration>
     </item>
   </channel>
 </rss>
