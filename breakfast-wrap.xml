@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 04:37:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 04:21:06 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why this retailer is ditching their tobacco license</title>
+      <description>&lt;p&gt;While public health advocates and the tobacco industry argue over the merits of lowering the tobacco excise, small businesses are caught in the middle. We hear from one who says he won't renew his tobacco license.&lt;/p&gt;&lt;p&gt;Then we get an update on the growing Ebola outbreak in the DRC and Uganda. &lt;/p&gt;&lt;p&gt;And we speak with a Liberal concerned about his party's stance on immigration. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106623458</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106623458</guid>
+      <pubDate>Tue, 19 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kl/Z/o1.mp3" length="35173679" type="audio/mpeg"/>
+      <itunes:duration>0:24:25</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Ebola outbreak declared global health emergency</title>
       <description>&lt;p&gt;The World Health Organisation has declared an Ebola outbreak in the Democratic Republic of the Congo a public health emergency of international concern.&lt;/p&gt;&lt;p&gt;There have been around 250 suspected cases - and 80 deaths - reported in Congo's eastern Ituri province.&lt;/p&gt;&lt;p&gt;We hear from Professor Jane Halton, former Australian Health Department Secretary and current boss of the non-profit Coalition for Epidemic Preparedness Innovations.&lt;/p&gt;&lt;p&gt;Then, how different are the Coalition and One Nation on immigration policy? Shadow minister Dave Sharma gives his take. &lt;/p&gt;&lt;p&gt;And NSW is undertaking an inquiry into the live music sector, so what is the message from festival organisers? &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Thu, 16 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jk/Z/ih.mp3" length="34001519" type="audio/mpeg"/>
       <itunes:duration>0:23:36</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: IMF warns of global recession</title>
-      <description>&lt;p&gt;The International Monetary Fund has warned of significant pressure on the global economy and inflation if the war between the US and Iran is prolonged.&lt;/p&gt;&lt;p&gt;Its worst-case scenario would see a global recession... inflation as high as six per cent... and elevated fuel prices all the way through 2027.&lt;/p&gt;&lt;p&gt;We'll speak to Treasurer Jim Chalamers.&lt;/p&gt;&lt;p&gt;Then, Israel and Lebanon have held their first direct talks in over three decades, with U.S. Secretary of State Marco Rubio calling it a “historic opportunity”.&lt;/p&gt;&lt;p&gt;But he also made clear no breakthrough agreement was expected, as the conflict -- between the Iran-backed militant group Hezbollah and Israel -- continues.&lt;/p&gt;&lt;p&gt;Back in Australia, the Opposition Leader Angus Taylor has outlined the first part of the Coalition's immigration policy, aiming to reduce migration, increase screening of visa applicants and kick migrants out of the country who do not abide by Australian values.&lt;/p&gt;&lt;p&gt;Finally, we look back at three years of civil war in Sudan, which has seen more than 14-million people displaced.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106497310</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106497310</guid>
-      <pubDate>Wed, 15 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ji/Z/jv.mp3" length="35485295" type="audio/mpeg"/>
-      <itunes:duration>0:24:38</itunes:duration>
     </item>
   </channel>
 </rss>
