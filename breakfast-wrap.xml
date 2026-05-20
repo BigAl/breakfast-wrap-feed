@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 04:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:22:51 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why this sector is alarmed by the tax changes</title>
+      <description>&lt;p&gt;Start-up founders are calling on the federal government to rethink ending the 50% capital gains tax discount - over fears it will cripple the sector.&lt;/p&gt;&lt;p&gt;The newly proposed inflation indexation model - announced in the federal budget last week - has been called the most punitive tax treatment on start-up equity in the western world by some in the sector.&lt;/p&gt;&lt;p&gt;We hear from all sides on the debate, including the federal government and an independent long calling for tax reform. &lt;/p&gt;&lt;p&gt;Then, we get the latest on the Diphtheria outbreak from South Australia. &lt;/p&gt;&lt;p&gt;And we cross to north London as Arsenal take out the EPL. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106628832</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106628832</guid>
+      <pubDate>Wed, 20 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kn/Z/00.mp3" length="34358063" type="audio/mpeg"/>
+      <itunes:duration>0:23:51</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why this retailer is ditching their tobacco license</title>
       <description>&lt;p&gt;While public health advocates and the tobacco industry argue over the merits of lowering the tobacco excise, small businesses are caught in the middle. We hear from one who says he won't renew his tobacco license.&lt;/p&gt;&lt;p&gt;Then we get an update on the growing Ebola outbreak in the DRC and Uganda. &lt;/p&gt;&lt;p&gt;And we speak with a Liberal concerned about his party's stance on immigration. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,24 +228,6 @@
       <pubDate>Mon, 20 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jn/Z/t0.mp3" length="35012975" type="audio/mpeg"/>
       <itunes:duration>0:24:18</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Trump 'not happy' with Australia - again</title>
-      <description>&lt;p&gt;A 10-day ceasefire between Israel and Lebanon has now begun - signalling a pause in Israel's conflict with Iran-backed Hezbollah that has raged in parallel to the war with Iran.&lt;/p&gt;&lt;p&gt;Also, President Donald Trump has lashed out at Australia - again - for not helping re-open the Strait of Hormuz.&lt;/p&gt;&lt;p&gt;Both Defence Minister Richard Marles and his shadow counterpart James Paterson join the program.&lt;/p&gt;&lt;p&gt;It comes as the federal government announces a $53 billion spending boost in defence - but is this enough of an investment? We ask a defence expert.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106507908</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106507908</guid>
-      <pubDate>Fri, 17 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jl/Z/oc.mp3" length="34841903" type="audio/mpeg"/>
-      <itunes:duration>0:24:11</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Refinery fire disrupts Australia's petrol supply</title>
-      <description>&lt;p&gt;A fire has broken out at Viva Energy's Geelong Oil Refinery -  one of Australia's two remaining oil refineries.&lt;/p&gt;&lt;p&gt;Firefighters spent the night battling the fire, and questions are now being asked around the impact on domestic fuel supply.&lt;/p&gt;&lt;p&gt;This comes as senior federal government ministers travel to Asian countries, as they seek assurances on fuel reserves.&lt;/p&gt;&lt;p&gt;Trade Minister Don Farrell joins the program before he heads to Singapore.&lt;/p&gt;&lt;p&gt;Then, key Pakistani mediators are in the Iranian capital trying to revive peace talks between the U-S and Iran.&lt;/p&gt;&lt;p&gt;US and Iran blockades in the Strait of Hormuz remain, but President Donald Trump remains optimistic a deal can be reached.&lt;/p&gt;&lt;p&gt;And the Coalition says it has a plan to restore &quot;integrity and confidence&quot; to Australia's migration system - but experts say there are significant flaws in their policy.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106506200</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106506200</guid>
-      <pubDate>Thu, 16 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jk/Z/ih.mp3" length="34001519" type="audio/mpeg"/>
-      <itunes:duration>0:23:36</itunes:duration>
     </item>
   </channel>
 </rss>
