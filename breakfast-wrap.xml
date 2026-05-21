@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 04:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:39:48 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Working on the Ebola frontline</title>
+      <description>&lt;p&gt;As Ebola infection numbers climb in central Africa, we hear from an infectious diseases physician who's previously worked on the world's biggest ebola outbreak more than a decade ago. &lt;/p&gt;&lt;p&gt;Then, we turn to a separate health matter in Australia, as the federal government announces millions for diphtheria support package.&lt;/p&gt;&lt;p&gt;And we continue asking what questions people have about the government's tax changes. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106633972</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106633972</guid>
+      <pubDate>Thu, 21 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ko/Z/ta.mp3" length="35338991" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why this sector is alarmed by the tax changes</title>
       <description>&lt;p&gt;Start-up founders are calling on the federal government to rethink ending the 50% capital gains tax discount - over fears it will cripple the sector.&lt;/p&gt;&lt;p&gt;The newly proposed inflation indexation model - announced in the federal budget last week - has been called the most punitive tax treatment on start-up equity in the western world by some in the sector.&lt;/p&gt;&lt;p&gt;We hear from all sides on the debate, including the federal government and an independent long calling for tax reform. &lt;/p&gt;&lt;p&gt;Then, we get the latest on the Diphtheria outbreak from South Australia. &lt;/p&gt;&lt;p&gt;And we cross to north London as Arsenal take out the EPL. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Tue, 21 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jp/Z/43.mp3" length="34943855" type="audio/mpeg"/>
       <itunes:duration>0:24:15</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The State of the Strait</title>
-      <description>&lt;p&gt;US President Donald Trump says the U.S. military has taken control of an Iranian-flagged cargo ship by blowing a hole in its engine room. &lt;/p&gt;&lt;p&gt;It comes after Iran reversed its decision to reopen the Strait of Hormuz.&lt;/p&gt;&lt;p&gt;Iran has fired upon multiple vessels at the weekend, with no casualties reported. &lt;/p&gt;&lt;p&gt;We dive into the state of the Strait with a former merchant mariner.&lt;/p&gt;&lt;p&gt;Then, we look at what this means for global oil markets, and how the diminishing supply of jet fuel could impact Australian airfares.&lt;/p&gt;&lt;p&gt;Then, there's lots to unpack with our federal politicians around the economic fallout of the Iran war. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106516318</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106516318</guid>
-      <pubDate>Mon, 20 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jn/Z/t0.mp3" length="35012975" type="audio/mpeg"/>
-      <itunes:duration>0:24:18</itunes:duration>
     </item>
   </channel>
 </rss>
