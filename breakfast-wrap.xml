@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 04:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:24:15 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: PM under fire over DV royal commission comments</title>
+      <description>&lt;p&gt;The Minister for Social Services, Tanya Plibersek has defended the Prime Minister amid criticism of his comments on calls for a Royal Commission into domestic violence. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106635384</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106635384</guid>
+      <pubDate>Fri, 22 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kq/Z/66.mp3" length="35599343" type="audio/mpeg"/>
+      <itunes:duration>0:24:43</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Working on the Ebola frontline</title>
       <description>&lt;p&gt;As Ebola infection numbers climb in central Africa, we hear from an infectious diseases physician who's previously worked on the world's biggest ebola outbreak more than a decade ago. &lt;/p&gt;&lt;p&gt;Then, we turn to a separate health matter in Australia, as the federal government announces millions for diphtheria support package.&lt;/p&gt;&lt;p&gt;And we continue asking what questions people have about the government's tax changes. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Wed, 22 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jq/Z/6q.mp3" length="35333807" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: British PM apologises over Mandelson scandal</title>
-      <description>&lt;p&gt;US President Donald Trump has offered mixed messages overnight about the path ahead for the U.S. war against Iran, declaring that he is in no rush to end the conflict as the second round of peace talks with Iran hangs in the balance.&lt;/p&gt;&lt;p&gt;Iran is currently refusing to send a delegation to the talks in Pakistan - after the U.S. Navy attacked and seized an Iranian-flagged cargo ship near the Strait of Hormuz. &lt;/p&gt;&lt;p&gt;Meanwhile the UK and France have been leading talks on how to best protect commercial shipping routes, once the Strait of Hormuz is secured.&lt;/p&gt;&lt;p&gt;France's Trade Minister joins the program.&lt;/p&gt;&lt;p&gt;Then, you'll learn more about the state of the Strait from an expert who's spent 30 years as an officer in the UK Royal Navy.&lt;/p&gt;&lt;p&gt;Back home, the global oil crisis is impacting Australia's ability to build the one million homes needed under the national housing accord. Housing Minister Clare O'Neill fronts up.&lt;/p&gt;&lt;p&gt;Meanwhile the government is considering a windfall tax on profits made by gas exports.&lt;/p&gt;&lt;p&gt;It comes as new research finds Japan has earned $8 billion a year on average on imports of Australian gas over the past five years.&lt;/p&gt;&lt;p&gt;And in the UK Prime Minister Keir Starmer has been grilled in parliament over the appointment of the former British ambassador to the United States, Lord Peter Mandelson.&lt;/p&gt;&lt;p&gt;Lord Mandelson was sacked in September, just nine months into the job, when new details emerged about his friendship with the late convicted sex offender Jeffrey Epstein.&lt;/p&gt;&lt;p&gt;Sir Starmer has been facing more questions about what he knew and when, after it was revealed Lord Mandelson failed the security vetting process for the ambassadorship. Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106524262</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106524262</guid>
-      <pubDate>Tue, 21 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jp/Z/43.mp3" length="34943855" type="audio/mpeg"/>
-      <itunes:duration>0:24:15</itunes:duration>
     </item>
   </channel>
 </rss>
