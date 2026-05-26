@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 04:46:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 04:21:38 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The plan to reserve gas for Australia</title>
+      <description>&lt;p&gt;The government has released a plan for a gas reservation policy that would force exporters to supply the domestic market with 20 per cent of their exports each year.&lt;/p&gt;&lt;p&gt;We'll hear from the federal resources minister and her Coalition counterpart. &lt;/p&gt;&lt;p&gt;Then 11 Australian activists detained by Israel earlier this month while on a flotilla delivering aid to Gaza have now returned home, following a global outcry over their alleged treatment in custody. One of the activists share's their story with us. &lt;/p&gt;&lt;p&gt;And the AFL world is mourning the death of ex-player and coach Neale Daniher, who's died at the age of 65 after a long battle with motor neurone disease. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106647912</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106647912</guid>
+      <pubDate>Tue, 26 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kt/Z/hs.mp3" length="35280815" type="audio/mpeg"/>
+      <itunes:duration>0:24:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Is a new political party on the horizon?</title>
       <description>&lt;p&gt;Independent MP Zali Steggal has confirmed on Radio National Breakfast that talks are underway among so-called 'teal' independents about forming a new political party. &lt;/p&gt;&lt;p&gt;We hear from the MP, and the former Liberal Prime Minister Malcolm Turnbull about why he thinks it would be a good idea. &lt;/p&gt;&lt;p&gt;Then we also get the latest on the US negotiations with Iran, and what the impact is as they drag on.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,24 +228,6 @@
       <pubDate>Fri, 24 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/js/Z/kt.mp3" length="35705327" type="audio/mpeg"/>
       <itunes:duration>0:24:47</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What do NDIS families think of these major reforms?</title>
-      <description>&lt;p&gt;The federal government has announced sweeping changes to the National Disability Insurance Scheme, in a bid to bring spending back down to sustainable levels, and clamp down on fraud.&lt;/p&gt;&lt;p&gt;On the program we bring you the reactions of participants and their families, as well as advocates and providers.&lt;/p&gt;&lt;p&gt;You'll also hear from one of the original architects of the NDIS, and Health Minister Mark Butler.&lt;/p&gt;&lt;p&gt;Meanwhile in the Strait of Hormuz, Iran has attacked three vessels, seizing two, as tensions rise in the vital waterway.&lt;/p&gt;&lt;p&gt;It comes as US President Donald Trump claims a ceasefire with Iran has been extended - but without a new date.&lt;/p&gt;&lt;p&gt;We'll unpack the state of the Strait.&lt;/p&gt;&lt;p&gt; Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106530952</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106530952</guid>
-      <pubDate>Thu, 23 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jr/Z/cl.mp3" length="35432303" type="audio/mpeg"/>
-      <itunes:duration>0:24:36</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Major reforms ahead for NDIS</title>
-      <description>&lt;p&gt;Big changes are coming to the National Disability Insurance Scheme today - with Health Minister Mark Butler expected to announce measures to curb the growing cost of the scheme later today.&lt;/p&gt;&lt;p&gt;We dive into this with one of the original architects of the scheme, and Greens NDIS Minister, Jordon Steele-John.&lt;/p&gt;&lt;p&gt;In the Middle East, US President Donald Trump has announced a ceasefire between the US and Iran, hours before it was set to expire - you'll get the latest on a rapidly evolving situation.&lt;/p&gt;&lt;p&gt;The E-Safety Commissioner will also weigh in on her decision to put online gaming giants on notice, over fears that extremists and sexual predators are using these platforms to radicalise young people.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106529310</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106529310</guid>
-      <pubDate>Wed, 22 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jq/Z/6q.mp3" length="35333807" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
