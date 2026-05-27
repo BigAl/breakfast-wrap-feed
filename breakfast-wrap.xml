@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 04:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 04:44:23 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Senate tension over the Anti-Corruption boss</title>
+      <description>&lt;p&gt;Outgoing National Anti-Corruption Commissioner Paul Brereton faced a grilling last night by senators in Canberra.&lt;/p&gt;&lt;p&gt;Mr Brereton resigned on Monday - dogged by questions around his handling of defence ties.&lt;/p&gt;&lt;p&gt;We hear from Greens Senator David Shoebridge after a heated exchange he had with Mr Brereton. &lt;/p&gt;&lt;p&gt;Then, the government is unveiling what it's calling the biggest shake-up to employment services in decades - so what will they mean?&lt;/p&gt;&lt;p&gt;And could the Indian Ocean play a greater role in how Australia projects power in our region?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106652440</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106652440</guid>
+      <pubDate>Wed, 27 May 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ku/Z/n5.mp3" length="35176559" type="audio/mpeg"/>
+      <itunes:duration>0:24:25</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The plan to reserve gas for Australia</title>
       <description>&lt;p&gt;The government has released a plan for a gas reservation policy that would force exporters to supply the domestic market with 20 per cent of their exports each year.&lt;/p&gt;&lt;p&gt;We'll hear from the federal resources minister and her Coalition counterpart. &lt;/p&gt;&lt;p&gt;Then 11 Australian activists detained by Israel earlier this month while on a flotilla delivering aid to Gaza have now returned home, following a global outcry over their alleged treatment in custody. One of the activists share's their story with us. &lt;/p&gt;&lt;p&gt;And the AFL world is mourning the death of ex-player and coach Neale Daniher, who's died at the age of 65 after a long battle with motor neurone disease. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Mon, 27 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jv/Z/92.mp3" length="23492736" type="audio/mpeg"/>
       <itunes:duration>0:24:28</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Is the government's gas tax dead?</title>
-      <description>&lt;p&gt;The prime minister is poised to kill off a move to increase taxes on gas giants - echoing the industry's argument that exporters are already paying tens of billions of dollars in taxes each year.&lt;/p&gt;&lt;p&gt;You'll hear from a range of key voices in the gas tax debate.&lt;/p&gt;&lt;p&gt;The United Nations is confident it can get fertiliser shipments through the Strait of Hormuz within seven days, and save millions of people from food insecurity. We speak to the UN boss in charge of the mission.&lt;/p&gt;&lt;p&gt;Back home, fallout from the NDIS reforms continue, as the autism community fears many will be left without support when the federal government cuts 160,000 people from the scheme.&lt;/p&gt;&lt;p&gt;And the new director of Adelaide Writer's Week joins the show.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106532226</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106532226</guid>
-      <pubDate>Fri, 24 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/js/Z/kt.mp3" length="35705327" type="audio/mpeg"/>
-      <itunes:duration>0:24:47</itunes:duration>
     </item>
   </channel>
 </rss>
