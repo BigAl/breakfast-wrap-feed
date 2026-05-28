@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 04:44:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:34:58 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Tax legislation enters parliament</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106657932</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106657932</guid>
+      <pubDate>Thu, 28 May 2026 07:30:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kv/Z/sq.mp3" length="11279808" type="audio/mpeg"/>
+      <itunes:duration>0:23:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Senate tension over the Anti-Corruption boss</title>
       <description>&lt;p&gt;Outgoing National Anti-Corruption Commissioner Paul Brereton faced a grilling last night by senators in Canberra.&lt;/p&gt;&lt;p&gt;Mr Brereton resigned on Monday - dogged by questions around his handling of defence ties.&lt;/p&gt;&lt;p&gt;We hear from Greens Senator David Shoebridge after a heated exchange he had with Mr Brereton. &lt;/p&gt;&lt;p&gt;Then, the government is unveiling what it's calling the biggest shake-up to employment services in decades - so what will they mean?&lt;/p&gt;&lt;p&gt;And could the Indian Ocean play a greater role in how Australia projects power in our region?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Tue, 28 Apr 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k0/Z/9i.mp3" length="34106351" type="audio/mpeg"/>
       <itunes:duration>0:23:41</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Inside the White House Correspondents' Dinner</title>
-      <description>&lt;p&gt;Lax security and entry tickets left in bathrooms. We hear what it was like inside the White House Correspondents' Dinner as a suspected gunman tries to cause chaos at one of the biggest events in Washington. &lt;/p&gt;&lt;p&gt;Then, how will the attack impact the upcoming royal visit to DC? &lt;/p&gt;&lt;p&gt;We'll also hear about the widely condemned boos at ANZAC Day ceremonies around the country, from someone who was targeted. &lt;/p&gt;&lt;p&gt;And what is the impact of the government's major NDIS reform on those who use the services?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106540266</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106540266</guid>
-      <pubDate>Mon, 27 Apr 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/jv/Z/92.mp3" length="23492736" type="audio/mpeg"/>
-      <itunes:duration>0:24:28</itunes:duration>
     </item>
   </channel>
 </rss>
