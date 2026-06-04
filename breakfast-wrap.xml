@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 05:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 05:00:40 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Scrutiny of aged care funding algorithm</title>
+      <description>&lt;p&gt;It's been revealed this week an algorithm - used to determine how much government funding older Australians should get to help them live at home - has caused dozens of mistakes.&lt;/p&gt;&lt;p&gt;We put questions to the Minister for Aged Care and Seniors.&lt;/p&gt;&lt;p&gt;Then, as the US flags new tariffs on Australia and Canberra continues to sell its revised second-hand sub deal with Washington, you'll hear from Australia's former Ambassador to the US and federal Treasurer Joe Hockey.&lt;/p&gt;&lt;p&gt;The BBC's Barbara Plett-Usher will fill us in on the political response in Kenya to the Ebola outbreak in the DRC and America's controversial plans for a quarantine centre.&lt;/p&gt;&lt;p&gt;And we'll explore the outrage in the UK around a murder, and body-cam footage showing a now under-fire police response. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106687390</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106687390</guid>
+      <pubDate>Thu, 04 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/l6/Z/qp.mp3" length="35308463" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Florida sues OpenAI</title>
       <description>&lt;p&gt;Florida has become the first US state to sue emerging tech giant OpenAI over the design and safety of its chatbot, ChatGPT.&lt;/p&gt;&lt;p&gt;The legal action comes as Florida pursues a criminal investigation into whether ChatGPT played a part in a mass shooting at Florida State University last year,  which left two people dead.&lt;/p&gt;&lt;p&gt;Then Ukrainians are preparing for another night of bombardment following a deadly wave of attacks from Russia. &lt;/p&gt;&lt;p&gt;And Matt Canavan discusses the government's move to second-hand submarines, and the future of the Nationals amid the rise of One Nation.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Tue, 05 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k7/Z/cd.mp3" length="34382831" type="audio/mpeg"/>
       <itunes:duration>0:23:52</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: How Australia conquered curling</title>
-      <description>&lt;p&gt;Is this Australia's Cool Runnings moment?&lt;/p&gt;&lt;p&gt;Australia's mixed team curlers Tahli Gill and Dean Hewitt have claimed world championship gold in Switzerland.&lt;/p&gt;&lt;p&gt;We hear from Dean fresh off the win. &lt;/p&gt;&lt;p&gt;Then, the Japanese Prime Minister is in town for annual talks, so why is this a particularly important trip from the new leader?&lt;/p&gt;&lt;p&gt;And we'll return to Alice Springs days after the devastation of the death of a five year-old girl. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106563004</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106563004</guid>
-      <pubDate>Mon, 04 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k6/Z/2f.mp3" length="35347055" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
