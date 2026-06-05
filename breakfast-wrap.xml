@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 05:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 04:42:41 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap Special: Scandal at KPMG</title>
+      <description>&lt;p&gt;What do you know about the scandal engulfing one of Australia's biggest consulting firms? &lt;/p&gt;&lt;p&gt;We hear from a former insider and ex-whistleblower, the politician who brought this story to light, and the federal government about how its responding, after a whistleblower alleged that auditors at the firm misused confidential client documents.&lt;/p&gt;&lt;p&gt;Its an explosive story we've been covering in depth all week. This special episode guides you through whats happened, and explains why its so significant. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106688918</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106688918</guid>
+      <pubDate>Fri, 05 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/l8/Z/19.mp3" length="35606261" type="audio/mpeg"/>
+      <itunes:duration>0:24:43</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Scrutiny of aged care funding algorithm</title>
       <description>&lt;p&gt;It's been revealed this week an algorithm - used to determine how much government funding older Australians should get to help them live at home - has caused dozens of mistakes.&lt;/p&gt;&lt;p&gt;We put questions to the Minister for Aged Care and Seniors.&lt;/p&gt;&lt;p&gt;Then, as the US flags new tariffs on Australia and Canberra continues to sell its revised second-hand sub deal with Washington, you'll hear from Australia's former Ambassador to the US and federal Treasurer Joe Hockey.&lt;/p&gt;&lt;p&gt;The BBC's Barbara Plett-Usher will fill us in on the political response in Kenya to the Ebola outbreak in the DRC and America's controversial plans for a quarantine centre.&lt;/p&gt;&lt;p&gt;And we'll explore the outrage in the UK around a murder, and body-cam footage showing a now under-fire police response. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Wed, 06 May 2026 09:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k8/Z/ge.mp3" length="34610927" type="audio/mpeg"/>
       <itunes:duration>0:24:02</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Why big tobacco was given a secret Senate hearing</title>
-      <description>&lt;p&gt;The federal government and the Greens are demanding answers after a Liberal-led Senate inquiry allowed tobacco giant Philip Morris to deliver evidence behind closed doors yesterday.&lt;/p&gt;&lt;p&gt;Liberal Senator Leah Blyth chairs the committee looking into illegal tobacco in Australia and granted the closed hearing - to the dismay of several health organisations already giving evidence.&lt;/p&gt;&lt;p&gt;We hear from one of the organisation's who gave its evidence publicly. &lt;/p&gt;&lt;p&gt;Then, what is going on in the Strait of Hormuz? A former US Naval commander shares their insights. &lt;/p&gt;&lt;p&gt;And we ask the government about gambling reform. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106569724</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106569724</guid>
-      <pubDate>Tue, 05 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/k7/Z/cd.mp3" length="34382831" type="audio/mpeg"/>
-      <itunes:duration>0:23:52</itunes:duration>
     </item>
   </channel>
 </rss>
