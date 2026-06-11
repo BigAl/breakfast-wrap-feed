@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 04:41:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:55:28 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: How is the Coalition handling Pauline Hanson?</title>
+      <description>&lt;p&gt;One Nation has had a lucrative day fundraising in Perth, off the back of bumper polls suggesting it is the nation's most popular political party. So, how is the Coalition handling One Nation, amid internal suggestions the two parties cooperate ahead of the next election?&lt;/p&gt;&lt;p&gt;Then, Foreign Minister Penny Wong discusses the situation in the Middle East amid continued strikes between Iran and the US.&lt;/p&gt;&lt;p&gt;And we head to Belfast as migrant communities weather a second day of violent anti-immigration protests.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106713964</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106713964</guid>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ld/Z/r0.mp3" length="35190383" type="audio/mpeg"/>
+      <itunes:duration>0:24:26</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Social media ban six months on</title>
       <description>&lt;p&gt;It's been six months since Australia's world-leading social media ban for under-16s took effect - so how effective has the policy been?&lt;/p&gt;&lt;p&gt;Then, one of the world's biggest and most valuable artificial intelligence companies - Anthropic - this month made an extraordinary appeal to rivals to pause work on the technology.&lt;/p&gt;&lt;p&gt;And we cross to Belfast as violent anti-immigration protests engulf parts of the city.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Tue, 12 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ke/Z/kp.mp3" length="35316527" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Albanese blames Coalition for One Nation's Farrer success</title>
-      <description>&lt;p&gt;PM Anthony Albanese says the &quot;Liberal and National parties made a big mistake legitimising One Nation&quot;, following the weekend's Farrer by-election.&lt;/p&gt;&lt;p&gt;We hear from Mr Albanese, and Nationals defector turned One Nation MP Barnaby Joyce following the party's historic win. &lt;/p&gt;&lt;p&gt;Then, a similar challenge to the major parties in the UK sees Keir Starmer's prime ministership under threat. &lt;/p&gt;&lt;p&gt;And we'll get the latest on the US war with Iran. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106590818</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106590818</guid>
-      <pubDate>Mon, 11 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kd/Z/fg.mp3" length="34976687" type="audio/mpeg"/>
-      <itunes:duration>0:24:17</itunes:duration>
     </item>
   </channel>
 </rss>
