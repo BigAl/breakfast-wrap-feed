@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:55:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:58:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: How Belfast migrants have weathered a violent week</title>
+      <description>&lt;p&gt;We speak to a Belfast local and migrant about how his family has weathered violent anti-immigration protests in the city.&lt;/p&gt;&lt;p&gt;&quot;With that smoke coming in and the explosions of my neighbour's house and cars being set alight, my kids came to me and said, Daddy, are we okay here?&quot;&lt;/p&gt;&lt;p&gt;Listen to the powerful account from Anselme Shima .&lt;/p&gt;&lt;p&gt;Then, two British ministers quit Keir Starmer's government on principle over defence funding - we unpack a chaotic day in British politics. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106715212</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106715212</guid>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lf/Z/0g.mp3" length="35207669" type="audio/mpeg"/>
+      <itunes:duration>0:24:26</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: How is the Coalition handling Pauline Hanson?</title>
       <description>&lt;p&gt;One Nation has had a lucrative day fundraising in Perth, off the back of bumper polls suggesting it is the nation's most popular political party. So, how is the Coalition handling One Nation, amid internal suggestions the two parties cooperate ahead of the next election?&lt;/p&gt;&lt;p&gt;Then, Foreign Minister Penny Wong discusses the situation in the Middle East amid continued strikes between Iran and the US.&lt;/p&gt;&lt;p&gt;And we head to Belfast as migrant communities weather a second day of violent anti-immigration protests.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -219,15 +228,6 @@
       <pubDate>Wed, 13 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kf/Z/pn.mp3" length="35251439" type="audio/mpeg"/>
       <itunes:duration>0:24:28</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Inside the budget lockup</title>
-      <description>&lt;p&gt;Its budget day! We hear from Carrington Clarke as he prepares for the lock-up in Parliament House. &lt;/p&gt;&lt;p&gt;Finance Minister Katy Gallagher previews what we can expect, and her shadow across the aisle Claire Chandler lays out the Coalition's questions. &lt;/p&gt;&lt;p&gt;Then we hear about the pressure British PM  Keir Starmer is under as multiple Labour MPs and Cabinet Ministers call time on his leadership.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106595280</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106595280</guid>
-      <pubDate>Tue, 12 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ke/Z/kp.mp3" length="35316527" type="audio/mpeg"/>
-      <itunes:duration>0:24:31</itunes:duration>
     </item>
   </channel>
 </rss>
