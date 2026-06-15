@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 04:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:22:49 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Peace agreement signed between Iran and US</title>
+      <description>&lt;p&gt;US President Donald Trump says the United States and Iran have agreed to a ceasefire deal to end their war.While all the terms of the deal are yet to be announced, we know the Strait of Hormuz is set to be reopened.&lt;/p&gt;&lt;p&gt;We also hear about the President's UFC match on the White House lawn. &lt;/p&gt;&lt;p&gt;We explore an attempt to limit Switzerland's population to 10 million people.&lt;/p&gt;&lt;p&gt;And Socceroos legends react to a historic opening match at the World Cup. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106722952</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106722952</guid>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lh/Z/it.mp3" length="35398319" type="audio/mpeg"/>
+      <itunes:duration>0:24:34</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: How Belfast migrants have weathered a violent week</title>
       <description>&lt;p&gt;We speak to a Belfast local and migrant about how his family has weathered violent anti-immigration protests in the city.&lt;/p&gt;&lt;p&gt;&quot;With that smoke coming in and the explosions of my neighbour's house and cars being set alight, my kids came to me and said, Daddy, are we okay here?&quot;&lt;/p&gt;&lt;p&gt;Listen to the powerful account from Anselme Shima .&lt;/p&gt;&lt;p&gt;Then, two British ministers quit Keir Starmer's government on principle over defence funding - we unpack a chaotic day in British politics. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
