@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 05:22:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:26:26 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: How Israel could derail Trump's Iran deal</title>
+      <description>&lt;p&gt;The world is waiting for further details on the deal signed between the US and Iran to stop the war in its tracks, but why could Israel's continuing invasion of Lebanon derail the prospects for peace?&lt;/p&gt;&lt;p&gt;We'll hear from the former US Ambassador to Lebanon and find out what the Australian government's response is. &lt;/p&gt;&lt;p&gt;Then, the UK is following in Australia's footsteps with their own teen social media ban, so how is Britain trying to go even further?&lt;/p&gt;&lt;p&gt;And you'll hear an exclusive interview with one of the crew of NASA's next Artemis mission. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106728578</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106728578</guid>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/li/Z/ma.mp3" length="35349365" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Peace agreement signed between Iran and US</title>
       <description>&lt;p&gt;US President Donald Trump says the United States and Iran have agreed to a ceasefire deal to end their war.While all the terms of the deal are yet to be announced, we know the Strait of Hormuz is set to be reopened.&lt;/p&gt;&lt;p&gt;We also hear about the President's UFC match on the White House lawn. &lt;/p&gt;&lt;p&gt;We explore an attempt to limit Switzerland's population to 10 million people.&lt;/p&gt;&lt;p&gt;And Socceroos legends react to a historic opening match at the World Cup. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Thu, 14 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kg/Z/vo.mp3" length="35622383" type="audio/mpeg"/>
       <itunes:duration>0:24:44</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Shorten vindicated by budget tax reforms</title>
-      <description>&lt;p&gt;Former Labor Opposition leader Bill Shorten says he's vindicated by negative gearing changes introduced by the Treasurer in last night's budget.&lt;/p&gt;&lt;p&gt;Mr Shorten attempted to bring in similar tax reforms in the 2019 election campaign that he ultimately lost to Scott Morrison.&lt;/p&gt;&lt;p&gt;Mr Shorten shares his views first with Radio National Breakfast. &lt;/p&gt;&lt;p&gt;Then, we get the latest analysis on the budget from Tom Crowley, and hear from the Treasurer and Shadow Treasurer.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106597396</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106597396</guid>
-      <pubDate>Wed, 13 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kf/Z/pn.mp3" length="35251439" type="audio/mpeg"/>
-      <itunes:duration>0:24:28</itunes:duration>
     </item>
   </channel>
 </rss>
