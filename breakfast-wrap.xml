@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 05:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:07:16 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia looks into sexual assault claims against Israeli forces</title>
+      <description>&lt;p&gt;The AFP is probing allegations that Israeli forces sexually assaulted Australian activists involved in a humanitarian flotilla last month, accusations denied by the Israeli Ambassador to Australia.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap you'll hear from a father of one of the activists making these accusations, who attended a meeting with the AFP and Foreign Minister on the allegations. And we'll put his comments to the Israeli Ambassador to Australia Hillel Newman. &lt;/p&gt;&lt;p&gt;Then, comments from the Shadow Treasurer Tim Wilson are drawing criticism from Labor. He made the comments during an interview today on Radio National Breakfast, so what has he actually said?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106735640</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106735640</guid>
+      <pubDate>Wed, 17 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lj/Z/rg.mp3" length="35104559" type="audio/mpeg"/>
+      <itunes:duration>0:24:22</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: How Israel could derail Trump's Iran deal</title>
       <description>&lt;p&gt;The world is waiting for further details on the deal signed between the US and Iran to stop the war in its tracks, but why could Israel's continuing invasion of Lebanon derail the prospects for peace?&lt;/p&gt;&lt;p&gt;We'll hear from the former US Ambassador to Lebanon and find out what the Australian government's response is. &lt;/p&gt;&lt;p&gt;Then, the UK is following in Australia's footsteps with their own teen social media ban, so how is Britain trying to go even further?&lt;/p&gt;&lt;p&gt;And you'll hear an exclusive interview with one of the crew of NASA's next Artemis mission. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Fri, 15 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ki/Z/7n.mp3" length="35299247" type="audio/mpeg"/>
       <itunes:duration>0:24:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Trump and Xi's high stakes meeting</title>
-      <description>&lt;p&gt;Two of the world's most powerful leaders are about to hold a high-stakes meeting in Beijing.&lt;/p&gt;&lt;p&gt;We'll find out what's on the agenda and what both sides want from the discussions from a former advisor to the US National Security Council and the CIA.&lt;/p&gt;&lt;p&gt;Then, what questions do you have about the government's tax changes in the budget? We'll put them to a chartered accountant. &lt;/p&gt;&lt;p&gt;And we'll speak with someone on the frontline of Ukraine's veteran mental health battle, as Russia's invasion continues for a fourth year. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106602436</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106602436</guid>
-      <pubDate>Thu, 14 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kg/Z/vo.mp3" length="35622383" type="audio/mpeg"/>
-      <itunes:duration>0:24:44</itunes:duration>
     </item>
   </channel>
 </rss>
