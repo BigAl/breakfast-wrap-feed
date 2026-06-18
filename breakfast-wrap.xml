@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:07:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 04:57:26 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Hanson's speech slammed</title>
+      <description>&lt;p&gt;Pauline Hanson gave one of the longest speeches heard at the National Press Club in Canberra yesterday — and certainly one of the most controversial.&lt;/p&gt;&lt;p&gt;The One Nation leader — riding high in recent polling — advocated for a &quot;mono-cultural&quot; society by restricting immigration, targeting what she called &quot;radical Islam&quot;.&lt;/p&gt;&lt;p&gt;Today we hear from the Special Envoy to Combat Islamophobia, and from the President of the Human Rights Commission. The new One Nation MP for Farrer also shares his views, and Tom Crowley explains how the speech will be used politically by all sides. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106740186</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106740186</guid>
+      <pubDate>Thu, 18 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ll/Z/4p.mp3" length="34995695" type="audio/mpeg"/>
+      <itunes:duration>0:24:18</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australia looks into sexual assault claims against Israeli forces</title>
       <description>&lt;p&gt;The AFP is probing allegations that Israeli forces sexually assaulted Australian activists involved in a humanitarian flotilla last month, accusations denied by the Israeli Ambassador to Australia.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap you'll hear from a father of one of the activists making these accusations, who attended a meeting with the AFP and Foreign Minister on the allegations. And we'll put his comments to the Israeli Ambassador to Australia Hillel Newman. &lt;/p&gt;&lt;p&gt;Then, comments from the Shadow Treasurer Tim Wilson are drawing criticism from Labor. He made the comments during an interview today on Radio National Breakfast, so what has he actually said?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Mon, 18 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kk/Z/hk.mp3" length="35204783" type="audio/mpeg"/>
       <itunes:duration>0:24:26</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Unpacking a big week in politics</title>
-      <description>&lt;p&gt;Can you believe the Farrer by-election was last weekend?&lt;/p&gt;&lt;p&gt;Its been such a big week in federal politics, with One Nation's win, the budget and the opposition's budget reply - we'll unpack all of it with our Friday political panel. &lt;/p&gt;&lt;p&gt;We'll also hear from the former consumer watchdog after the federal court found Coles had broken the law by misleading consumers. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106607258</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106607258</guid>
-      <pubDate>Fri, 15 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ki/Z/7n.mp3" length="35299247" type="audio/mpeg"/>
-      <itunes:duration>0:24:30</itunes:duration>
     </item>
   </channel>
 </rss>
