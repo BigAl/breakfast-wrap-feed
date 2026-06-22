@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 05:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:24:56 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: H5 bird flu detected in Australia for first time</title>
+      <description>&lt;p&gt;The deadly H5N1 bird flu has officially been detected for the first time on mainland Australia.&lt;/p&gt;&lt;p&gt;The highly contagious variant - which has now reached every continent - has devastated wildlife populations overseas.&lt;/p&gt;&lt;p&gt;We hear from Australia's Chief Veterinary Office.&lt;/p&gt;&lt;p&gt;Then, Labor Senator Deborah O'Neill discusses last week's a fiery Senate inquiry testimony from former KPMG boss Andrew Yates. &lt;/p&gt;&lt;p&gt;And we look at the political uncertainty facing the future of Keir Starmer's Prime Ministership. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106749980</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106749980</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lo/Z/o5.mp3" length="35353391" type="audio/mpeg"/>
+      <itunes:duration>0:24:33</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Treasurer defends backdown over CGT carve-outs</title>
       <description>&lt;p&gt;The federal government has unveiled carve-outs to its proposed capital gains tax changes, following complaints from business groups and start-ups.&lt;/p&gt;&lt;p&gt;A 50% capital gains concession for small businesses will be expanded to all those with a turnover up to 10 million dollars, and there will also be carve outs for startups and discretionary testamentary trusts. So how is the federal Treasurer defending the change?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Wed, 20 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kn/Z/00.mp3" length="34358063" type="audio/mpeg"/>
       <itunes:duration>0:23:51</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Why this retailer is ditching their tobacco license</title>
-      <description>&lt;p&gt;While public health advocates and the tobacco industry argue over the merits of lowering the tobacco excise, small businesses are caught in the middle. We hear from one who says he won't renew his tobacco license.&lt;/p&gt;&lt;p&gt;Then we get an update on the growing Ebola outbreak in the DRC and Uganda. &lt;/p&gt;&lt;p&gt;And we speak with a Liberal concerned about his party's stance on immigration. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106623458</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106623458</guid>
-      <pubDate>Tue, 19 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kl/Z/o1.mp3" length="35173679" type="audio/mpeg"/>
-      <itunes:duration>0:24:25</itunes:duration>
     </item>
   </channel>
 </rss>
