@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 05:24:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 04:16:54 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Starmer out with Burnham bound for Number 10</title>
+      <description>&lt;p&gt;Sir Keir Starmer has become the sixth British prime minister to leave office in the past 10 years.&lt;/p&gt;&lt;p&gt;It paves the way for newly-elected MP Andy Burnham to vie for the top job, following last week's by-election victory. &lt;/p&gt;&lt;p&gt;We get the views from across Westminster on a monumental day in British political history. &lt;/p&gt;&lt;p&gt;From the journalists covering the developments at Downing street, then inside Keir Starmers camp, with his former political director, and one of the backbenchers who's stood by his side. &lt;/p&gt;&lt;p&gt;We also hear from a Conservative peer in the House of Lords, who's also handily a polling analyst.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106753680</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106753680</guid>
+      <pubDate>Tue, 23 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lp/Z/u9.mp3" length="35311919" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: H5 bird flu detected in Australia for first time</title>
       <description>&lt;p&gt;The deadly H5N1 bird flu has officially been detected for the first time on mainland Australia.&lt;/p&gt;&lt;p&gt;The highly contagious variant - which has now reached every continent - has devastated wildlife populations overseas.&lt;/p&gt;&lt;p&gt;We hear from Australia's Chief Veterinary Office.&lt;/p&gt;&lt;p&gt;Then, Labor Senator Deborah O'Neill discusses last week's a fiery Senate inquiry testimony from former KPMG boss Andrew Yates. &lt;/p&gt;&lt;p&gt;And we look at the political uncertainty facing the future of Keir Starmer's Prime Ministership. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Thu, 21 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ko/Z/ta.mp3" length="35338991" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Why this sector is alarmed by the tax changes</title>
-      <description>&lt;p&gt;Start-up founders are calling on the federal government to rethink ending the 50% capital gains tax discount - over fears it will cripple the sector.&lt;/p&gt;&lt;p&gt;The newly proposed inflation indexation model - announced in the federal budget last week - has been called the most punitive tax treatment on start-up equity in the western world by some in the sector.&lt;/p&gt;&lt;p&gt;We hear from all sides on the debate, including the federal government and an independent long calling for tax reform. &lt;/p&gt;&lt;p&gt;Then, we get the latest on the Diphtheria outbreak from South Australia. &lt;/p&gt;&lt;p&gt;And we cross to north London as Arsenal take out the EPL. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106628832</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106628832</guid>
-      <pubDate>Wed, 20 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kn/Z/00.mp3" length="34358063" type="audio/mpeg"/>
-      <itunes:duration>0:23:51</itunes:duration>
     </item>
   </channel>
 </rss>
