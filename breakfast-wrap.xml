@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 04:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:20:31 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Is there a correction going on in Australia's housing market?</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106758284</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106758284</guid>
+      <pubDate>Wed, 24 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lr/Z/3q.mp3" length="35555567" type="audio/mpeg"/>
+      <itunes:duration>0:24:41</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Starmer out with Burnham bound for Number 10</title>
       <description>&lt;p&gt;Sir Keir Starmer has become the sixth British prime minister to leave office in the past 10 years.&lt;/p&gt;&lt;p&gt;It paves the way for newly-elected MP Andy Burnham to vie for the top job, following last week's by-election victory. &lt;/p&gt;&lt;p&gt;We get the views from across Westminster on a monumental day in British political history. &lt;/p&gt;&lt;p&gt;From the journalists covering the developments at Downing street, then inside Keir Starmers camp, with his former political director, and one of the backbenchers who's stood by his side. &lt;/p&gt;&lt;p&gt;We also hear from a Conservative peer in the House of Lords, who's also handily a polling analyst.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Fri, 22 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kq/Z/66.mp3" length="35599343" type="audio/mpeg"/>
       <itunes:duration>0:24:43</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Working on the Ebola frontline</title>
-      <description>&lt;p&gt;As Ebola infection numbers climb in central Africa, we hear from an infectious diseases physician who's previously worked on the world's biggest ebola outbreak more than a decade ago. &lt;/p&gt;&lt;p&gt;Then, we turn to a separate health matter in Australia, as the federal government announces millions for diphtheria support package.&lt;/p&gt;&lt;p&gt;And we continue asking what questions people have about the government's tax changes. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106633972</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106633972</guid>
-      <pubDate>Thu, 21 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ko/Z/ta.mp3" length="35338991" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
