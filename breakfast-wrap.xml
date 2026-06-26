@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 04:19:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 04:35:59 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Western Sydney Special</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106769006</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106769006</guid>
+      <pubDate>Fri, 26 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lt/Z/dt.mp3" length="35525615" type="audio/mpeg"/>
+      <itunes:duration>0:24:40</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: ASIO warns of 'unprecedented threats' facing Australlia</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 25 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ks/Z/am.mp3" length="35083247" type="audio/mpeg"/>
       <itunes:duration>0:24:21</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: PM under fire over DV royal commission comments</title>
-      <description>&lt;p&gt;The Minister for Social Services, Tanya Plibersek has defended the Prime Minister amid criticism of his comments on calls for a Royal Commission into domestic violence. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106635384</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106635384</guid>
-      <pubDate>Fri, 22 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kq/Z/66.mp3" length="35599343" type="audio/mpeg"/>
-      <itunes:duration>0:24:43</itunes:duration>
     </item>
   </channel>
 </rss>
