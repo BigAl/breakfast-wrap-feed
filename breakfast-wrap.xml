@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 04:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:55:31 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Victoria's Big Build woes</title>
+      <description>&lt;p&gt;Nine newspapers are reporting that a two-year attempted clean-up of Victoria's big build has failed to stop sums of money flowing from state and federally funded projects through to the underworld. &lt;/p&gt;&lt;p&gt;We hear from the federal opposition and government on the revelations from 60 Minutes. &lt;/p&gt;&lt;p&gt;Then, independent MP Monique Ryan explains why she wants to change the date of HECS indexation, and what she makes of the new party formed by two high profile independents. &lt;/p&gt;&lt;p&gt;And we turn to the crisis in Venezuela, following the devastating twin earthquakes last week. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106778824</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106778824</guid>
+      <pubDate>Mon, 29 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lv/Z/qs.mp3" length="35327471" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Western Sydney Special</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 26 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kt/Z/hs.mp3" length="35280815" type="audio/mpeg"/>
       <itunes:duration>0:24:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Is a new political party on the horizon?</title>
-      <description>&lt;p&gt;Independent MP Zali Steggal has confirmed on Radio National Breakfast that talks are underway among so-called 'teal' independents about forming a new political party. &lt;/p&gt;&lt;p&gt;We hear from the MP, and the former Liberal Prime Minister Malcolm Turnbull about why he thinks it would be a good idea. &lt;/p&gt;&lt;p&gt;Then we also get the latest on the US negotiations with Iran, and what the impact is as they drag on.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106643242</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106643242</guid>
-      <pubDate>Mon, 25 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ks/Z/am.mp3" length="35083247" type="audio/mpeg"/>
-      <itunes:duration>0:24:21</itunes:duration>
     </item>
   </channel>
 </rss>
