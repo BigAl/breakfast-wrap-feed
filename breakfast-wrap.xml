@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 04:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:21:07 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What is the Nakamal agreement?</title>
+      <description>&lt;p&gt;After months of stalled negotiations, Australia has inked a landmark strategic pact with the Pacific Island nation of Vanuatu.&lt;/p&gt;&lt;p&gt;So what does it mean for both parties?&lt;/p&gt;&lt;p&gt;And we look at chaos in South Africa, as protest groups demand that all undocumented foreigners leave the country by today, ahead of anti-immigration rallies that many fear will turn violent.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106783782</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106783782</guid>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m1/Z/2t.mp3" length="33894959" type="audio/mpeg"/>
+      <itunes:duration>0:23:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Victoria's Big Build woes</title>
       <description>&lt;p&gt;Nine newspapers are reporting that a two-year attempted clean-up of Victoria's big build has failed to stop sums of money flowing from state and federally funded projects through to the underworld. &lt;/p&gt;&lt;p&gt;We hear from the federal opposition and government on the revelations from 60 Minutes. &lt;/p&gt;&lt;p&gt;Then, independent MP Monique Ryan explains why she wants to change the date of HECS indexation, and what she makes of the new party formed by two high profile independents. &lt;/p&gt;&lt;p&gt;And we turn to the crisis in Venezuela, following the devastating twin earthquakes last week. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Wed, 27 May 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ku/Z/n5.mp3" length="35176559" type="audio/mpeg"/>
       <itunes:duration>0:24:25</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The plan to reserve gas for Australia</title>
-      <description>&lt;p&gt;The government has released a plan for a gas reservation policy that would force exporters to supply the domestic market with 20 per cent of their exports each year.&lt;/p&gt;&lt;p&gt;We'll hear from the federal resources minister and her Coalition counterpart. &lt;/p&gt;&lt;p&gt;Then 11 Australian activists detained by Israel earlier this month while on a flotilla delivering aid to Gaza have now returned home, following a global outcry over their alleged treatment in custody. One of the activists share's their story with us. &lt;/p&gt;&lt;p&gt;And the AFL world is mourning the death of ex-player and coach Neale Daniher, who's died at the age of 65 after a long battle with motor neurone disease. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106647912</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106647912</guid>
-      <pubDate>Tue, 26 May 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/kt/Z/hs.mp3" length="35280815" type="audio/mpeg"/>
-      <itunes:duration>0:24:30</itunes:duration>
     </item>
   </channel>
 </rss>
