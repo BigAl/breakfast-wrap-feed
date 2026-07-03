@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 04:17:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 04:03:17 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: David Pocock on Labor's gambling ad reforms</title>
+      <description>&lt;p&gt;Crossbenchers have helped force Senate committee inquiries into the contentious gambling regulation and social media bills.&lt;/p&gt;&lt;p&gt;Then, will the government's changes to the automated assessment process for in-home care funding improve the situation for older Australians? &lt;/p&gt;&lt;p&gt;And the federal government has pledged $2 million in humanitarian aid to support communities affected by last week's twin earthquakes.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106795364</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106795364</guid>
+      <pubDate>Fri, 03 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m4/Z/i7.mp3" length="35516399" type="audio/mpeg"/>
+      <itunes:duration>0:24:39</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Who's getting help in Venezuela, and who isn't</title>
       <description>&lt;p&gt;There's growing outrage at the Venezuelan government's response to the twin earthquakes, with many Venezuelans accusing authorities of abandoning them for days without any equipment or personnel - leaving them to search for survivors with their bare hands.&lt;/p&gt;&lt;p&gt;We hear from a journalist on the ground speaking to affected families. &lt;/p&gt;&lt;p&gt;Then, the government gets into discussions with the Opposition and the crossbench over its gambling ad restriction legislation. &lt;/p&gt;&lt;p&gt;And we return to the Aged Care Minister for an update on a controversial algorithm-assisted tool.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
