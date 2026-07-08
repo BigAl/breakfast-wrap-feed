@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 04:12:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 03:37:53 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Scandals engulf Victorian political parties</title>
+      <description>&lt;p&gt;With a state election less than 150 days away, Victoria's two major parties are engulfed in scandal. &lt;/p&gt;&lt;p&gt;The Labor Premier has been referred to the anti-corruption watchdog over the state's big build scandal.&lt;/p&gt;&lt;p&gt;And the Liberal party is in disarray as one MP launches legal action right as the party was set to disendorse her.&lt;/p&gt;&lt;p&gt;We hear from the Shadow Attorney General James Newbury.&lt;/p&gt;&lt;p&gt;Then,  two far-right leaders in Europe are vowing to fight what will be significant elections - we'll find out what's going on with Marine le Pen and Nigel Farage.&lt;/p&gt;&lt;p&gt;And we'll take a look at the Prime Minister's diplomacy in the Pacific this week. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106816692</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106816692</guid>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m9/Z/cj.mp3" length="35388527" type="audio/mpeg"/>
+      <itunes:duration>0:24:34</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Trump's red card call stirs World Cup storm</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 04 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/l6/Z/qp.mp3" length="35308463" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Florida sues OpenAI</title>
-      <description>&lt;p&gt;Florida has become the first US state to sue emerging tech giant OpenAI over the design and safety of its chatbot, ChatGPT.&lt;/p&gt;&lt;p&gt;The legal action comes as Florida pursues a criminal investigation into whether ChatGPT played a part in a mass shooting at Florida State University last year,  which left two people dead.&lt;/p&gt;&lt;p&gt;Then Ukrainians are preparing for another night of bombardment following a deadly wave of attacks from Russia. &lt;/p&gt;&lt;p&gt;And Matt Canavan discusses the government's move to second-hand submarines, and the future of the Nationals amid the rise of One Nation.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106680980</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106680980</guid>
-      <pubDate>Wed, 03 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/l5/Z/l8.mp3" length="35364335" type="audio/mpeg"/>
-      <itunes:duration>0:24:33</itunes:duration>
     </item>
   </channel>
 </rss>
