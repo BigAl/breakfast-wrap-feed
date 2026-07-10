@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 04:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 04:08:05 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Modi comes to Melbourne</title>
+      <description>&lt;p&gt;We take a closer look at the Indian Prime Minister Narendra Modi's trip to Melbourne. &lt;/p&gt;&lt;p&gt;The two day leaders summit forged agreements to deepen defence ties, share more military information, also to finalise a uranium export deal.&lt;/p&gt;&lt;p&gt;And it culminated in a massive event at Melbourne's Docklands stadium attended by thousands of supporters and community members. &lt;/p&gt;&lt;p&gt;We'll hear from those attending, and go behind the spectacle. &lt;/p&gt;&lt;p&gt;We'll speak to the Greens, the Resources Minister, Australia's former Ambassador to India, also Human Rights Watch and Indian diaspora media covering this week's meetings. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106824038</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106824038</guid>
+      <pubDate>Fri, 10 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mb/Z/q9.mp3" length="35382767" type="audio/mpeg"/>
+      <itunes:duration>0:24:34</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Telstra under fire</title>
       <description>&lt;p&gt;Telstra says network faults persist today - while it continues to conduct welfare checks on customers who failed to access Triple Zero.&lt;/p&gt;&lt;p&gt;We hear from the Federal Government, the Opposition, and the Telecommunications Industry Ombudsman as Telstra cleans up. &lt;/p&gt;&lt;p&gt;Then, India's Prime Minister Narendra Modi will meet Australian PM Anthony Albanese today, where they're expected to secure a landmark uranium agreement - and boost defence ties.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 08 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/la/Z/cq.mp3" length="35394287" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap Special: Scandal at KPMG</title>
-      <description>&lt;p&gt;What do you know about the scandal engulfing one of Australia's biggest consulting firms? &lt;/p&gt;&lt;p&gt;We hear from a former insider and ex-whistleblower, the politician who brought this story to light, and the federal government about how its responding, after a whistleblower alleged that auditors at the firm misused confidential client documents.&lt;/p&gt;&lt;p&gt;Its an explosive story we've been covering in depth all week. This special episode guides you through whats happened, and explains why its so significant. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106688918</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106688918</guid>
-      <pubDate>Fri, 05 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/l8/Z/19.mp3" length="35606261" type="audio/mpeg"/>
-      <itunes:duration>0:24:43</itunes:duration>
     </item>
   </channel>
 </rss>
