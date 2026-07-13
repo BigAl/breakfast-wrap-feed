@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 04:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 03:51:32 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Universities required to adopt definitions of antisemitism and Islamophobia</title>
+      <description>&lt;p&gt;Australia universities will be required to adopt formal definitions of antisemitism, Islamophobia and racism against Aboriginal and Torres Strait Islander peoples, under a new standard starting from today.&lt;/p&gt;&lt;p&gt;We hear from the Home Affairs Minister Tony Burke, and the Shadow Education Minister Julian Leeser. &lt;/p&gt;&lt;p&gt;Then, there's an unwelcome addition to the Aussie music charts - a song created with AI-assisted technology. &lt;/p&gt;&lt;p&gt;The local music industry is campaigning for the government to maintain copyright laws amid lobbying from AI companies to do away certain protections. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106834490</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106834490</guid>
+      <pubDate>Mon, 13 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/me/Z/35.mp3" length="35500847" type="audio/mpeg"/>
+      <itunes:duration>0:24:39</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Modi comes to Melbourne</title>
       <description>&lt;p&gt;We take a closer look at the Indian Prime Minister Narendra Modi's trip to Melbourne. &lt;/p&gt;&lt;p&gt;The two day leaders summit forged agreements to deepen defence ties, share more military information, also to finalise a uranium export deal.&lt;/p&gt;&lt;p&gt;And it culminated in a massive event at Melbourne's Docklands stadium attended by thousands of supporters and community members. &lt;/p&gt;&lt;p&gt;We'll hear from those attending, and go behind the spectacle. &lt;/p&gt;&lt;p&gt;We'll speak to the Greens, the Resources Minister, Australia's former Ambassador to India, also Human Rights Watch and Indian diaspora media covering this week's meetings. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
