@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 03:26:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 03:25:56 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Inside big AI</title>
+      <description>&lt;p&gt;As the Prime Minister unveils a new national framework on artificial intelligence, we take you inside one of the world's biggest AI companies with a former board member of Open AI.&lt;/p&gt;&lt;p&gt;Then, a string of alleged domestic violence tragedies is prompting new questions on what could really make a difference to an epidemic of violence against women and children.&lt;/p&gt;&lt;p&gt;And the Royal Commission into Antisemitism and Social Cohesion continues its focus on universities today - so we hear from Bill Shorten, the Vice Chancellor of the University of Canberra.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106843690</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106843690</guid>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mg/Z/9a.mp3" length="35344751" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: &quot;Gobsmacking&quot; US plans for Strait of Hormuz</title>
       <description>&lt;p&gt; The battle for control of the Strait of Hormuz intensified overnight, with Washington saying it will immediately reinstate its blockade of Iran ports - and impose a 20 per cent charge on all cargo shipped.&lt;/p&gt;&lt;p&gt;A former US Ambassador to the United Arab Emirates shares their take on the President's plans. &lt;/p&gt;&lt;p&gt;Meanwhile a new report from the eSafety Commission has revealed significant gaps in the way major tech companies are tackling child sexual exploitation and abuse.&lt;/p&gt;&lt;p&gt;Then, we'll hear from the university sector with new requirements coming in for institutions to adopt definitions on antisemitism, Islamophobia and racism.&lt;/p&gt;&lt;p&gt;And we'll hear a tribute to the late actor and legendary Kiwi Sam Neill. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,24 +246,6 @@
       <pubDate>Thu, 11 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ld/Z/r0.mp3" length="35190383" type="audio/mpeg"/>
       <itunes:duration>0:24:26</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Social media ban six months on</title>
-      <description>&lt;p&gt;It's been six months since Australia's world-leading social media ban for under-16s took effect - so how effective has the policy been?&lt;/p&gt;&lt;p&gt;Then, one of the world's biggest and most valuable artificial intelligence companies - Anthropic - this month made an extraordinary appeal to rivals to pause work on the technology.&lt;/p&gt;&lt;p&gt;And we cross to Belfast as violent anti-immigration protests engulf parts of the city.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106707608</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106707608</guid>
-      <pubDate>Wed, 10 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lc/Z/jj.mp3" length="35328629" type="audio/mpeg"/>
-      <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: ABC boss faces questions</title>
-      <description>&lt;p&gt;ABC Managing Director Hugh Marks faces questions about the resignation of ABC News boss Justin Stevens, the discussion around Grace Tame's new ABC podcast series, and the comments from ABC Radio host Charlie Pickering.&lt;/p&gt;&lt;p&gt;Sally Sara also discusses the future of the broadcaster, and any potential concerns from the KPMG scandal. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106704204</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106704204</guid>
-      <pubDate>Tue, 09 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lb/Z/ff.mp3" length="34508399" type="audio/mpeg"/>
-      <itunes:duration>0:23:57</itunes:duration>
     </item>
   </channel>
 </rss>
