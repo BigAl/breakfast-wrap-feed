@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 03:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 03:30:43 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Hanson's controversial &quot;fact-finding&quot; mission with Britain's far-right</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106850164</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106850164</guid>
+      <pubDate>Thu, 16 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mh/Z/dk.mp3" length="35155247" type="audio/mpeg"/>
+      <itunes:duration>0:24:24</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Inside big AI</title>
       <description>&lt;p&gt;As the Prime Minister unveils a new national framework on artificial intelligence, we take you inside one of the world's biggest AI companies with a former board member of Open AI.&lt;/p&gt;&lt;p&gt;Then, a string of alleged domestic violence tragedies is prompting new questions on what could really make a difference to an epidemic of violence against women and children.&lt;/p&gt;&lt;p&gt;And the Royal Commission into Antisemitism and Social Cohesion continues its focus on universities today - so we hear from Bill Shorten, the Vice Chancellor of the University of Canberra.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106715212</guid>
       <pubDate>Fri, 12 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lf/Z/0g.mp3" length="35207669" type="audio/mpeg"/>
-      <itunes:duration>0:24:26</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: How is the Coalition handling Pauline Hanson?</title>
-      <description>&lt;p&gt;One Nation has had a lucrative day fundraising in Perth, off the back of bumper polls suggesting it is the nation's most popular political party. So, how is the Coalition handling One Nation, amid internal suggestions the two parties cooperate ahead of the next election?&lt;/p&gt;&lt;p&gt;Then, Foreign Minister Penny Wong discusses the situation in the Middle East amid continued strikes between Iran and the US.&lt;/p&gt;&lt;p&gt;And we head to Belfast as migrant communities weather a second day of violent anti-immigration protests.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106713964</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106713964</guid>
-      <pubDate>Thu, 11 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ld/Z/r0.mp3" length="35190383" type="audio/mpeg"/>
       <itunes:duration>0:24:26</itunes:duration>
     </item>
   </channel>
