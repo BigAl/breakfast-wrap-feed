@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 03:30:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 03:31:42 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Smoking rate data exposes illicit tobacco challenge</title>
+      <description>&lt;p&gt;We'll unpack new data showing the challenge ahead on the illicit tobacco trade, and dive into extraordinary comments made by Senator Pauline Hanson on Tommy Robinson's podcast. &lt;/p&gt;&lt;p&gt;And we'll cap the week marking 60 years of Play School with one of the show's most iconic presenters Benita Collings. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106851780</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106851780</guid>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mi/Z/ib.mp3" length="35317679" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Hanson's controversial &quot;fact-finding&quot; mission with Britain's far-right</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 15 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lh/Z/it.mp3" length="35398319" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: How Belfast migrants have weathered a violent week</title>
-      <description>&lt;p&gt;We speak to a Belfast local and migrant about how his family has weathered violent anti-immigration protests in the city.&lt;/p&gt;&lt;p&gt;&quot;With that smoke coming in and the explosions of my neighbour's house and cars being set alight, my kids came to me and said, Daddy, are we okay here?&quot;&lt;/p&gt;&lt;p&gt;Listen to the powerful account from Anselme Shima .&lt;/p&gt;&lt;p&gt;Then, two British ministers quit Keir Starmer's government on principle over defence funding - we unpack a chaotic day in British politics. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106715212</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106715212</guid>
-      <pubDate>Fri, 12 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lf/Z/0g.mp3" length="35207669" type="audio/mpeg"/>
-      <itunes:duration>0:24:26</itunes:duration>
     </item>
   </channel>
 </rss>
