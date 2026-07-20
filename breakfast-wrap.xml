@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 03:31:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 03:57:18 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Reuters chief on the future of news</title>
+      <description>&lt;p&gt;As artificial intelligence swarms all aspects of our lives, we'll hear how the boss of one of the world's biggest media companies is managing the transformation. &lt;/p&gt;&lt;p&gt;Then Victoria is introducing new laws to un-mask anonymous trolls who vilify others online, especially minors. &lt;/p&gt;&lt;p&gt;And we get an immediate reaction to the World Cup final from Australia's own Craig Foster, and we'll hear how US President Donald Trump still managed to steal the spotlight from the Spanish mens side.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106863626</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106863626</guid>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mk/Z/r4.mp3" length="34016495" type="audio/mpeg"/>
+      <itunes:duration>0:23:37</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Smoking rate data exposes illicit tobacco challenge</title>
       <description>&lt;p&gt;We'll unpack new data showing the challenge ahead on the illicit tobacco trade, and dive into extraordinary comments made by Senator Pauline Hanson on Tommy Robinson's podcast. &lt;/p&gt;&lt;p&gt;And we'll cap the week marking 60 years of Play School with one of the show's most iconic presenters Benita Collings. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
