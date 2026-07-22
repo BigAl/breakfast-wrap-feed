@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 03:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:37:08 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Unpacking the NT's child protection reforms</title>
+      <description>&lt;p&gt;The NT government has passed its child protection law reforms in a late-night sitting of parliament, as critics warn they will weaken a key national standard to protect Indigenous children.&lt;/p&gt;&lt;p&gt;SNAICC CEO Catherine Liddle says &quot;its unforgivable to make decisions that you know will unfairly impact and damage children for the rest of their lives. The most vulnerable children in the country.&quot;&lt;/p&gt;&lt;p&gt;More from Ms Liddle on today's episode of the Breakfast Wrap.&lt;/p&gt;&lt;p&gt;Then, NSW Premier Chris Minns talks One Nation, and the former Premier of Tasmania Peter Gutwein takes on a new role as Chair of the Australian Multicultural Council. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106869086</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106869086</guid>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mn/Z/42.mp3" length="34849967" type="audio/mpeg"/>
+      <itunes:duration>0:24:12</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Israel criticises Labor's draft Palestine policy</title>
       <description>&lt;p&gt;Israel's embassy has complained ahead of Labor's national conference on the party's proposed position on Israel and Palestine.&lt;/p&gt;&lt;p&gt;Labor is considering adopting a more detailed position on the conflict, including on issues like illegal settlements and the death penalty, to replace the platform's previous call for recognition of a Palestinian state.&lt;/p&gt;&lt;p&gt;Then, new data from the Border Force has revealed the amount of illicit tobacco products being seized on their way into Australia. &lt;/p&gt;&lt;p&gt;And the &quot;King of the North&quot; Andy Burnham has overnight officially become Britain's seventh prime minister in ten years.&lt;/p&gt;&lt;p&gt;In a speech outside 10 Downing Street, Mr Burnham says Britain needs to show the world it can regain stability.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 18 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ll/Z/4p.mp3" length="34995695" type="audio/mpeg"/>
       <itunes:duration>0:24:18</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australia looks into sexual assault claims against Israeli forces</title>
-      <description>&lt;p&gt;The AFP is probing allegations that Israeli forces sexually assaulted Australian activists involved in a humanitarian flotilla last month, accusations denied by the Israeli Ambassador to Australia.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap you'll hear from a father of one of the activists making these accusations, who attended a meeting with the AFP and Foreign Minister on the allegations. And we'll put his comments to the Israeli Ambassador to Australia Hillel Newman. &lt;/p&gt;&lt;p&gt;Then, comments from the Shadow Treasurer Tim Wilson are drawing criticism from Labor. He made the comments during an interview today on Radio National Breakfast, so what has he actually said?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106735640</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106735640</guid>
-      <pubDate>Wed, 17 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lj/Z/rg.mp3" length="35104559" type="audio/mpeg"/>
-      <itunes:duration>0:24:22</itunes:duration>
     </item>
   </channel>
 </rss>
