@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 03:37:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 03:38:19 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: 'Lab leak' at OpenAI</title>
+      <description>&lt;p&gt;Artificial intelligence giant OpenAI has revealed that one of its most advanced AI models went rogue and hacked another company.&lt;/p&gt;&lt;p&gt;So how did this happen, what does it mean and what should we do next? &lt;/p&gt;&lt;p&gt;We'll hear from one expert in the field and find out how it ties in with Australian federal political conversations, as Labor prepares to discuss AI at its national conference. &lt;/p&gt;&lt;p&gt;Then, will the Israeli Prime Minister Benjamin Netanyahu be arrested when lands in New York in September for the UN General Assembly? We'll unpack how the city's Mayor Zohran Mamdani plans to take on the Israeli leader. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106877794</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106877794</guid>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mo/Z/cl.mp3" length="35261814" type="audio/mpeg"/>
+      <itunes:duration>0:24:29</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Unpacking the NT's child protection reforms</title>
       <description>&lt;p&gt;The NT government has passed its child protection law reforms in a late-night sitting of parliament, as critics warn they will weaken a key national standard to protect Indigenous children.&lt;/p&gt;&lt;p&gt;SNAICC CEO Catherine Liddle says &quot;its unforgivable to make decisions that you know will unfairly impact and damage children for the rest of their lives. The most vulnerable children in the country.&quot;&lt;/p&gt;&lt;p&gt;More from Ms Liddle on today's episode of the Breakfast Wrap.&lt;/p&gt;&lt;p&gt;Then, NSW Premier Chris Minns talks One Nation, and the former Premier of Tasmania Peter Gutwein takes on a new role as Chair of the Australian Multicultural Council. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 19 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lm/Z/b2.mp3" length="35170223" type="audio/mpeg"/>
       <itunes:duration>0:24:25</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Hanson's speech slammed by critics</title>
-      <description>&lt;p&gt;Pauline Hanson gave one of the longest speeches heard at the National Press Club in Canberra yesterday — and certainly one of the most controversial.&lt;/p&gt;&lt;p&gt;The One Nation leader — riding high in recent polling — advocated for a &quot;mono-cultural&quot; society by restricting immigration, targeting what she called &quot;radical Islam&quot;.&lt;/p&gt;&lt;p&gt;Today we hear from the Special Envoy to Combat Islamophobia, and from the President of the Human Rights Commission. The new One Nation MP for Farrer also shares his views, and Tom Crowley explains how the speech will be used politically by all sides. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106740186</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106740186</guid>
-      <pubDate>Thu, 18 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ll/Z/4p.mp3" length="34995695" type="audio/mpeg"/>
-      <itunes:duration>0:24:18</itunes:duration>
     </item>
   </channel>
 </rss>
