@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 03:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 03:36:31 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Gambling regulation push within Labor</title>
+      <description>&lt;p&gt;As Labor delegates meet for the party's National Conference this week, we'll look at an internal push to strengthen gambling regulation.&lt;/p&gt;&lt;p&gt;Then an AI ethicist explains how governments should respond after this week's agentic OpenAI hack that has caused shockwaves around the world. &lt;/p&gt;&lt;p&gt;And we'll speak with the former French National Education Minister as France follows in Australia's footsteps banning social media for teenagers. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106881074</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106881074</guid>
+      <pubDate>Fri, 24 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mq/Z/4p.mp3" length="35344751" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: 'Lab leak' at OpenAI</title>
       <description>&lt;p&gt;Artificial intelligence giant OpenAI has revealed that one of its most advanced AI models went rogue and hacked another company.&lt;/p&gt;&lt;p&gt;So how did this happen, what does it mean and what should we do next? &lt;/p&gt;&lt;p&gt;We'll hear from one expert in the field and find out how it ties in with Australian federal political conversations, as Labor prepares to discuss AI at its national conference. &lt;/p&gt;&lt;p&gt;Then, will the Israeli Prime Minister Benjamin Netanyahu be arrested when lands in New York in September for the UN General Assembly? We'll unpack how the city's Mayor Zohran Mamdani plans to take on the Israeli leader. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 22 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lo/Z/o5.mp3" length="35353391" type="audio/mpeg"/>
       <itunes:duration>0:24:33</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Treasurer defends backdown over CGT carve-outs</title>
-      <description>&lt;p&gt;The federal government has unveiled carve-outs to its proposed capital gains tax changes, following complaints from business groups and start-ups.&lt;/p&gt;&lt;p&gt;A 50% capital gains concession for small businesses will be expanded to all those with a turnover up to 10 million dollars, and there will also be carve outs for startups and discretionary testamentary trusts. So how is the federal Treasurer defending the change?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106741762</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106741762</guid>
-      <pubDate>Fri, 19 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lm/Z/b2.mp3" length="35170223" type="audio/mpeg"/>
-      <itunes:duration>0:24:25</itunes:duration>
     </item>
   </channel>
 </rss>
