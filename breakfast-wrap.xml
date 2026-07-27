@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 03:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 03:57:02 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Labor's lone dissenter</title>
+      <description>&lt;p&gt;Labor's national conference wrapped up on the weekend in a spirit of consensus, after party powerbrokers successfully squashed public debates on some issues.&lt;/p&gt;&lt;p&gt;One of them came from Labor back-bencher Ed Husic who failed to secure a seconder for his proposed resolution on Israel and Palestine.&lt;/p&gt;&lt;p&gt;Then, is the Victorian Premier in trouble just four months out from a state election? We'll find out about the plot to topple Jacinta Allan. &lt;/p&gt;&lt;p&gt;And India's Cockroach movement has toppled the country's Education Minister.  &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106890988</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106890988</guid>
+      <pubDate>Mon, 27 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ms/Z/9c.mp3" length="34713455" type="audio/mpeg"/>
+      <itunes:duration>0:24:06</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Gambling regulation push within Labor</title>
       <description>&lt;p&gt;As Labor delegates meet for the party's National Conference this week, we'll look at an internal push to strengthen gambling regulation.&lt;/p&gt;&lt;p&gt;Then an AI ethicist explains how governments should respond after this week's agentic OpenAI hack that has caused shockwaves around the world. &lt;/p&gt;&lt;p&gt;And we'll speak with the former French National Education Minister as France follows in Australia's footsteps banning social media for teenagers. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 23 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lp/Z/u9.mp3" length="35311919" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: H5 bird flu detected in Australia for first time</title>
-      <description>&lt;p&gt;The deadly H5N1 bird flu has officially been detected for the first time on mainland Australia.&lt;/p&gt;&lt;p&gt;The highly contagious variant - which has now reached every continent - has devastated wildlife populations overseas.&lt;/p&gt;&lt;p&gt;We hear from Australia's Chief Veterinary Office.&lt;/p&gt;&lt;p&gt;Then, Labor Senator Deborah O'Neill discusses last week's a fiery Senate inquiry testimony from former KPMG boss Andrew Yates. &lt;/p&gt;&lt;p&gt;And we look at the political uncertainty facing the future of Keir Starmer's Prime Ministership. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106749980</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106749980</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lo/Z/o5.mp3" length="35353391" type="audio/mpeg"/>
-      <itunes:duration>0:24:33</itunes:duration>
     </item>
   </channel>
 </rss>
