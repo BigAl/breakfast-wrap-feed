@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 03:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 03:28:46 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The aged care struggles of migrant Australians</title>
+      <description>&lt;p&gt;A third of older Australians were born overseas, yet their experience of aged care can be vastly different than the rest of the population&lt;/p&gt;&lt;p&gt;We hear from 82 year old Chalani, an Australian who migrated from Sri Lanka more than 50 years ago, about her difficulties accessing supports. &lt;/p&gt;&lt;p&gt;Then, Sally McManus and Michele O'Neil announce they are stepping down as heads of the Australian Council of Trade Unions.&lt;/p&gt;&lt;p&gt;And One Nation leader Pauline Hanson has lost an appeal against a court ruling that found she racially discriminated against Greens Senator Mehreen Faruqi. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106892492</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106892492</guid>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mt/Z/i1.mp3" length="35332079" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Labor's lone dissenter</title>
       <description>&lt;p&gt;Labor's national conference wrapped up on the weekend in a spirit of consensus, after party powerbrokers successfully squashed public debates on some issues.&lt;/p&gt;&lt;p&gt;One of them came from Labor back-bencher Ed Husic who failed to secure a seconder for his proposed resolution on Israel and Palestine.&lt;/p&gt;&lt;p&gt;Then, is the Victorian Premier in trouble just four months out from a state election? We'll find out about the plot to topple Jacinta Allan. &lt;/p&gt;&lt;p&gt;And India's Cockroach movement has toppled the country's Education Minister.  &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Wed, 24 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lr/Z/3q.mp3" length="35555567" type="audio/mpeg"/>
       <itunes:duration>0:24:41</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Starmer out with Burnham bound for Number 10</title>
-      <description>&lt;p&gt;Sir Keir Starmer has become the sixth British prime minister to leave office in the past 10 years.&lt;/p&gt;&lt;p&gt;It paves the way for newly-elected MP Andy Burnham to vie for the top job, following last week's by-election victory. &lt;/p&gt;&lt;p&gt;We get the views from across Westminster on a monumental day in British political history. &lt;/p&gt;&lt;p&gt;From the journalists covering the developments at Downing street, then inside Keir Starmers camp, with his former political director, and one of the backbenchers who's stood by his side. &lt;/p&gt;&lt;p&gt;We also hear from a Conservative peer in the House of Lords, who's also handily a polling analyst.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106753680</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106753680</guid>
-      <pubDate>Tue, 23 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lp/Z/u9.mp3" length="35311919" type="audio/mpeg"/>
-      <itunes:duration>0:24:31</itunes:duration>
     </item>
   </channel>
 </rss>
