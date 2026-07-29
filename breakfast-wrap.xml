@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 03:28:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 03:31:17 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: New Premier calls royal commission</title>
+      <description>&lt;p&gt;Victorian Premier Jacinta Allan is out and the state has a new leader pledging to crack down on alleged corruption in the construction sector.&lt;/p&gt;&lt;p&gt;New Premier Ben Carroll, who was unanimously voted in by the Labor caucus, said his first action would be to call a royal commission into the construction sector promising to do things &quot;differently&quot; from his predecessors.&lt;/p&gt;&lt;p&gt;We hear from former Victorian Labor Premier Steve Bracks, also the ex-commissioner of the state's anti-corruption watchdog Robert Redlich KC. &lt;/p&gt;&lt;p&gt;And we'll finish in Washington DC as the US President meets with the Israeli Prime Minister on Iran. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106899830</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106899830</guid>
+      <pubDate>Wed, 29 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mu/Z/l9.mp3" length="35358575" type="audio/mpeg"/>
+      <itunes:duration>0:24:33</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The aged care struggles of migrant Australians</title>
       <description>&lt;p&gt;A third of older Australians were born overseas, yet their experience of aged care can be vastly different than the rest of the population&lt;/p&gt;&lt;p&gt;We hear from 82 year old Chalani, an Australian who migrated from Sri Lanka more than 50 years ago, about her difficulties accessing supports. &lt;/p&gt;&lt;p&gt;Then, Sally McManus and Michele O'Neil announce they are stepping down as heads of the Australian Council of Trade Unions.&lt;/p&gt;&lt;p&gt;And One Nation leader Pauline Hanson has lost an appeal against a court ruling that found she racially discriminated against Greens Senator Mehreen Faruqi. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 25 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ls/Z/60.mp3" length="35367215" type="audio/mpeg"/>
       <itunes:duration>0:24:33</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Is there a correction going on in Australia's housing market?</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106758284</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106758284</guid>
-      <pubDate>Wed, 24 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lr/Z/3q.mp3" length="35555567" type="audio/mpeg"/>
-      <itunes:duration>0:24:41</itunes:duration>
     </item>
   </channel>
 </rss>
