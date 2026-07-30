@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 03:31:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 03:19:17 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Inflation falls again</title>
+      <description>&lt;p&gt;The federal government is cautiously welcoming the latest inflation data out yesterday.&lt;/p&gt;&lt;p&gt;Then, there's growing international concern over the human toll of Sudan's brutal civil war with infants being caught up in the conflict.&lt;/p&gt;&lt;p&gt;In Japan, authorities are desperately searching for any survivors following an earthquake which struck the southern city of Kumamoto on Tuesday.'&lt;/p&gt;&lt;p&gt;And the U.S. has partnered with Saudi Arabia to strike Iran-backed militias in neighbouring Iraq.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106904424</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106904424</guid>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mv/Z/sf.mp3" length="35456495" type="audio/mpeg"/>
+      <itunes:duration>0:24:37</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: New Premier calls royal commission</title>
       <description>&lt;p&gt;Victorian Premier Jacinta Allan is out and the state has a new leader pledging to crack down on alleged corruption in the construction sector.&lt;/p&gt;&lt;p&gt;New Premier Ben Carroll, who was unanimously voted in by the Labor caucus, said his first action would be to call a royal commission into the construction sector promising to do things &quot;differently&quot; from his predecessors.&lt;/p&gt;&lt;p&gt;We hear from former Victorian Labor Premier Steve Bracks, also the ex-commissioner of the state's anti-corruption watchdog Robert Redlich KC. &lt;/p&gt;&lt;p&gt;And we'll finish in Washington DC as the US President meets with the Israeli Prime Minister on Iran. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 26 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lt/Z/dt.mp3" length="35525615" type="audio/mpeg"/>
       <itunes:duration>0:24:40</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: ASIO warns of 'unprecedented threats' facing Australlia</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106767160</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106767160</guid>
-      <pubDate>Thu, 25 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ls/Z/60.mp3" length="35367215" type="audio/mpeg"/>
-      <itunes:duration>0:24:33</itunes:duration>
     </item>
   </channel>
 </rss>
