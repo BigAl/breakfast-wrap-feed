@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 03:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:45:38 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia takes Telegram to court</title>
+      <description>&lt;p&gt;Australia's online watchdog, the office of the eSafety Commissioner, has launched Federal Court proceedings against the messaging app, Telegram.&lt;/p&gt;&lt;p&gt;It has accused the company of failing to remove terrorist and violent extremist content from the platform, despite repeated warnings.&lt;/p&gt;&lt;p&gt;Then, in an extraordinary development overnight, member nations of the European governing body -- UEFA --  have unanimously voted to boycott all FIFA competitions if a proposal to sell parts of the World Cup goes ahead.&lt;/p&gt;&lt;p&gt;And there are calls for Federal Labor MP Luke Gosling to stand down as he fights assault charges.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106906260</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106906260</guid>
+      <pubDate>Fri, 31 Jul 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n1/Z/88.mp3" length="34678895" type="audio/mpeg"/>
+      <itunes:duration>0:24:04</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Inflation falls again</title>
       <description>&lt;p&gt;The federal government is cautiously welcoming the latest inflation data out yesterday.&lt;/p&gt;&lt;p&gt;Then, there's growing international concern over the human toll of Sudan's brutal civil war with infants being caught up in the conflict.&lt;/p&gt;&lt;p&gt;In Japan, authorities are desperately searching for any survivors following an earthquake which struck the southern city of Kumamoto on Tuesday.'&lt;/p&gt;&lt;p&gt;And the U.S. has partnered with Saudi Arabia to strike Iran-backed militias in neighbouring Iraq.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 29 Jun 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lv/Z/qs.mp3" length="35327471" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Western Sydney Special</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106769006</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106769006</guid>
-      <pubDate>Fri, 26 Jun 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/lt/Z/dt.mp3" length="35525615" type="audio/mpeg"/>
-      <itunes:duration>0:24:40</itunes:duration>
     </item>
   </channel>
 </rss>
