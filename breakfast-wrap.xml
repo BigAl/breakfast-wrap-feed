@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 03:31:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 03:26:34 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What is Labor planning on migration?</title>
+      <description>&lt;p&gt;Home Affairs Minister Tony Burke has postponed a scheduled appearance at the National Press Club where he was expected to unveil sweeping cuts to migration, which the ABC understands were internally contentious.&lt;/p&gt;&lt;p&gt;Tom Crowley shares the latest on the story he broke overnight. &lt;/p&gt;&lt;p&gt;Then, the government is trying to address unintended consequences flowing from its budget decision to restrict negative gearing to newly built homes. We hear from the government's Special Envoy for Social Housing and Homelessness, Labor MP Josh Burns. &lt;/p&gt;&lt;p&gt;Then to West Africa where Morocco has named a highway after the US President. &lt;/p&gt;&lt;p&gt;And the FIFA President is calling a major meeting tomorrow amid growing calls for him to step down. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106925788</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106925788</guid>
+      <pubDate>Wed, 05 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n6/Z/5o.mp3" length="35341871" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Will the government get tougher on gambling?</title>
       <description>&lt;p&gt;Gambling company employees have allegedly been giving drugs as an inducement.&lt;/p&gt;&lt;p&gt;That's what was alleged at the Senate gambling inquiry yesterday by a former NRL player. &lt;/p&gt;&lt;p&gt;Today on the Breakfast Wrap Luke Bateman explains what response he wants to see to his claims .&lt;/p&gt;&lt;p&gt;We'll also hear from Labor and the Greens. &lt;/p&gt;&lt;p&gt;Then overseas, the UK is facing its driest conditions in hundreds of years as much of the country is consumed by drought. &lt;/p&gt;&lt;p&gt;And what is really going on between Iran and the US? A former National Security Council director will share her take.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
