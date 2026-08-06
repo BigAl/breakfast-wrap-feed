@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 03:26:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 03:29:57 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Gambling sector fronts up</title>
+      <description>&lt;p&gt;We hear from the industry body representing gambling companies.&lt;/p&gt;&lt;p&gt;It follows days of pretty incredible testimony at a senate inquiry and news today that Labor could simply shelve its gambling reforms rather than bargain with the Coalition and Greens over changes.&lt;/p&gt;&lt;p&gt;Then, major media publishers - including News Corp - have criticised the federal government's incoming changes to the News Bargaining Incentive legislation, but what do regional and rural publishers think?&lt;/p&gt;&lt;p&gt;And the government wants to ensure new data centres will offset their power use with renewable energy - we'll ask the Environment and Climate Change minister questions about the legislation. &lt;/p&gt;&lt;p&gt;And we'll find out about a new parliamentary committee asking the question - is Australia ready for war?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106930800</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106930800</guid>
+      <pubDate>Thu, 06 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n7/Z/cj.mp3" length="35391407" type="audio/mpeg"/>
+      <itunes:duration>0:24:34</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What is Labor planning on migration?</title>
       <description>&lt;p&gt;Home Affairs Minister Tony Burke has postponed a scheduled appearance at the National Press Club where he was expected to unveil sweeping cuts to migration, which the ABC understands were internally contentious.&lt;/p&gt;&lt;p&gt;Tom Crowley shares the latest on the story he broke overnight. &lt;/p&gt;&lt;p&gt;Then, the government is trying to address unintended consequences flowing from its budget decision to restrict negative gearing to newly built homes. We hear from the government's Special Envoy for Social Housing and Homelessness, Labor MP Josh Burns. &lt;/p&gt;&lt;p&gt;Then to West Africa where Morocco has named a highway after the US President. &lt;/p&gt;&lt;p&gt;And the FIFA President is calling a major meeting tomorrow amid growing calls for him to step down. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Thu, 02 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m3/Z/a7.mp3" length="35337263" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Gambling ad restrictions set to hit parliament</title>
-      <description>&lt;p&gt;The government's gambling reforms are expected to go before parliament tomorrow amid fierce opposition from the Greens and cross-bench MPs who say the restrictions on advertising don't go nearly far enough. &lt;/p&gt;&lt;p&gt;We'll hear from the Greens and the federal opposition. &lt;/p&gt;&lt;p&gt;Then, there are major changes facing youth digital media, and some of the biggest mainstream companies, as the cost of business rises and AI processes are adopted across the industry. We'll hear from the former co-founder of Junkee media ahead of their National Press Club address. &lt;/p&gt;&lt;p&gt;And Carrington Clarke will fill us in on all the new financial year updates you should be across. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106788962</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106788962</guid>
-      <pubDate>Wed, 01 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m2/Z/6h.mp3" length="35557295" type="audio/mpeg"/>
-      <itunes:duration>0:24:41</itunes:duration>
     </item>
   </channel>
 </rss>
