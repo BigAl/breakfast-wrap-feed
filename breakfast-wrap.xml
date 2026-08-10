@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 02:28:37 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What Australia must do to tackle bird flu</title>
+      <description>&lt;p&gt;Are there things Australia can learn from the US in the fight against bird flu? &lt;/p&gt;&lt;p&gt;Also, the government is determined to pass its reforms to the National Disability Insurance Scheme, but now a former director of the NDIA suggests a new approach is needed. &lt;/p&gt;&lt;p&gt;And tomorrow night millions of Australians will fill in the census. With a selection of new questions on gender and sexuality, what will the latest figures be able to tell us? &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107016322</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107016322</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nb/Z/f6.mp3" length="23575296" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: ABC apologises to Gina Rinehart</title>
       <description>&lt;p&gt;Did the ABC get it right on the Race Around the World controversy? &lt;/p&gt;&lt;p&gt;We hear from the ABC's former editorial boss about an apology the broadcaster has made to Australia's richest person about a line in a short film aired on television. &lt;/p&gt;&lt;p&gt;Then, we cap a big week of debate on gambling, with Independent Senator David Pocock and Deputy Prime Minister Richard Marles. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
