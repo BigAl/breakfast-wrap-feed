@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 02:28:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 02:22:11 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Colombia races to find quake survivors</title>
+      <description>&lt;p&gt;Colombia is racing to find survivors after a deadly earthquake hit the country. We'll take you there to hear about the community at the centre of the disaster.&lt;/p&gt;&lt;p&gt;Then, the South Australian State government has launched a new royal commission into artificial intelligence and the policy settings around it - the Premier Peter Malinauskas explains his thinking. &lt;/p&gt;&lt;p&gt;And Federal Parliament resumes today, with the government hoping to pass a number of bills this sitting fortnight - including proposals to overhaul the National Disability Insurance Scheme and regulations around gambling.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106947312</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106947312</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nc/Z/me.mp3" length="35090159" type="audio/mpeg"/>
+      <itunes:duration>0:24:22</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What Australia must do to tackle bird flu</title>
       <description>&lt;p&gt;Are there things Australia can learn from the US in the fight against bird flu? &lt;/p&gt;&lt;p&gt;Also, the government is determined to pass its reforms to the National Disability Insurance Scheme, but now a former director of the NDIA suggests a new approach is needed. &lt;/p&gt;&lt;p&gt;And tomorrow night millions of Australians will fill in the census. With a selection of new questions on gender and sexuality, what will the latest figures be able to tell us? &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,24 +246,6 @@
       <pubDate>Wed, 08 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m9/Z/cj.mp3" length="35388527" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Trump's red card call stirs World Cup storm</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106811742</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106811742</guid>
-      <pubDate>Tue, 07 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m8/Z/8b.mp3" length="34483631" type="audio/mpeg"/>
-      <itunes:duration>0:23:56</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The Prime Minister's Pacific Diplomacy Blitz</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106806366</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106806366</guid>
-      <pubDate>Mon, 06 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m7/Z/4d.mp3" length="33249263" type="audio/mpeg"/>
-      <itunes:duration>0:23:05</itunes:duration>
     </item>
   </channel>
 </rss>
