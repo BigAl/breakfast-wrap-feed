@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 02:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 02:38:14 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What is scandium?</title>
+      <description>&lt;p&gt;The US government has announced more than half-a-billion dollars in funding for a &quot;world-first&quot; mining project in central western New South Wales. We unpack why. &lt;/p&gt;&lt;p&gt;Then, the Federal Treasurer discusses the RBA's latest decision on interest rates. &lt;/p&gt;&lt;p&gt;We cover the latest in Colombia following this week's deadly earthquake. &lt;/p&gt;&lt;p&gt;And a group is pushing for questions on allergies to be part of the next census.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106949520</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106949520</guid>
+      <pubDate>Wed, 12 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nd/Z/r7.mp3" length="35332079" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Colombia races to find quake survivors</title>
       <description>&lt;p&gt;Colombia is racing to find survivors after a deadly earthquake hit the country. We'll take you there to hear about the community at the centre of the disaster.&lt;/p&gt;&lt;p&gt;Then, the South Australian State government has launched a new royal commission into artificial intelligence and the policy settings around it - the Premier Peter Malinauskas explains his thinking. &lt;/p&gt;&lt;p&gt;And Federal Parliament resumes today, with the government hoping to pass a number of bills this sitting fortnight - including proposals to overhaul the National Disability Insurance Scheme and regulations around gambling.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 09 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ma/Z/id.mp3" length="35116079" type="audio/mpeg"/>
       <itunes:duration>0:24:23</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Scandals engulf Victorian political parties</title>
-      <description>&lt;p&gt;With a state election less than 150 days away, Victoria's two major parties are engulfed in scandal. &lt;/p&gt;&lt;p&gt;The Labor Premier has been referred to the anti-corruption watchdog over the state's big build scandal.&lt;/p&gt;&lt;p&gt;And the Liberal party is in disarray as one MP launches legal action right as the party was set to disendorse her.&lt;/p&gt;&lt;p&gt;We hear from the Shadow Attorney General James Newbury.&lt;/p&gt;&lt;p&gt;Then,  two far-right leaders in Europe are vowing to fight what will be significant elections - we'll find out what's going on with Marine le Pen and Nigel Farage.&lt;/p&gt;&lt;p&gt;And we'll take a look at the Prime Minister's diplomacy in the Pacific this week. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106816692</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106816692</guid>
-      <pubDate>Wed, 08 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/m9/Z/cj.mp3" length="35388527" type="audio/mpeg"/>
-      <itunes:duration>0:24:34</itunes:duration>
     </item>
   </channel>
 </rss>
