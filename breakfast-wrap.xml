@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 02:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 02:40:25 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: A radical plan for housing</title>
+      <description>&lt;p&gt;The shadow minister delivered a speech to the National Press Club yesterday in which he called for the National Construction Code to be cut from 2,000 to 80 pages. We hear from the shadow minister and the industry about his proposals. &lt;/p&gt;&lt;p&gt;Then, what do you know about Australia's under-sea fibre optic cables? An expert explains why we need to do more to protect them.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106957438</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106957438</guid>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nf/Z/4u.mp3" length="34041839" type="audio/mpeg"/>
+      <itunes:duration>0:23:38</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What is scandium?</title>
       <description>&lt;p&gt;The US government has announced more than half-a-billion dollars in funding for a &quot;world-first&quot; mining project in central western New South Wales. We unpack why. &lt;/p&gt;&lt;p&gt;Then, the Federal Treasurer discusses the RBA's latest decision on interest rates. &lt;/p&gt;&lt;p&gt;We cover the latest in Colombia following this week's deadly earthquake. &lt;/p&gt;&lt;p&gt;And a group is pushing for questions on allergies to be part of the next census.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 10 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mb/Z/q9.mp3" length="35382767" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Telstra under fire</title>
-      <description>&lt;p&gt;Telstra says network faults persist today - while it continues to conduct welfare checks on customers who failed to access Triple Zero.&lt;/p&gt;&lt;p&gt;We hear from the Federal Government, the Opposition, and the Telecommunications Industry Ombudsman as Telstra cleans up. &lt;/p&gt;&lt;p&gt;Then, India's Prime Minister Narendra Modi will meet Australian PM Anthony Albanese today, where they're expected to secure a landmark uranium agreement - and boost defence ties.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106822348</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106822348</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ma/Z/id.mp3" length="35116079" type="audio/mpeg"/>
-      <itunes:duration>0:24:23</itunes:duration>
     </item>
   </channel>
 </rss>
