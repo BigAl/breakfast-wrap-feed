@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 01:51:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:46:35 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What's the cost of early super access?</title>
+      <description>&lt;p&gt;One Nation wants to expand early access to superannuation for some Australians. &lt;/p&gt;&lt;p&gt;Access is currently allowed in limited circumstances, with the Tax Office approving almost 68,000 applications for early access in 2024 to 2025.&lt;/p&gt;&lt;p&gt;Then, new restrictions on gambling advertisements are expected to pass parliament this week, with the government striking a tentative deal with the Coalition. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106974308</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106974308</guid>
+      <pubDate>Tue, 18 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nj/Z/so.mp3" length="33889775" type="audio/mpeg"/>
+      <itunes:duration>0:23:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The great GST debate</title>
       <description>&lt;p&gt;A new war of words has broken out between state and territory governments, after the Productivity Commission labelled the 2018 GST deal for Western Australia a &quot;costly mistake&quot;.&lt;/p&gt;&lt;p&gt;The interim report from the Productivity Commission - released on Friday - found the deal has cost the federal budget $23-billion in its first 6 years, $22-billion of which had flowed to WA.&lt;/p&gt;&lt;p&gt;We hear from the former Finance Minister who was a key architect of the deal - Mathias Cormann. Then - the Treasurers of Western Australia, New South Wales and South Australia. &lt;/p&gt;&lt;p&gt;As well as the GST carve up - we get into the announcement of a joint gun buyback scheme between NSW and the Federal Government.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Wed, 15 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mg/Z/9a.mp3" length="35344751" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: &quot;Gobsmacking&quot; US plans for Strait of Hormuz</title>
-      <description>&lt;p&gt; The battle for control of the Strait of Hormuz intensified overnight, with Washington saying it will immediately reinstate its blockade of Iran ports - and impose a 20 per cent charge on all cargo shipped.&lt;/p&gt;&lt;p&gt;A former US Ambassador to the United Arab Emirates shares their take on the President's plans. &lt;/p&gt;&lt;p&gt;Meanwhile a new report from the eSafety Commission has revealed significant gaps in the way major tech companies are tackling child sexual exploitation and abuse.&lt;/p&gt;&lt;p&gt;Then, we'll hear from the university sector with new requirements coming in for institutions to adopt definitions on antisemitism, Islamophobia and racism.&lt;/p&gt;&lt;p&gt;And we'll hear a tribute to the late actor and legendary Kiwi Sam Neill. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106838988</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106838988</guid>
-      <pubDate>Tue, 14 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mf/Z/73.mp3" length="35228975" type="audio/mpeg"/>
-      <itunes:duration>0:24:27</itunes:duration>
     </item>
   </channel>
 </rss>
