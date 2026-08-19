@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 01:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:48:40 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Gambling reforms pass lower house</title>
+      <description>&lt;p&gt;Labor's gambling advertising bill has officially passed the lower house of parliament.&lt;/p&gt;&lt;p&gt;As well as the government and the Shadow Minister for Communications, we hear from two voices not too happy about the bill's passing. &lt;/p&gt;&lt;p&gt;One, understandably, representing gambling companies. &lt;/p&gt;&lt;p&gt;But the other, a Coalition  MP who crossed the floor to vote against the reforms, arguing they didn't go far enough. &lt;/p&gt;&lt;p&gt;Then, how is the federal government trying to protect superannuation consumers?&lt;/p&gt;&lt;p&gt;And Andrew Hastie talks One Nation in WA. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106978824</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106978824</guid>
+      <pubDate>Wed, 19 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nl/Z/3o.mp3" length="34125359" type="audio/mpeg"/>
+      <itunes:duration>0:23:41</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What's the cost of early super access?</title>
       <description>&lt;p&gt;One Nation wants to expand early access to superannuation for some Australians. &lt;/p&gt;&lt;p&gt;Access is currently allowed in limited circumstances, with the Tax Office approving almost 68,000 applications for early access in 2024 to 2025.&lt;/p&gt;&lt;p&gt;Then, new restrictions on gambling advertisements are expected to pass parliament this week, with the government striking a tentative deal with the Coalition. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 16 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mh/Z/dk.mp3" length="35155247" type="audio/mpeg"/>
       <itunes:duration>0:24:24</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Inside big AI</title>
-      <description>&lt;p&gt;As the Prime Minister unveils a new national framework on artificial intelligence, we take you inside one of the world's biggest AI companies with a former board member of Open AI.&lt;/p&gt;&lt;p&gt;Then, a string of alleged domestic violence tragedies is prompting new questions on what could really make a difference to an epidemic of violence against women and children.&lt;/p&gt;&lt;p&gt;And the Royal Commission into Antisemitism and Social Cohesion continues its focus on universities today - so we hear from Bill Shorten, the Vice Chancellor of the University of Canberra.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106843690</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106843690</guid>
-      <pubDate>Wed, 15 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mg/Z/9a.mp3" length="35344751" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
