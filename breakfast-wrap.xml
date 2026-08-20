@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:47:07 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia 'outraged' after Israel closes investigation</title>
+      <description>&lt;p&gt;Foreign Minister Penny Wong has expressed outrage at Israel's decision to close an investigation on strikes that killed an Australian aid worker and her colleagues.&lt;/p&gt;&lt;p&gt;She says the timing is insulting to Zomi Frankcom's family and all Australians, after the government was informed shortly before a public announcement, and on World Humanitarian Day.&lt;/p&gt;&lt;p&gt;On The Breakfast Wrap we hear from independent UN Commissioner Chris Sidoti, and from the federal government.&lt;/p&gt;&lt;p&gt;Then, a powerful speech in parliament shines a spotlight on veteran's healthcare.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106983266</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106983266</guid>
+      <pubDate>Thu, 20 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nm/Z/5t.mp3" length="35324591" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Gambling reforms pass lower house</title>
       <description>&lt;p&gt;Labor's gambling advertising bill has officially passed the lower house of parliament.&lt;/p&gt;&lt;p&gt;As well as the government and the Shadow Minister for Communications, we hear from two voices not too happy about the bill's passing. &lt;/p&gt;&lt;p&gt;One, understandably, representing gambling companies. &lt;/p&gt;&lt;p&gt;But the other, a Coalition  MP who crossed the floor to vote against the reforms, arguing they didn't go far enough. &lt;/p&gt;&lt;p&gt;Then, how is the federal government trying to protect superannuation consumers?&lt;/p&gt;&lt;p&gt;And Andrew Hastie talks One Nation in WA. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 17 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mi/Z/ib.mp3" length="35317679" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Hanson's controversial &quot;fact-finding&quot; mission with Britain's far-right</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106850164</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106850164</guid>
-      <pubDate>Thu, 16 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mh/Z/dk.mp3" length="35155247" type="audio/mpeg"/>
-      <itunes:duration>0:24:24</itunes:duration>
     </item>
   </channel>
 </rss>
