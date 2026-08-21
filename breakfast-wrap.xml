@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:47:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 01:53:10 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Israeli Ambassador defends investigation</title>
+      <description>&lt;p&gt;The Israel Defense Forces this week released its findings into its attacks which killed aid and medical workers in Gaza.&lt;/p&gt;&lt;p&gt;The Australian government yesterday expressed outrage that no criminal findings were made in the deaths of Australian aid worker Zomi Frankcom and her World Central Kitchen colleagues.&lt;/p&gt;&lt;p&gt;Yesterday, the Israeli Ambassador was called into a meeting with the Foreign Minister - amid calls for him to be expelled from the country.&lt;/p&gt;&lt;p&gt;Today on the Breakfast Wrap we hear his interview with Sally Sara in full.&lt;/p&gt;&lt;p&gt;Then, two other cases that won't be subjected to a criminal probe both involve workers from Médecins Sans Frontieres.&lt;/p&gt;&lt;p&gt;In November 2023, two people were killed when their MSF marked car was fired upon by members of the Israeli army.&lt;/p&gt;&lt;p&gt;Months later - in February 2024 - a tank fired on a house, killing two relatives of MSF staff, injuring six others.&lt;/p&gt;&lt;p&gt;The IDF found there were mitigating circumstances in both those cases - and won't take further action. &lt;/p&gt;&lt;p&gt;The Australian MSF boss shares their perspective of the IDF's findings. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106986816</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106986816</guid>
+      <pubDate>Fri, 21 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nn/Z/dn.mp3" length="35405231" type="audio/mpeg"/>
+      <itunes:duration>0:24:35</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australia 'outraged' after Israel closes investigation</title>
       <description>&lt;p&gt;Foreign Minister Penny Wong has expressed outrage at Israel's decision to close an investigation on strikes that killed an Australian aid worker and her colleagues.&lt;/p&gt;&lt;p&gt;She says the timing is insulting to Zomi Frankcom's family and all Australians, after the government was informed shortly before a public announcement, and on World Humanitarian Day.&lt;/p&gt;&lt;p&gt;On The Breakfast Wrap we hear from independent UN Commissioner Chris Sidoti, and from the federal government.&lt;/p&gt;&lt;p&gt;Then, a powerful speech in parliament shines a spotlight on veteran's healthcare.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 20 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mk/Z/r4.mp3" length="34016495" type="audio/mpeg"/>
       <itunes:duration>0:23:37</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Smoking rate data exposes illicit tobacco challenge</title>
-      <description>&lt;p&gt;We'll unpack new data showing the challenge ahead on the illicit tobacco trade, and dive into extraordinary comments made by Senator Pauline Hanson on Tommy Robinson's podcast. &lt;/p&gt;&lt;p&gt;And we'll cap the week marking 60 years of Play School with one of the show's most iconic presenters Benita Collings. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106851780</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106851780</guid>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mi/Z/ib.mp3" length="35317679" type="audio/mpeg"/>
-      <itunes:duration>0:24:31</itunes:duration>
     </item>
   </channel>
 </rss>
