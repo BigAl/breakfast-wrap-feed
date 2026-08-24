@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 01:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 01:53:44 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: How does One Nation's migration policy differ from Labor's?</title>
+      <description>&lt;p&gt;Today on the breakfast wrap - why South Australia's Chief Vet is 'not surprised at all' that a second long-nosed fur seal is suspected to have contracted H5 bird flu in South Australia.And - are One Nation's migration targets any different from Labor's?&lt;/p&gt;&lt;p&gt;Senator Pauline Hanson outlined her party's migration policy on social media, intervening after One Nation MP David Farley said his party's immigration target would not be &quot;too different&quot; to Labor's.&lt;/p&gt;&lt;p&gt;Plus, a trade war erupts between Canada and the united states - get the latest on what both leaders are saying and what it means for middle powers like Australia.Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106997426</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106997426</guid>
+      <pubDate>Mon, 24 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/np/Z/ml.mp3" length="33686447" type="audio/mpeg"/>
+      <itunes:duration>0:23:23</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Israeli Ambassador defends investigation</title>
       <description>&lt;p&gt;The Israel Defense Forces this week released its findings into its attacks which killed aid and medical workers in Gaza.&lt;/p&gt;&lt;p&gt;The Australian government yesterday expressed outrage that no criminal findings were made in the deaths of Australian aid worker Zomi Frankcom and her World Central Kitchen colleagues.&lt;/p&gt;&lt;p&gt;Yesterday, the Israeli Ambassador was called into a meeting with the Foreign Minister - amid calls for him to be expelled from the country.&lt;/p&gt;&lt;p&gt;Today on the Breakfast Wrap we hear his interview with Sally Sara in full.&lt;/p&gt;&lt;p&gt;Then, two other cases that won't be subjected to a criminal probe both involve workers from Médecins Sans Frontieres.&lt;/p&gt;&lt;p&gt;In November 2023, two people were killed when their MSF marked car was fired upon by members of the Israeli army.&lt;/p&gt;&lt;p&gt;Months later - in February 2024 - a tank fired on a house, killing two relatives of MSF staff, injuring six others.&lt;/p&gt;&lt;p&gt;The IDF found there were mitigating circumstances in both those cases - and won't take further action. &lt;/p&gt;&lt;p&gt;The Australian MSF boss shares their perspective of the IDF's findings. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 21 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mm/Z/0g.mp3" length="34968047" type="audio/mpeg"/>
       <itunes:duration>0:24:16</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Reuters chief on the future of news</title>
-      <description>&lt;p&gt;As artificial intelligence swarms all aspects of our lives, we'll hear how the boss of one of the world's biggest media companies is managing the transformation. &lt;/p&gt;&lt;p&gt;Then Victoria is introducing new laws to un-mask anonymous trolls who vilify others online, especially minors. &lt;/p&gt;&lt;p&gt;And we get an immediate reaction to the World Cup final from Australia's own Craig Foster, and we'll hear how US President Donald Trump still managed to steal the spotlight from the Spanish mens side.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106863626</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106863626</guid>
-      <pubDate>Mon, 20 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mk/Z/r4.mp3" length="34016495" type="audio/mpeg"/>
-      <itunes:duration>0:23:37</itunes:duration>
     </item>
   </channel>
 </rss>
