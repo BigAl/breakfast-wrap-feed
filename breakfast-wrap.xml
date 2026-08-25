@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 01:53:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:47:22 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The plan to power data centres</title>
+      <description>&lt;p&gt;The federal government wants to settle new rules for how data centres use energy at national cabinet tomorrow. &lt;/p&gt;&lt;p&gt;The government says it doesn't want a 'race to the bottom' where states are pitted against each other, competing for data centres. &lt;/p&gt;&lt;p&gt;Then, we'll get the latest on Canada's trade war with the US and Washington's latest sanctions on Iran. &lt;/p&gt;&lt;p&gt;The British Prime Minister heads to Kyiv bearing gifts. &lt;/p&gt;&lt;p&gt;And questions are raised around lobbying rules in Australia's federal parliament. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106999034</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106999034</guid>
+      <pubDate>Tue, 25 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nq/Z/r3.mp3" length="35329775" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: How does One Nation's migration policy differ from Labor's?</title>
       <description>&lt;p&gt;Today on the breakfast wrap - why South Australia's Chief Vet is 'not surprised at all' that a second long-nosed fur seal is suspected to have contracted H5 bird flu in South Australia.And - are One Nation's migration targets any different from Labor's?&lt;/p&gt;&lt;p&gt;Senator Pauline Hanson outlined her party's migration policy on social media, intervening after One Nation MP David Farley said his party's immigration target would not be &quot;too different&quot; to Labor's.&lt;/p&gt;&lt;p&gt;Plus, a trade war erupts between Canada and the united states - get the latest on what both leaders are saying and what it means for middle powers like Australia.Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Wed, 22 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mn/Z/42.mp3" length="34849967" type="audio/mpeg"/>
       <itunes:duration>0:24:12</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Israel criticises Labor's draft Palestine policy</title>
-      <description>&lt;p&gt;Israel's embassy has complained ahead of Labor's national conference on the party's proposed position on Israel and Palestine.&lt;/p&gt;&lt;p&gt;Labor is considering adopting a more detailed position on the conflict, including on issues like illegal settlements and the death penalty, to replace the platform's previous call for recognition of a Palestinian state.&lt;/p&gt;&lt;p&gt;Then, new data from the Border Force has revealed the amount of illicit tobacco products being seized on their way into Australia. &lt;/p&gt;&lt;p&gt;And the &quot;King of the North&quot; Andy Burnham has overnight officially become Britain's seventh prime minister in ten years.&lt;/p&gt;&lt;p&gt;In a speech outside 10 Downing Street, Mr Burnham says Britain needs to show the world it can regain stability.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106865022</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106865022</guid>
-      <pubDate>Tue, 21 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mm/Z/0g.mp3" length="34968047" type="audio/mpeg"/>
-      <itunes:duration>0:24:16</itunes:duration>
     </item>
   </channel>
 </rss>
