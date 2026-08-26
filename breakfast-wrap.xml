@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 01:47:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 01:53:29 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Remembering Dolly Parton, 'the queen of country'</title>
+      <description>&lt;p&gt;Over a career spanning decades, Dolly Parton amassed a legion of fans as a country music sweetheart and global superstar.&lt;/p&gt;&lt;p&gt;We look back on her career and musical legacy.&lt;/p&gt;&lt;p&gt;Then a Productivity Commissioner responds to the Western Australian Premier's comments calling the commission 'east-coast clowns' after its interim report recommended revising the 2018 WA GST deal.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107007342</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107007342</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ns/Z/51.mp3" length="34604591" type="audio/mpeg"/>
+      <itunes:duration>0:24:01</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The plan to power data centres</title>
       <description>&lt;p&gt;The federal government wants to settle new rules for how data centres use energy at national cabinet tomorrow. &lt;/p&gt;&lt;p&gt;The government says it doesn't want a 'race to the bottom' where states are pitted against each other, competing for data centres. &lt;/p&gt;&lt;p&gt;Then, we'll get the latest on Canada's trade war with the US and Washington's latest sanctions on Iran. &lt;/p&gt;&lt;p&gt;The British Prime Minister heads to Kyiv bearing gifts. &lt;/p&gt;&lt;p&gt;And questions are raised around lobbying rules in Australia's federal parliament. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 23 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mo/Z/cl.mp3" length="35261814" type="audio/mpeg"/>
       <itunes:duration>0:24:29</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Unpacking the NT's child protection reforms</title>
-      <description>&lt;p&gt;The NT government has passed its child protection law reforms in a late-night sitting of parliament, as critics warn they will weaken a key national standard to protect Indigenous children.&lt;/p&gt;&lt;p&gt;SNAICC CEO Catherine Liddle says &quot;its unforgivable to make decisions that you know will unfairly impact and damage children for the rest of their lives. The most vulnerable children in the country.&quot;&lt;/p&gt;&lt;p&gt;More from Ms Liddle on today's episode of the Breakfast Wrap.&lt;/p&gt;&lt;p&gt;Then, NSW Premier Chris Minns talks One Nation, and the former Premier of Tasmania Peter Gutwein takes on a new role as Chair of the Australian Multicultural Council. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106869086</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106869086</guid>
-      <pubDate>Wed, 22 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mn/Z/42.mp3" length="34849967" type="audio/mpeg"/>
-      <itunes:duration>0:24:12</itunes:duration>
     </item>
   </channel>
 </rss>
