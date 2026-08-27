@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 01:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:33:19 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: 'Himalayan tsunami' floods hits Nepal</title>
+      <description>&lt;p&gt;There are horrific scenes coming out of Nepal and southern Tibet - where powerful flash flooding has ripped through communities - destroying homes and roads and killing more than 160 people.&lt;/p&gt;&lt;p&gt;Nepali authorities say 34 Australians are among the more than 400 international tourists missing in this disaster.&lt;/p&gt;&lt;p&gt;Then we'll hear some fighting words from the former treasury boss Ken Henry about WA's attempts to keep its GST deal intact. He's call the deal stupid and criticised the Premier's response, after Roger Cook called the Productivity Commission 'east-coast clowns'.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107012166</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107012166</guid>
+      <pubDate>Thu, 27 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nt/Z/f1.mp3" length="35325167" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Remembering Dolly Parton, 'the queen of country'</title>
       <description>&lt;p&gt;Over a career spanning decades, Dolly Parton amassed a legion of fans as a country music sweetheart and global superstar.&lt;/p&gt;&lt;p&gt;We look back on her career and musical legacy.&lt;/p&gt;&lt;p&gt;Then a Productivity Commissioner responds to the Western Australian Premier's comments calling the commission 'east-coast clowns' after its interim report recommended revising the 2018 WA GST deal.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 24 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mq/Z/4p.mp3" length="35344751" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: 'Lab leak' at OpenAI</title>
-      <description>&lt;p&gt;Artificial intelligence giant OpenAI has revealed that one of its most advanced AI models went rogue and hacked another company.&lt;/p&gt;&lt;p&gt;So how did this happen, what does it mean and what should we do next? &lt;/p&gt;&lt;p&gt;We'll hear from one expert in the field and find out how it ties in with Australian federal political conversations, as Labor prepares to discuss AI at its national conference. &lt;/p&gt;&lt;p&gt;Then, will the Israeli Prime Minister Benjamin Netanyahu be arrested when lands in New York in September for the UN General Assembly? We'll unpack how the city's Mayor Zohran Mamdani plans to take on the Israeli leader. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106877794</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106877794</guid>
-      <pubDate>Thu, 23 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mo/Z/cl.mp3" length="35261814" type="audio/mpeg"/>
-      <itunes:duration>0:24:29</itunes:duration>
     </item>
   </channel>
 </rss>
