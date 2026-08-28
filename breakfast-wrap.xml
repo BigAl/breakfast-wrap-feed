@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:33:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:16:30 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Fears of further floods in Nepal</title>
+      <description>&lt;p&gt;As the death toll climbs, and more people remain unaccounted for following devastating flash floods along the Nepal-Tiben border, we hear scientists concerns that more flooding could be on the way.&lt;/p&gt;&lt;p&gt;One year ago geoscientist Dr Jakob Steiner prepared a report on glacial lake bursts for the Nepali government as part of efforts to prepare the country for future disasters. He says he's frustrated the government was not prepared for the flash floods.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap he explains the current thinking around what led to this disaster, and what could happen next. &lt;/p&gt;&lt;p&gt;We also hear from the Foreign Minister Pennny Wong, the former Australian Ambassador to Nepal Felicity Volk, and feature a musical performance from Tibetan-Australian musician and composer Tenzin Choegyal.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107013666</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107013666</guid>
+      <pubDate>Fri, 28 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nu/Z/ta.mp3" length="35927087" type="audio/mpeg"/>
+      <itunes:duration>0:24:56</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: 'Himalayan tsunami' floods hits Nepal</title>
       <description>&lt;p&gt;There are horrific scenes coming out of Nepal and southern Tibet - where powerful flash flooding has ripped through communities - destroying homes and roads and killing more than 160 people.&lt;/p&gt;&lt;p&gt;Nepali authorities say 34 Australians are among the more than 400 international tourists missing in this disaster.&lt;/p&gt;&lt;p&gt;Then we'll hear some fighting words from the former treasury boss Ken Henry about WA's attempts to keep its GST deal intact. He's call the deal stupid and criticised the Premier's response, after Roger Cook called the Productivity Commission 'east-coast clowns'.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Mon, 27 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ms/Z/9c.mp3" length="34713455" type="audio/mpeg"/>
       <itunes:duration>0:24:06</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Gambling regulation push within Labor</title>
-      <description>&lt;p&gt;As Labor delegates meet for the party's National Conference this week, we'll look at an internal push to strengthen gambling regulation.&lt;/p&gt;&lt;p&gt;Then an AI ethicist explains how governments should respond after this week's agentic OpenAI hack that has caused shockwaves around the world. &lt;/p&gt;&lt;p&gt;And we'll speak with the former French National Education Minister as France follows in Australia's footsteps banning social media for teenagers. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106881074</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106881074</guid>
-      <pubDate>Fri, 24 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mq/Z/4p.mp3" length="35344751" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
