@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:24:17 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: One Nation wins in WA</title>
+      <description>&lt;p&gt;One Nation is celebrating another political win this morning, securing its first ever seat in the WA parliament via a by-election on the weekend. &lt;/p&gt;&lt;p&gt;We hear from One Nation MP Barnaby Joyce about what it means for the party's fortunes elsewhere around the country. &lt;/p&gt;&lt;p&gt;Then we get the latest on the flooding along the Nepal-Tibet border. &lt;/p&gt;&lt;p&gt;And hear how a perfectly timed penguin conference could assist Australian scientists amid the onslought of bird flu in Australia. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107025092</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107025092</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o1/Z/b8.mp3" length="35325743" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Fears of further floods in Nepal</title>
       <description>&lt;p&gt;As the death toll climbs, and more people remain unaccounted for following devastating flash floods along the Nepal-Tiben border, we hear scientists concerns that more flooding could be on the way.&lt;/p&gt;&lt;p&gt;One year ago geoscientist Dr Jakob Steiner prepared a report on glacial lake bursts for the Nepali government as part of efforts to prepare the country for future disasters. He says he's frustrated the government was not prepared for the flash floods.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap he explains the current thinking around what led to this disaster, and what could happen next. &lt;/p&gt;&lt;p&gt;We also hear from the Foreign Minister Pennny Wong, the former Australian Ambassador to Nepal Felicity Volk, and feature a musical performance from Tibetan-Australian musician and composer Tenzin Choegyal.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 28 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mt/Z/i1.mp3" length="35332079" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Labor's lone dissenter</title>
-      <description>&lt;p&gt;Labor's national conference wrapped up on the weekend in a spirit of consensus, after party powerbrokers successfully squashed public debates on some issues.&lt;/p&gt;&lt;p&gt;One of them came from Labor back-bencher Ed Husic who failed to secure a seconder for his proposed resolution on Israel and Palestine.&lt;/p&gt;&lt;p&gt;Then, is the Victorian Premier in trouble just four months out from a state election? We'll find out about the plot to topple Jacinta Allan. &lt;/p&gt;&lt;p&gt;And India's Cockroach movement has toppled the country's Education Minister.  &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106890988</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106890988</guid>
-      <pubDate>Mon, 27 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ms/Z/9c.mp3" length="34713455" type="audio/mpeg"/>
-      <itunes:duration>0:24:06</itunes:duration>
     </item>
   </channel>
 </rss>
