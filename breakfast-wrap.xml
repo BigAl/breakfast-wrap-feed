@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:15:42 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Unpacking Australia's economic growth</title>
+      <description>&lt;p&gt;It's not down, but it's barely up, and yet inflation remains a problem - so what is going on with the Australian economy right now?&lt;/p&gt;&lt;p&gt;The latest National Accounts data shows the economy growing by 2.1% over the year to June 30, but productivity remained sluggish. &lt;/p&gt;&lt;p&gt;We hear from the Treasurer, the Shadow Treasurer and a panel of economists to unpack what it all means. &lt;/p&gt;&lt;p&gt;Then we also head to Nepal to hear about the challenging work of recovering and identifying bodies being pulled from the disaster zone. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107041336</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107041336</guid>
+      <pubDate>Thu, 03 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o4/Z/s8.mp3" length="35390255" type="audio/mpeg"/>
+      <itunes:duration>0:24:34</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Nepal shifts to rehabilitation</title>
       <description>&lt;p&gt;Four really insightful interviews spanning the disaster zone in Nepal, key court cases in the US, and a major political forum in the Pacific. &lt;/p&gt;&lt;p&gt;Hear from a Nepali MP about the government's shift to rehabilitation. She tells us the government will still keep security forces in place to find any survivors. &lt;/p&gt;&lt;p&gt;Then the whistleblower who contributed to the case against Meta thats seen the social media giant pay an $18bn settlement to US states. &lt;/p&gt;&lt;p&gt;We'll also speak with the LAPD officer who investigated Tupac Shakur's murder. &lt;/p&gt;&lt;p&gt;And the Pacific Affairs Minister Pat Conroy joins us from Palau amid a bumpy Pacific Islands Forum summit.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Fri, 31 Jul 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n1/Z/88.mp3" length="34678895" type="audio/mpeg"/>
       <itunes:duration>0:24:04</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Inflation falls again</title>
-      <description>&lt;p&gt;The federal government is cautiously welcoming the latest inflation data out yesterday.&lt;/p&gt;&lt;p&gt;Then, there's growing international concern over the human toll of Sudan's brutal civil war with infants being caught up in the conflict.&lt;/p&gt;&lt;p&gt;In Japan, authorities are desperately searching for any survivors following an earthquake which struck the southern city of Kumamoto on Tuesday.'&lt;/p&gt;&lt;p&gt;And the U.S. has partnered with Saudi Arabia to strike Iran-backed militias in neighbouring Iraq.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106904424</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106904424</guid>
-      <pubDate>Thu, 30 Jul 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/mv/Z/sf.mp3" length="35456495" type="audio/mpeg"/>
-      <itunes:duration>0:24:37</itunes:duration>
     </item>
   </channel>
 </rss>
