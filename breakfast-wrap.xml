@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 04:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:27:43 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Germany's far right reaches new heights</title>
+      <description>&lt;p&gt;Exit polls show Germany's far-right AFD party has won its first state election in the country's east.&lt;/p&gt;&lt;p&gt;No far-right wing party has won a major election in Germany since World War Two.&lt;/p&gt;&lt;p&gt;But the party looks like it will fall just short of securing an absolute majority, so will it be able to form a coalition? &lt;/p&gt;&lt;p&gt;Then - is there an anti boy ideology being taught in schools?&lt;/p&gt;&lt;p&gt;That's what the Nationals leader thinks, so we'll ask an expert who has contributed to the respectful relationships curriculum. &lt;/p&gt;&lt;p&gt;The Ukrainian President has had a high level meeting with Trump's envoys in Kyiv, the day after they met with the Russian President. &lt;/p&gt;&lt;p&gt;And the federal government responds to the Coalition's plans to cut the cigarette excise by 80%. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107049516</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107049516</guid>
+      <pubDate>Mon, 07 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o8/Z/aj.mp3" length="35378167" type="audio/mpeg"/>
+      <itunes:duration>0:24:34</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: How unified is the Pacific?</title>
       <description>&lt;p&gt;Fresh off the Pacific Islands Forum Leaders Summit, the Palau President is projecting unity, despite the summit being engulfed in tension.&lt;/p&gt;&lt;p&gt;There's been a number of notable absences, also the presence of Taiwans foreign minister, and a holdout over a statement criticising a recent Chinese missile test.&lt;/p&gt;&lt;p&gt;We'll hear from the President, and Australia's climate change mnister who was there too. &lt;/p&gt;&lt;p&gt;Then the new ACTU Secretary talks housing. &lt;/p&gt;&lt;p&gt;And we look back at the life and legacy of feminist icon  Gloria Steinem. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,24 +237,6 @@
       <pubDate>Wed, 05 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n6/Z/5o.mp3" length="35341871" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Will the government get tougher on gambling?</title>
-      <description>&lt;p&gt;Gambling company employees have allegedly been giving drugs as an inducement.&lt;/p&gt;&lt;p&gt;That's what was alleged at the Senate gambling inquiry yesterday by a former NRL player. &lt;/p&gt;&lt;p&gt;Today on the Breakfast Wrap Luke Bateman explains what response he wants to see to his claims .&lt;/p&gt;&lt;p&gt;We'll also hear from Labor and the Greens. &lt;/p&gt;&lt;p&gt;Then overseas, the UK is facing its driest conditions in hundreds of years as much of the country is consumed by drought. &lt;/p&gt;&lt;p&gt;And what is really going on between Iran and the US? A former National Security Council director will share her take.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106920626</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106920626</guid>
-      <pubDate>Tue, 04 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n4/Z/vs.mp3" length="35290031" type="audio/mpeg"/>
-      <itunes:duration>0:24:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Calls for federal management of remote Aboriginal communities</title>
-      <description>&lt;p&gt;Prominent Indigenous leader Noel Pearson has called for an overhaul of how remote Aboriginal communities are managed.&lt;/p&gt;&lt;p&gt;He says state and territory Aboriginal affairs departments should be dismantled, and responsibility should be placed under the Commonwealth. &lt;/p&gt;&lt;p&gt;So on the Breakfast Wrap we get reaction from those at Garma, including from the federal opposition. &lt;/p&gt;&lt;p&gt;Then, the boss of FIFA is under renewed pressure to resign. &lt;/p&gt;&lt;p&gt;And migration has become a flashpoint in Europe again. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106914364</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106914364</guid>
-      <pubDate>Mon, 03 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n3/Z/qj.mp3" length="33938735" type="audio/mpeg"/>
-      <itunes:duration>0:23:34</itunes:duration>
     </item>
   </channel>
 </rss>
