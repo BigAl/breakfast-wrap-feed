@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:26:20 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Can we switch off the algorithm?</title>
+      <description>&lt;p&gt;Can we simply shut off the algorithms sending content to our screens on the world's biggest social media platforms?&lt;/p&gt;&lt;p&gt;That is what the federal government would love to be able to do via new legislation its introducing this week. &lt;/p&gt;&lt;p&gt;Then we'll dive into One Nation's new superannuation policy with MP Barnaby Joyce. &lt;/p&gt;&lt;p&gt;And we'll hear about daring heists of food and beverage products in the United Kingdom.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107053950</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107053950</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o9/Z/gj.mp3" length="35332085" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Germany's far right reaches new heights</title>
       <description>&lt;p&gt;Exit polls show Germany's far-right AFD party has won its first state election in the country's east.&lt;/p&gt;&lt;p&gt;No far-right wing party has won a major election in Germany since World War Two.&lt;/p&gt;&lt;p&gt;But the party looks like it will fall just short of securing an absolute majority, so will it be able to form a coalition? &lt;/p&gt;&lt;p&gt;Then - is there an anti boy ideology being taught in schools?&lt;/p&gt;&lt;p&gt;That's what the Nationals leader thinks, so we'll ask an expert who has contributed to the respectful relationships curriculum. &lt;/p&gt;&lt;p&gt;The Ukrainian President has had a high level meeting with Trump's envoys in Kyiv, the day after they met with the Russian President. &lt;/p&gt;&lt;p&gt;And the federal government responds to the Coalition's plans to cut the cigarette excise by 80%. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Thu, 06 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n7/Z/cj.mp3" length="35391407" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What is Labor planning on migration?</title>
-      <description>&lt;p&gt;Home Affairs Minister Tony Burke has postponed a scheduled appearance at the National Press Club where he was expected to unveil sweeping cuts to migration, which the ABC understands were internally contentious.&lt;/p&gt;&lt;p&gt;Tom Crowley shares the latest on the story he broke overnight. &lt;/p&gt;&lt;p&gt;Then, the government is trying to address unintended consequences flowing from its budget decision to restrict negative gearing to newly built homes. We hear from the government's Special Envoy for Social Housing and Homelessness, Labor MP Josh Burns. &lt;/p&gt;&lt;p&gt;Then to West Africa where Morocco has named a highway after the US President. &lt;/p&gt;&lt;p&gt;And the FIFA President is calling a major meeting tomorrow amid growing calls for him to step down. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106925788</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106925788</guid>
-      <pubDate>Wed, 05 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n6/Z/5o.mp3" length="35341871" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
