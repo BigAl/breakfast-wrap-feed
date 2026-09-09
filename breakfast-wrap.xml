@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:32:22 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Government unveils digital duty of care laws</title>
+      <description>&lt;p&gt;The federal government has unveiled its proposed Digital Duty of Care, which it says builds on Australia's &quot;world-leading&quot; social media ban for children. The draft laws could let Australians opt in or out of algorithms used to push social media content.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107061630</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107061630</guid>
+      <pubDate>Wed, 09 Sep 2026 07:30:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oa/Z/nv.mp3" length="34975541" type="audio/mpeg"/>
+      <itunes:duration>0:24:17</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Can we switch off the algorithm?</title>
       <description>&lt;p&gt;Can we simply shut off the algorithms sending content to our screens on the world's biggest social media platforms?&lt;/p&gt;&lt;p&gt;That is what the federal government would love to be able to do via new legislation its introducing this week. &lt;/p&gt;&lt;p&gt;Then we'll dive into One Nation's new superannuation policy with MP Barnaby Joyce. &lt;/p&gt;&lt;p&gt;And we'll hear about daring heists of food and beverage products in the United Kingdom.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Fri, 07 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n8/Z/ll.mp3" length="35361455" type="audio/mpeg"/>
       <itunes:duration>0:24:33</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Gambling sector fronts up</title>
-      <description>&lt;p&gt;We hear from the industry body representing gambling companies.&lt;/p&gt;&lt;p&gt;It follows days of pretty incredible testimony at a senate inquiry and news today that Labor could simply shelve its gambling reforms rather than bargain with the Coalition and Greens over changes.&lt;/p&gt;&lt;p&gt;Then, major media publishers - including News Corp - have criticised the federal government's incoming changes to the News Bargaining Incentive legislation, but what do regional and rural publishers think?&lt;/p&gt;&lt;p&gt;And the government wants to ensure new data centres will offset their power use with renewable energy - we'll ask the Environment and Climate Change minister questions about the legislation. &lt;/p&gt;&lt;p&gt;And we'll find out about a new parliamentary committee asking the question - is Australia ready for war?&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106930800</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106930800</guid>
-      <pubDate>Thu, 06 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/n7/Z/cj.mp3" length="35391407" type="audio/mpeg"/>
-      <itunes:duration>0:24:34</itunes:duration>
     </item>
   </channel>
 </rss>
