@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 04:32:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:32:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -23,11 +23,20 @@
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
     <item>
+      <title>Breakfast Wrap: Furious escalation in One Nation’s “traitor” attack</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107066470</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107066470</guid>
+      <pubDate>Thu, 10 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ob/Z/vf.mp3" length="34477871" type="audio/mpeg"/>
+      <itunes:duration>0:23:56</itunes:duration>
+    </item>
+    <item>
       <title>Breakfast Wrap: Government unveils digital duty of care laws</title>
       <description>&lt;p&gt;The federal government has unveiled its proposed Digital Duty of Care, which it says builds on Australia's &quot;world-leading&quot; social media ban for children. The draft laws could let Australians opt in or out of algorithms used to push social media content.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
       <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107061630</link>
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107061630</guid>
-      <pubDate>Wed, 09 Sep 2026 07:30:00 +1000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oa/Z/nv.mp3" length="34975541" type="audio/mpeg"/>
       <itunes:duration>0:24:17</itunes:duration>
     </item>
