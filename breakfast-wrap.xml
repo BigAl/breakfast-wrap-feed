@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 04:47:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:46:16 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Whyalla steelworks close</title>
+      <description>&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107079392</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107079392</guid>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/og/Z/mk.mp3" length="23007360" type="audio/mpeg"/>
+      <itunes:duration>0:23:51</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: One Nation's 'net negative' migration policy</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
