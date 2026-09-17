@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:45:20 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Iran's exiled Crown Prince joins Breakfast</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107091626</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107091626</guid>
+      <pubDate>Thu, 17 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oi/Z/sv.mp3" length="35417327" type="audio/mpeg"/>
+      <itunes:duration>0:24:35</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Could copyright reforms leave artists without payment for AI training?</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Mon, 17 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ni/Z/nt.mp3" length="34186991" type="audio/mpeg"/>
       <itunes:duration>0:23:44</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Five years from the fall of Kabul</title>
-      <description>&lt;p&gt;This weekend marks five years since Afghanistan's capital Kabul fell to Taliban forces.&lt;/p&gt;&lt;p&gt;We look back at the chaotic withdrawal of US troops, the end of a devastating war, and the repression that's followed. You'll hear from a former Afghan politician who fled to the US in 2021.&lt;/p&gt;&lt;p&gt;Then, why is Tasmania the last state to record a bird flu case.&lt;/p&gt;&lt;p&gt;And the count down is on to count Count Binface out of the race for Clacton - we'll get the latest on the by-election consuming British politics. &lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106959026</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106959026</guid>
-      <pubDate>Fri, 14 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ng/Z/91.mp3" length="35399471" type="audio/mpeg"/>
-      <itunes:duration>0:24:34</itunes:duration>
     </item>
   </channel>
 </rss>
