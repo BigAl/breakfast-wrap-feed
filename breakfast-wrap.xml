@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:34:18 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Labor's migration policy cracks down on backpackers</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107094470</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107094470</guid>
+      <pubDate>Fri, 18 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oj/Z/v0.mp3" length="35121263" type="audio/mpeg"/>
+      <itunes:duration>0:24:23</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Iran's exiled Crown Prince joins Breakfast</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -228,15 +237,6 @@
       <pubDate>Tue, 18 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nj/Z/so.mp3" length="33889775" type="audio/mpeg"/>
       <itunes:duration>0:23:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The great GST debate</title>
-      <description>&lt;p&gt;A new war of words has broken out between state and territory governments, after the Productivity Commission labelled the 2018 GST deal for Western Australia a &quot;costly mistake&quot;.&lt;/p&gt;&lt;p&gt;The interim report from the Productivity Commission - released on Friday - found the deal has cost the federal budget $23-billion in its first 6 years, $22-billion of which had flowed to WA.&lt;/p&gt;&lt;p&gt;We hear from the former Finance Minister who was a key architect of the deal - Mathias Cormann. Then - the Treasurers of Western Australia, New South Wales and South Australia. &lt;/p&gt;&lt;p&gt;As well as the GST carve up - we get into the announcement of a joint gun buyback scheme between NSW and the Federal Government.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106967546</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106967546</guid>
-      <pubDate>Mon, 17 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ni/Z/nt.mp3" length="34186991" type="audio/mpeg"/>
-      <itunes:duration>0:23:44</itunes:duration>
     </item>
   </channel>
 </rss>
