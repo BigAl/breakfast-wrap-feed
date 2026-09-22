@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 04:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:45:33 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,14 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Intergenerational Report's focus on who we are and where we're going</title>
+      <description>&lt;p&gt;Is Australia prepared for the challenges in the decades ahead for the nation? The federal government has just released the latest Intergenerational Report which shows how an aging population is expected to reshape the economy in the next 40 years. The report predicts that for the first time, deaths will outpace births in Australia by the mid 2060s. As the number of tax-paying Australians potential shrinks, the next four decades will see successive budget deficits. This comes as a Senate Inquiry has delivered 11 recommendations in the wake of last year's massive Optus Triple-Zero outage, which has been linked to two deaths.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107109522</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107109522</guid>
+      <pubDate>Tue, 22 Sep 2026 07:30:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/on/Z/dm.mp3" length="46457856" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Breakfast Wrap: Coalition plan to cut fuel excise</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -237,15 +245,6 @@
       <pubDate>Wed, 19 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nl/Z/3o.mp3" length="34125359" type="audio/mpeg"/>
       <itunes:duration>0:23:41</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: What's the cost of early super access?</title>
-      <description>&lt;p&gt;One Nation wants to expand early access to superannuation for some Australians. &lt;/p&gt;&lt;p&gt;Access is currently allowed in limited circumstances, with the Tax Office approving almost 68,000 applications for early access in 2024 to 2025.&lt;/p&gt;&lt;p&gt;Then, new restrictions on gambling advertisements are expected to pass parliament this week, with the government striking a tentative deal with the Coalition. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106974308</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106974308</guid>
-      <pubDate>Tue, 18 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nj/Z/so.mp3" length="33889775" type="audio/mpeg"/>
-      <itunes:duration>0:23:32</itunes:duration>
     </item>
   </channel>
 </rss>
