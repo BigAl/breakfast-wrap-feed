@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:38:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Donald Trump's big day at United Nations General Assembly</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107110786</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107110786</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oo/Z/i2.mp3" length="35077487" type="audio/mpeg"/>
+      <itunes:duration>0:24:21</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Intergenerational Report's focus on who we are and where we're going</title>
       <description>&lt;p&gt;Is Australia prepared for the challenges in the decades ahead for the nation? The federal government has just released the latest Intergenerational Report which shows how an aging population is expected to reshape the economy in the next 40 years. The report predicts that for the first time, deaths will outpace births in Australia by the mid 2060s. As the number of tax-paying Australians potential shrinks, the next four decades will see successive budget deficits. This comes as a Senate Inquiry has delivered 11 recommendations in the wake of last year's massive Optus Triple-Zero outage, which has been linked to two deaths.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Thu, 20 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nm/Z/5t.mp3" length="35324591" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Gambling reforms pass lower house</title>
-      <description>&lt;p&gt;Labor's gambling advertising bill has officially passed the lower house of parliament.&lt;/p&gt;&lt;p&gt;As well as the government and the Shadow Minister for Communications, we hear from two voices not too happy about the bill's passing. &lt;/p&gt;&lt;p&gt;One, understandably, representing gambling companies. &lt;/p&gt;&lt;p&gt;But the other, a Coalition  MP who crossed the floor to vote against the reforms, arguing they didn't go far enough. &lt;/p&gt;&lt;p&gt;Then, how is the federal government trying to protect superannuation consumers?&lt;/p&gt;&lt;p&gt;And Andrew Hastie talks One Nation in WA. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106978824</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106978824</guid>
-      <pubDate>Wed, 19 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nl/Z/3o.mp3" length="34125359" type="audio/mpeg"/>
-      <itunes:duration>0:23:41</itunes:duration>
     </item>
   </channel>
 </rss>
