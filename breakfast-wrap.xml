@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 05:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:36:47 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>BREAKFAST WRAP: Albanese Government braces for rising rates and growing AI threat</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107136048</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107136048</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ou/Z/ob.mp3" length="33902447" type="audio/mpeg"/>
+      <itunes:duration>0:23:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Finance Minister blames war for sticky inflation</title>
       <description>&lt;p&gt;A day out from an expected interest rate rise Finance Minister Katy Gallagher denies federal government spending is fuelling high inflation. Also, after UK authorities intercept what appears to be a major terror plot on a joint US UK base in England, the Shadow Defence Minister points out Australia's possible vulnerability on this front.&lt;/p&gt;&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Wed, 26 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ns/Z/51.mp3" length="34604591" type="audio/mpeg"/>
       <itunes:duration>0:24:01</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The plan to power data centres</title>
-      <description>&lt;p&gt;The federal government wants to settle new rules for how data centres use energy at national cabinet tomorrow. &lt;/p&gt;&lt;p&gt;The government says it doesn't want a 'race to the bottom' where states are pitted against each other, competing for data centres. &lt;/p&gt;&lt;p&gt;Then, we'll get the latest on Canada's trade war with the US and Washington's latest sanctions on Iran. &lt;/p&gt;&lt;p&gt;The British Prime Minister heads to Kyiv bearing gifts. &lt;/p&gt;&lt;p&gt;And questions are raised around lobbying rules in Australia's federal parliament. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106999034</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/106999034</guid>
-      <pubDate>Tue, 25 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nq/Z/r3.mp3" length="35329775" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
