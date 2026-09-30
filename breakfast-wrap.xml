@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 05:24:41 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: More interest rate hikes expected</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107141028</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107141028</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ov/Z/t5.mp3" length="34419119" type="audio/mpeg"/>
+      <itunes:duration>0:23:54</itunes:duration>
+    </item>
     <item>
       <title>BREAKFAST WRAP: Albanese Government braces for rising rates and growing AI threat</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Thu, 27 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nt/Z/f1.mp3" length="35325167" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Remembering Dolly Parton, 'the queen of country'</title>
-      <description>&lt;p&gt;Over a career spanning decades, Dolly Parton amassed a legion of fans as a country music sweetheart and global superstar.&lt;/p&gt;&lt;p&gt;We look back on her career and musical legacy.&lt;/p&gt;&lt;p&gt;Then a Productivity Commissioner responds to the Western Australian Premier's comments calling the commission 'east-coast clowns' after its interim report recommended revising the 2018 WA GST deal.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107007342</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107007342</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ns/Z/51.mp3" length="34604591" type="audio/mpeg"/>
-      <itunes:duration>0:24:01</itunes:duration>
     </item>
   </channel>
 </rss>
