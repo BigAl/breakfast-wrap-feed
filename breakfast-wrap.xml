@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 05:24:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:42:15 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Middle East airline hijack attempt foiled by passengers and crew</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107145996</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107145996</guid>
+      <pubDate>Thu, 01 Oct 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p1/Z/48.mp3" length="35214575" type="audio/mpeg"/>
+      <itunes:duration>0:24:27</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: More interest rate hikes expected</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Fri, 28 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nu/Z/ta.mp3" length="35927087" type="audio/mpeg"/>
       <itunes:duration>0:24:56</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: 'Himalayan tsunami' floods hits Nepal</title>
-      <description>&lt;p&gt;There are horrific scenes coming out of Nepal and southern Tibet - where powerful flash flooding has ripped through communities - destroying homes and roads and killing more than 160 people.&lt;/p&gt;&lt;p&gt;Nepali authorities say 34 Australians are among the more than 400 international tourists missing in this disaster.&lt;/p&gt;&lt;p&gt;Then we'll hear some fighting words from the former treasury boss Ken Henry about WA's attempts to keep its GST deal intact. He's call the deal stupid and criticised the Premier's response, after Roger Cook called the Productivity Commission 'east-coast clowns'.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107012166</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107012166</guid>
-      <pubDate>Thu, 27 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nt/Z/f1.mp3" length="35325167" type="audio/mpeg"/>
-      <itunes:duration>0:24:31</itunes:duration>
     </item>
   </channel>
 </rss>
