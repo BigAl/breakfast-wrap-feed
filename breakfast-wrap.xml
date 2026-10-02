@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:42:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:26:35 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Doctors battle to save life of death row inmate</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107147496</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107147496</guid>
+      <pubDate>Fri, 02 Oct 2026 10:00:00 +1000</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p2/Z/f0.mp3" length="34546991" type="audio/mpeg"/>
+      <itunes:duration>0:23:59</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Middle East airline hijack attempt foiled by passengers and crew</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Mon, 31 Aug 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o1/Z/b8.mp3" length="35325743" type="audio/mpeg"/>
       <itunes:duration>0:24:31</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Fears of further floods in Nepal</title>
-      <description>&lt;p&gt;As the death toll climbs, and more people remain unaccounted for following devastating flash floods along the Nepal-Tiben border, we hear scientists concerns that more flooding could be on the way.&lt;/p&gt;&lt;p&gt;One year ago geoscientist Dr Jakob Steiner prepared a report on glacial lake bursts for the Nepali government as part of efforts to prepare the country for future disasters. He says he's frustrated the government was not prepared for the flash floods.&lt;/p&gt;&lt;p&gt;On the Breakfast Wrap he explains the current thinking around what led to this disaster, and what could happen next. &lt;/p&gt;&lt;p&gt;We also hear from the Foreign Minister Pennny Wong, the former Australian Ambassador to Nepal Felicity Volk, and feature a musical performance from Tibetan-Australian musician and composer Tenzin Choegyal.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107013666</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107013666</guid>
-      <pubDate>Fri, 28 Aug 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/nu/Z/ta.mp3" length="35927087" type="audio/mpeg"/>
-      <itunes:duration>0:24:56</itunes:duration>
     </item>
   </channel>
 </rss>
