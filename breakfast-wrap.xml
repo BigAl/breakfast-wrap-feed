@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:48:16 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Coalition defends migration policy</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-coalition-defends-migration-policy/107166822</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-coalition-defends-migration-policy/107166822</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p6/Z/kd.mp3" length="35298671" type="audio/mpeg"/>
+      <itunes:duration>0:24:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Opposition to slash migration intake</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Thu, 03 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o4/Z/s8.mp3" length="35390255" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Nepal shifts to rehabilitation</title>
-      <description>&lt;p&gt;Four really insightful interviews spanning the disaster zone in Nepal, key court cases in the US, and a major political forum in the Pacific. &lt;/p&gt;&lt;p&gt;Hear from a Nepali MP about the government's shift to rehabilitation. She tells us the government will still keep security forces in place to find any survivors. &lt;/p&gt;&lt;p&gt;Then the whistleblower who contributed to the case against Meta thats seen the social media giant pay an $18bn settlement to US states. &lt;/p&gt;&lt;p&gt;We'll also speak with the LAPD officer who investigated Tupac Shakur's murder. &lt;/p&gt;&lt;p&gt;And the Pacific Affairs Minister Pat Conroy joins us from Palau amid a bumpy Pacific Islands Forum summit.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107035952</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107035952</guid>
-      <pubDate>Wed, 02 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o3/Z/m8.mp3" length="35321711" type="audio/mpeg"/>
-      <itunes:duration>0:24:31</itunes:duration>
     </item>
   </channel>
 </rss>
