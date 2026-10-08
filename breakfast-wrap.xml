@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 05:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:53:25 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What next for US execution survivor Christa Pike?</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-christa-pike/107171658</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-christa-pike/107171658</guid>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p7/Z/pb.mp3" length="35235887" type="audio/mpeg"/>
+      <itunes:duration>0:24:28</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Coalition defends migration policy</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Fri, 04 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o6/Z/33.mp3" length="35372975" type="audio/mpeg"/>
       <itunes:duration>0:24:33</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Unpacking Australia's economic growth</title>
-      <description>&lt;p&gt;It's not down, but it's barely up, and yet inflation remains a problem - so what is going on with the Australian economy right now?&lt;/p&gt;&lt;p&gt;The latest National Accounts data shows the economy growing by 2.1% over the year to June 30, but productivity remained sluggish. &lt;/p&gt;&lt;p&gt;We hear from the Treasurer, the Shadow Treasurer and a panel of economists to unpack what it all means. &lt;/p&gt;&lt;p&gt;Then we also head to Nepal to hear about the challenging work of recovering and identifying bodies being pulled from the disaster zone. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107041336</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107041336</guid>
-      <pubDate>Thu, 03 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o4/Z/s8.mp3" length="35390255" type="audio/mpeg"/>
-      <itunes:duration>0:24:34</itunes:duration>
     </item>
   </channel>
 </rss>
