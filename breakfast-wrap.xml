@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 05:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:59:24 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Coalition's migration plan under the microscope</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-coalition-migration-plan/107173254</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-coalition-migration-plan/107173254</guid>
+      <pubDate>Fri, 09 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p9/Z/0m.mp3" length="34709423" type="audio/mpeg"/>
+      <itunes:duration>0:24:06</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What next for US execution survivor Christa Pike?</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Mon, 07 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o8/Z/aj.mp3" length="35378167" type="audio/mpeg"/>
       <itunes:duration>0:24:34</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: How unified is the Pacific?</title>
-      <description>&lt;p&gt;Fresh off the Pacific Islands Forum Leaders Summit, the Palau President is projecting unity, despite the summit being engulfed in tension.&lt;/p&gt;&lt;p&gt;There's been a number of notable absences, also the presence of Taiwans foreign minister, and a holdout over a statement criticising a recent Chinese missile test.&lt;/p&gt;&lt;p&gt;We'll hear from the President, and Australia's climate change mnister who was there too. &lt;/p&gt;&lt;p&gt;Then the new ACTU Secretary talks housing. &lt;/p&gt;&lt;p&gt;And we look back at the life and legacy of feminist icon  Gloria Steinem. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107042856</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107042856</guid>
-      <pubDate>Fri, 04 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o6/Z/33.mp3" length="35372975" type="audio/mpeg"/>
-      <itunes:duration>0:24:33</itunes:duration>
     </item>
   </channel>
 </rss>
