@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 05:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:47:24 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Trump's 'energy ceasefire' blindsides Ukraine</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107180728</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107180728</guid>
+      <pubDate>Mon, 12 Oct 2026 07:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pb/Z/de.mp3" length="34411055" type="audio/mpeg"/>
+      <itunes:duration>0:23:53</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Coalition's migration plan under the microscope</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -236,15 +245,6 @@
       <pubDate>Tue, 08 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o9/Z/gj.mp3" length="35332085" type="audio/mpeg"/>
       <itunes:duration>0:24:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Germany's far right reaches new heights</title>
-      <description>&lt;p&gt;Exit polls show Germany's far-right AFD party has won its first state election in the country's east.&lt;/p&gt;&lt;p&gt;No far-right wing party has won a major election in Germany since World War Two.&lt;/p&gt;&lt;p&gt;But the party looks like it will fall just short of securing an absolute majority, so will it be able to form a coalition? &lt;/p&gt;&lt;p&gt;Then - is there an anti boy ideology being taught in schools?&lt;/p&gt;&lt;p&gt;That's what the Nationals leader thinks, so we'll ask an expert who has contributed to the respectful relationships curriculum. &lt;/p&gt;&lt;p&gt;The Ukrainian President has had a high level meeting with Trump's envoys in Kyiv, the day after they met with the Russian President. &lt;/p&gt;&lt;p&gt;And the federal government responds to the Coalition's plans to cut the cigarette excise by 80%. &lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107049516</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107049516</guid>
-      <pubDate>Mon, 07 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o8/Z/aj.mp3" length="35378167" type="audio/mpeg"/>
-      <itunes:duration>0:24:34</itunes:duration>
     </item>
   </channel>
 </rss>
