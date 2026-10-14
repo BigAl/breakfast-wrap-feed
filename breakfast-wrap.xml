@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:41:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:44:37 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Albanese Government moves to diffuse business backlash</title>
+      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107194130</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107194130</guid>
+      <pubDate>Wed, 14 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pd/Z/nv.mp3" length="34480751" type="audio/mpeg"/>
+      <itunes:duration>0:23:56</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Reflections on leadership</title>
       <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
@@ -245,15 +254,6 @@
       <pubDate>Wed, 09 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oa/Z/nv.mp3" length="34975541" type="audio/mpeg"/>
       <itunes:duration>0:24:17</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Can we switch off the algorithm?</title>
-      <description>&lt;p&gt;Can we simply shut off the algorithms sending content to our screens on the world's biggest social media platforms?&lt;/p&gt;&lt;p&gt;That is what the federal government would love to be able to do via new legislation its introducing this week. &lt;/p&gt;&lt;p&gt;Then we'll dive into One Nation's new superannuation policy with MP Barnaby Joyce. &lt;/p&gt;&lt;p&gt;And we'll hear about daring heists of food and beverage products in the United Kingdom.&lt;/p&gt;&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107053950</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107053950</guid>
-      <pubDate>Tue, 08 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/o9/Z/gj.mp3" length="35332085" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
