@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 04:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:30:28 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Thousands arrested in French unrest</title>
+      <description>&lt;p&gt;Thousands of pepole have been arrested across France following days of chaotic unrest.&lt;/p&gt;&lt;p&gt;We'll take you to the streets of Paris and we'll hear how the French President is responding.&lt;/p&gt;&lt;p&gt;Then, where is the line for political satire? &lt;/p&gt;&lt;p&gt;Independent Senator Jacqui Lambie thinks One Nation has  crossed it, with its latest video that mocks her health battle after she publicly revealed that she suffered vaginal prolapse.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268718</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268718</guid>
+      <pubDate>Mon, 19 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pi/Z/ik.mp3" length="35290031" type="audio/mpeg"/>
+      <itunes:duration>0:24:30</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Outcry over hidden camera on navy ship</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -245,15 +254,6 @@
       <pubDate>Mon, 14 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/of/Z/eg.mp3" length="34360367" type="audio/mpeg"/>
       <itunes:duration>0:23:51</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: The world remembers how September 11 changed the world forever</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107068044</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107068044</guid>
-      <pubDate>Fri, 11 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/od/Z/78.mp3" length="34798127" type="audio/mpeg"/>
-      <itunes:duration>0:24:09</itunes:duration>
     </item>
   </channel>
 </rss>
