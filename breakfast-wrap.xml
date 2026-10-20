@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:30:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:40:00 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia rocked by attack on Dr Helen Haines</title>
+      <description>&lt;p&gt;How are representatives across the political spectrum digesting news of an attack on an Australian politician?&lt;/p&gt;&lt;p&gt;Today's episode of the Breakfast Wrap hears from the bystander who intervened in Wangaratta, the town's Mayor, as well as independent federal politicians, the government and the opposition, the House Speaker and historical context from Michelle Grattan. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268726</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268726</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pj/Z/rv.mp3" length="35042351" type="audio/mpeg"/>
+      <itunes:duration>0:24:20</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Thousands arrested in French unrest</title>
       <description>&lt;p&gt;Thousands of pepole have been arrested across France following days of chaotic unrest.&lt;/p&gt;&lt;p&gt;We'll take you to the streets of Paris and we'll hear how the French President is responding.&lt;/p&gt;&lt;p&gt;Then, where is the line for political satire? &lt;/p&gt;&lt;p&gt;Independent Senator Jacqui Lambie thinks One Nation has  crossed it, with its latest video that mocks her health battle after she publicly revealed that she suffered vaginal prolapse.&lt;/p&gt;</description>
@@ -236,24 +245,6 @@
       <pubDate>Wed, 16 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oh/Z/ok.mp3" length="35020463" type="audio/mpeg"/>
       <itunes:duration>0:24:19</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Whyalla steelworks close</title>
-      <description>&lt;p&gt;Recap the morning's news, politics and global affairs with the Breakfast Wrap.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107079392</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107079392</guid>
-      <pubDate>Tue, 15 Sep 2026 06:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/og/Z/mk.mp3" length="23007360" type="audio/mpeg"/>
-      <itunes:duration>0:23:51</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: One Nation's 'net negative' migration policy</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107075400</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107075400</guid>
-      <pubDate>Mon, 14 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/of/Z/eg.mp3" length="34360367" type="audio/mpeg"/>
-      <itunes:duration>0:23:51</itunes:duration>
     </item>
   </channel>
 </rss>
