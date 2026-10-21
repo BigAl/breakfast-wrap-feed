@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 04:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:34:14 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: How can we better protect politicians?</title>
+      <description>&lt;p&gt;Politicians are raising security fears of their own, in the wake of an attack on prominent independent MP Dr helen Haines.&lt;/p&gt;&lt;p&gt;So how can we better protect the people representing us?&lt;/p&gt;&lt;p&gt;Then, One Nation leader Senator Pauline Hanson apologises for a cartoon mocking Senator Jacqui Lambie's health struggles after she suffers vaginal prolapse.&lt;/p&gt;&lt;p&gt;You'll hear from One Nation deputy leader Barnaby Joyce.&lt;/p&gt;&lt;p&gt;And we''ll also cross to Canada to find out about an effort to split the country.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268928</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268928</guid>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pl/Z/0u.mp3" length="35337263" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Australia rocked by attack on Dr Helen Haines</title>
       <description>&lt;p&gt;How are representatives across the political spectrum digesting news of an attack on an Australian politician?&lt;/p&gt;&lt;p&gt;Today's episode of the Breakfast Wrap hears from the bystander who intervened in Wangaratta, the town's Mayor, as well as independent federal politicians, the government and the opposition, the House Speaker and historical context from Michelle Grattan. &lt;/p&gt;</description>
