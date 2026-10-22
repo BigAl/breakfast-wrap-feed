@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:32:47 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why are house prices falling?</title>
+      <description>&lt;p&gt;House prices have fallen in all capital cities for the first time in 15 years - that's according to new data from listings company Domain.&lt;/p&gt;&lt;p&gt;Prices across the capitals fell 4.7% in the September quarter - wiping almost $60,000 off the median price of a home.&lt;/p&gt;&lt;p&gt;We hear from the Federal Housing Minister Claire O'Neill. &lt;/p&gt;&lt;p&gt;Then, we'll turn to the Greens,  and party leader David Shoebridge's message on our show that he expects Jordon Steele-John to take leave from the party.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268918</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268918</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pm/Z/9b.mp3" length="34962863" type="audio/mpeg"/>
+      <itunes:duration>0:24:16</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: How can we better protect politicians?</title>
       <description>&lt;p&gt;Politicians are raising security fears of their own, in the wake of an attack on prominent independent MP Dr helen Haines.&lt;/p&gt;&lt;p&gt;So how can we better protect the people representing us?&lt;/p&gt;&lt;p&gt;Then, One Nation leader Senator Pauline Hanson apologises for a cartoon mocking Senator Jacqui Lambie's health struggles after she suffers vaginal prolapse.&lt;/p&gt;&lt;p&gt;You'll hear from One Nation deputy leader Barnaby Joyce.&lt;/p&gt;&lt;p&gt;And we''ll also cross to Canada to find out about an effort to split the country.&lt;/p&gt;</description>
@@ -245,15 +254,6 @@
       <pubDate>Thu, 17 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oi/Z/sv.mp3" length="35417327" type="audio/mpeg"/>
       <itunes:duration>0:24:35</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Could copyright reforms leave artists without payment for AI training?</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107083642</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107083642</guid>
-      <pubDate>Wed, 16 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oh/Z/ok.mp3" length="35020463" type="audio/mpeg"/>
-      <itunes:duration>0:24:19</itunes:duration>
     </item>
   </channel>
 </rss>
