@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 04:32:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:38:16 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: The $25b energy project causing a political headache</title>
+      <description>&lt;p&gt;A major review into Australia's biggest renewable energy project has found Snowy Hydro 2.0 could cost up to $25 billion, with the completion date pushed out another year.&lt;/p&gt;&lt;p&gt;The project had an initial budget of $2-billion dollars and was originally expected to start operating in 2021.&lt;/p&gt;&lt;p&gt;It's now it's expected to not be fully operational until 2029. &lt;/p&gt;&lt;p&gt;We hear from the government, the opposition and the project's CEO. &lt;/p&gt;&lt;p&gt;Then, 12 months ago we spoke to Dr Saya Aziz - an Australian anaesthetist working in Gaza, who described horrific scenes of mass casualties, medical equipment shortages, even a lack of soap - along with the constant fear of air strikes. She comes back on the show after returning from her second trip to Gaza. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269070</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269070</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pn/Z/fu.mp3" length="35124719" type="audio/mpeg"/>
+      <itunes:duration>0:24:23</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Why are house prices falling?</title>
       <description>&lt;p&gt;House prices have fallen in all capital cities for the first time in 15 years - that's according to new data from listings company Domain.&lt;/p&gt;&lt;p&gt;Prices across the capitals fell 4.7% in the September quarter - wiping almost $60,000 off the median price of a home.&lt;/p&gt;&lt;p&gt;We hear from the Federal Housing Minister Claire O'Neill. &lt;/p&gt;&lt;p&gt;Then, we'll turn to the Greens,  and party leader David Shoebridge's message on our show that he expects Jordon Steele-John to take leave from the party.&lt;/p&gt;</description>
@@ -245,15 +254,6 @@
       <pubDate>Fri, 18 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oj/Z/v0.mp3" length="35121263" type="audio/mpeg"/>
       <itunes:duration>0:24:23</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Iran's exiled Crown Prince joins Breakfast</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107091626</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107091626</guid>
-      <pubDate>Thu, 17 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oi/Z/sv.mp3" length="35417327" type="audio/mpeg"/>
-      <itunes:duration>0:24:35</itunes:duration>
     </item>
   </channel>
 </rss>
