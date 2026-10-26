@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:35:57 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Parliament in solidarity with Helen Haines</title>
+      <description>&lt;p&gt;Federal parliament will sit today for the first time since independent MP Dr. Helen Haines was attacked outside her electorate office.&lt;/p&gt;&lt;p&gt;Parliamentary business will be suspended, with the prime minister to move a motion expressing support for Ms Haines and her family.&lt;/p&gt;&lt;p&gt;She remains in hospital in a serious but stable condition.&lt;/p&gt;&lt;p&gt;Then - Brazilians have been voting in a hugely consequential election that could take the country down two very different paths. We cross to Sao Paulo as polls close. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269300</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269300</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pp/Z/ot.mp3" length="35410415" type="audio/mpeg"/>
+      <itunes:duration>0:24:35</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The $25b energy project causing a political headache</title>
       <description>&lt;p&gt;A major review into Australia's biggest renewable energy project has found Snowy Hydro 2.0 could cost up to $25 billion, with the completion date pushed out another year.&lt;/p&gt;&lt;p&gt;The project had an initial budget of $2-billion dollars and was originally expected to start operating in 2021.&lt;/p&gt;&lt;p&gt;It's now it's expected to not be fully operational until 2029. &lt;/p&gt;&lt;p&gt;We hear from the government, the opposition and the project's CEO. &lt;/p&gt;&lt;p&gt;Then, 12 months ago we spoke to Dr Saya Aziz - an Australian anaesthetist working in Gaza, who described horrific scenes of mass casualties, medical equipment shortages, even a lack of soap - along with the constant fear of air strikes. She comes back on the show after returning from her second trip to Gaza. &lt;/p&gt;</description>
@@ -245,15 +254,6 @@
       <pubDate>Mon, 21 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/om/Z/7r.mp3" length="34966319" type="audio/mpeg"/>
       <itunes:duration>0:24:16</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Labor's migration policy cracks down on backpackers</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107094470</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107094470</guid>
-      <pubDate>Fri, 18 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oj/Z/v0.mp3" length="35121263" type="audio/mpeg"/>
-      <itunes:duration>0:24:23</itunes:duration>
     </item>
   </channel>
 </rss>
