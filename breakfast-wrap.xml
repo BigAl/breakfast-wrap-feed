@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:54:04 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: How Brazil's Lula won from behind</title>
+      <description>&lt;p&gt;The left-wing incumbent President Luiz Inácio Lula da Silva has come from behind to win the Brazilian election in extraordinary fashion. &lt;/p&gt;&lt;p&gt;But the right wing challenger, son of the former president Flavio Bolsonaro hasn't yet conceded defeat. &lt;/p&gt;&lt;p&gt;So what on earth is happening in Brazil?&lt;/p&gt;&lt;p&gt;Then some Labor politicians are trialling the use of an AI tool to identify and hide abusive and threatening comments on social media. We hear from the Minister for Women who's used the tool herself. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269302</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269302</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pq/Z/vg.mp3" length="35341871" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Parliament in solidarity with Helen Haines</title>
       <description>&lt;p&gt;Federal parliament will sit today for the first time since independent MP Dr. Helen Haines was attacked outside her electorate office.&lt;/p&gt;&lt;p&gt;Parliamentary business will be suspended, with the prime minister to move a motion expressing support for Ms Haines and her family.&lt;/p&gt;&lt;p&gt;She remains in hospital in a serious but stable condition.&lt;/p&gt;&lt;p&gt;Then - Brazilians have been voting in a hugely consequential election that could take the country down two very different paths. We cross to Sao Paulo as polls close. &lt;/p&gt;</description>
@@ -237,23 +246,6 @@
       <pubDate>Wed, 23 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oo/Z/i2.mp3" length="35077487" type="audio/mpeg"/>
       <itunes:duration>0:24:21</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Intergenerational Report's focus on who we are and where we're going</title>
-      <description>&lt;p&gt;Is Australia prepared for the challenges in the decades ahead for the nation? The federal government has just released the latest Intergenerational Report which shows how an aging population is expected to reshape the economy in the next 40 years. The report predicts that for the first time, deaths will outpace births in Australia by the mid 2060s. As the number of tax-paying Australians potential shrinks, the next four decades will see successive budget deficits. This comes as a Senate Inquiry has delivered 11 recommendations in the wake of last year's massive Optus Triple-Zero outage, which has been linked to two deaths.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107109522</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107109522</guid>
-      <pubDate>Tue, 22 Sep 2026 07:30:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/on/Z/dm.mp3" length="46457856" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Coalition plan to cut fuel excise</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107102100</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107102100</guid>
-      <pubDate>Mon, 21 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/om/Z/7r.mp3" length="34966319" type="audio/mpeg"/>
-      <itunes:duration>0:24:16</itunes:duration>
     </item>
   </channel>
 </rss>
