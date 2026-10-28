@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:29:21 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: What next for Israel?</title>
+      <description>&lt;p&gt;The Israeli elections are too close to call as counting continues.&lt;/p&gt;&lt;p&gt;Neither the bloc led by Prime Minister Benjamin Netanyahu's Likud party, nor its main rival bloc led by Gadi Eisenkot's Yashar party is on track for a majority in the 120-seat parliament. &lt;/p&gt;&lt;p&gt;We hear from a former Israeli diplomat on what the country can expect over coming weeks. &lt;/p&gt;&lt;p&gt;Then, the Australian Prime Minister is being accused by the opposition of misleading parliament over a grant to a golf club in his electorate&lt;/p&gt;&lt;p&gt;The Communications and Sport Minister Anika Wells will answer Sally's questions over the 6 million dollar grant.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269572</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269572</guid>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ps/Z/3b.mp3" length="34610351" type="audio/mpeg"/>
+      <itunes:duration>0:24:02</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: How Brazil's Lula won from behind</title>
       <description>&lt;p&gt;The left-wing incumbent President Luiz Inácio Lula da Silva has come from behind to win the Brazilian election in extraordinary fashion. &lt;/p&gt;&lt;p&gt;But the right wing challenger, son of the former president Flavio Bolsonaro hasn't yet conceded defeat. &lt;/p&gt;&lt;p&gt;So what on earth is happening in Brazil?&lt;/p&gt;&lt;p&gt;Then some Labor politicians are trialling the use of an AI tool to identify and hide abusive and threatening comments on social media. We hear from the Minister for Women who's used the tool herself. &lt;/p&gt;</description>
