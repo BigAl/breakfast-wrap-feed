@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:29:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:37:30 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Spain grapples with another deadly train tragedy</title>
+      <description>&lt;p&gt;We head to central Spain with a reporter who's been on the ground of the worst rail disaster in Europe since 2013. &lt;/p&gt;&lt;p&gt;He tells us survivors are frustrated at repeated rail-incident deaths, and the disaster could play a role in the upcoming Spanish election. &lt;/p&gt;&lt;p&gt;Then, there's still a stalemate in the Israeli election and the question many are asking; could the surging Arab-Israeli parties end up the kingmakers?&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269568</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269568</guid>
+      <pubDate>Thu, 29 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pt/Z/9d.mp3" length="35326319" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: What next for Israel?</title>
       <description>&lt;p&gt;The Israeli elections are too close to call as counting continues.&lt;/p&gt;&lt;p&gt;Neither the bloc led by Prime Minister Benjamin Netanyahu's Likud party, nor its main rival bloc led by Gadi Eisenkot's Yashar party is on track for a majority in the 120-seat parliament. &lt;/p&gt;&lt;p&gt;We hear from a former Israeli diplomat on what the country can expect over coming weeks. &lt;/p&gt;&lt;p&gt;Then, the Australian Prime Minister is being accused by the opposition of misleading parliament over a grant to a golf club in his electorate&lt;/p&gt;&lt;p&gt;The Communications and Sport Minister Anika Wells will answer Sally's questions over the 6 million dollar grant.&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Thu, 24 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/op/Z/vc.mp3" length="34820597" type="audio/mpeg"/>
       <itunes:duration>0:24:10</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Donald Trump's big day at United Nations General Assembly</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107110786</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107110786</guid>
-      <pubDate>Wed, 23 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/oo/Z/i2.mp3" length="35077487" type="audio/mpeg"/>
-      <itunes:duration>0:24:21</itunes:duration>
     </item>
   </channel>
 </rss>
