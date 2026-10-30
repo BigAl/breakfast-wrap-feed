@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:37:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:36:36 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: An Ambassador's emotional plea at the UN</title>
+      <description>&lt;p&gt;A moment at the United Nations has reminded the world of the ongoing crisis in Myanmar. We hear from the country's Ambassador who was brought to tears with a plea, stopping dignitaries in their tracks. &lt;/p&gt;&lt;p&gt;Then, outrage, anger and questions mount in Spain following the country's second deadly high speed rail disaster this year. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269520</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269520</guid>
+      <pubDate>Fri, 30 Oct 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pu/Z/dk.mp3" length="35324015" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Spain grapples with another deadly train tragedy</title>
       <description>&lt;p&gt;We head to central Spain with a reporter who's been on the ground of the worst rail disaster in Europe since 2013. &lt;/p&gt;&lt;p&gt;He tells us survivors are frustrated at repeated rail-incident deaths, and the disaster could play a role in the upcoming Spanish election. &lt;/p&gt;&lt;p&gt;Then, there's still a stalemate in the Israeli election and the question many are asking; could the surging Arab-Israeli parties end up the kingmakers?&lt;/p&gt;</description>
@@ -245,15 +254,6 @@
       <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107120994</guid>
       <pubDate>Fri, 25 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/or/Z/g1.mp3" length="34808495" type="audio/mpeg"/>
-      <itunes:duration>0:24:10</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Australia becomes AI data hack target</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107119486</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107119486</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/op/Z/vc.mp3" length="34820597" type="audio/mpeg"/>
       <itunes:duration>0:24:10</itunes:duration>
     </item>
   </channel>
