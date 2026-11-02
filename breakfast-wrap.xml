@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:52:35 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Gun buyback scheme begins in NSW</title>
+      <description>&lt;p&gt;Some license holders in New South Wales will be able to surrender their guns from today.&lt;/p&gt;&lt;p&gt;It's part of the state government's response to the Bondi Beach massacre last year, including limiting the number of guns a person can own and the introduction of stronger background checks.&lt;/p&gt;&lt;p&gt;Then, the Nationals Senate leader Bridget McKenzie has been a vocal opponent of the caps on the number of guns people can own - she shares her response to the scheme. &lt;/p&gt;&lt;p&gt;And overseas, Caribbean activists want the United Kingdom to confront its role in transatlantic enslavement, which saw more than 10 million Africans stolen from their homes from the 15th to 19th centuries.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269536</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269536</guid>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/q0/Z/te.mp3" length="34657583" type="audio/mpeg"/>
+      <itunes:duration>0:24:04</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: An Ambassador's emotional plea at the UN</title>
       <description>&lt;p&gt;A moment at the United Nations has reminded the world of the ongoing crisis in Myanmar. We hear from the country's Ambassador who was brought to tears with a plea, stopping dignitaries in their tracks. &lt;/p&gt;&lt;p&gt;Then, outrage, anger and questions mount in Spain following the country's second deadly high speed rail disaster this year. &lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Mon, 28 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ot/Z/jt.mp3" length="11689728" type="audio/mpeg"/>
       <itunes:duration>0:24:21</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Questions swirl around Australia's rogue AI intrusion</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107120994</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107120994</guid>
-      <pubDate>Fri, 25 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/or/Z/g1.mp3" length="34808495" type="audio/mpeg"/>
-      <itunes:duration>0:24:10</itunes:duration>
     </item>
   </channel>
 </rss>
