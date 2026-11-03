@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 05:52:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:36:51 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Why is a Democrat endorsing a Republican in Michigan?</title>
+      <description>&lt;p&gt;In Michigan, a shock last-minute endorsement may have tightened the midterm race. &lt;/p&gt;&lt;p&gt;Sitting Democrat congresswoman Haley Stevens has publicly backing Republican candidate Mike Rogers over her party's own nominee, Abdul El-Sayed.&lt;/p&gt;&lt;p&gt;We also turn to the race in Texas, where a Democrat is threatening the Republican's hold on the state. &lt;/p&gt;&lt;p&gt;Then over in the Carribean, Prime minister Anthony Albanese is going to raise Australia's recent changes to visa rules for backpackers with the British Prime Minister. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269472</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107269472</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/q2/Z/55.mp3" length="35347055" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Gun buyback scheme begins in NSW</title>
       <description>&lt;p&gt;Some license holders in New South Wales will be able to surrender their guns from today.&lt;/p&gt;&lt;p&gt;It's part of the state government's response to the Bondi Beach massacre last year, including limiting the number of guns a person can own and the introduction of stronger background checks.&lt;/p&gt;&lt;p&gt;Then, the Nationals Senate leader Bridget McKenzie has been a vocal opponent of the caps on the number of guns people can own - she shares her response to the scheme. &lt;/p&gt;&lt;p&gt;And overseas, Caribbean activists want the United Kingdom to confront its role in transatlantic enslavement, which saw more than 10 million Africans stolen from their homes from the 15th to 19th centuries.&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Tue, 29 Sep 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ou/Z/ob.mp3" length="33902447" type="audio/mpeg"/>
       <itunes:duration>0:23:32</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Finance Minister blames war for sticky inflation</title>
-      <description>&lt;p&gt;A day out from an expected interest rate rise Finance Minister Katy Gallagher denies federal government spending is fuelling high inflation. Also, after UK authorities intercept what appears to be a major terror plot on a joint US UK base in England, the Shadow Defence Minister points out Australia's possible vulnerability on this front.&lt;/p&gt;&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107131422</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107131422</guid>
-      <pubDate>Mon, 28 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ot/Z/jt.mp3" length="11689728" type="audio/mpeg"/>
-      <itunes:duration>0:24:21</itunes:duration>
     </item>
   </channel>
 </rss>
