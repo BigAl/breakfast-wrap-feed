@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:33:10 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Blue-nami sweeps US mid-terms</title>
+      <description>&lt;p&gt;The Democrats have seized control of both the Senate and the House of Representatives following the midterm elections.&lt;/p&gt;&lt;p&gt;We're gonna wrap the big races, hear from a pollster, a former Australian Ambassador to the US, and a Congressman-elect, who flipped a Republican seat blue - completely out out of the blue.&lt;/p&gt;&lt;p&gt;We'll also look at how Republicans are assessing the loss, with the President now admitting the war with Iran may have had something to do with it.&lt;/p&gt;&lt;p&gt;And there's a telling market reaction too that is worth looking at with Carrington Clarke.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107284234</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107284234</guid>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/q4/Z/l1.mp3" length="35143727" type="audio/mpeg"/>
+      <itunes:duration>0:24:24</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: The 5th rate rise this year</title>
       <description>&lt;p&gt;The Reserve Bank has hiked interest rates for a fifth time this year, taking the rate to an 18-year high.&lt;/p&gt;&lt;p&gt;The RBA has updated its economic forecasts - revealing it doesn't expect inflation to return to its target band of 2-3% until late next year.&lt;/p&gt;&lt;p&gt;We hear from the Finance Minister and the Shadow Treasurer. &lt;/p&gt;&lt;p&gt;Then we cross to the US as voters have their say in the mid-term elections. &lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Thu, 01 Oct 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p1/Z/48.mp3" length="35214575" type="audio/mpeg"/>
       <itunes:duration>0:24:27</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: More interest rate hikes expected</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107141028</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107141028</guid>
-      <pubDate>Wed, 30 Sep 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/ov/Z/t5.mp3" length="34419119" type="audio/mpeg"/>
-      <itunes:duration>0:23:54</itunes:duration>
     </item>
   </channel>
 </rss>
