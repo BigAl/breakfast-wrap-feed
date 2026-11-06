@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 06:33:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:28:27 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: David Jones suppliers scrambling</title>
+      <description>&lt;p&gt;&quot;They're a pain in the arse to work with,&quot; says one David Jones supplier who's grappling with the department store's announcement its going into voluntary administration.&lt;/p&gt;&lt;p&gt;Renniks Group boss Michael Pitt says he doesn't expect David Jones to pay the $16,000 it owes his company, nor cover the $40,000 worth of merchandise and packaging he has sitting in his warehouse. &lt;/p&gt;&lt;p&gt;We also hear from the union representing retail workers as it plans to up activity to protect staff. &lt;/p&gt;&lt;p&gt;Then Democrats want to roll back the Trump administrations tariffs, so what impact could the midterms have on gobal trade?&lt;/p&gt;&lt;p&gt;And we'll cross the pond as New Zealand heads to the polls this weekend.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107284254</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107284254</guid>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/q5/Z/uf.mp3" length="35322287" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Blue-nami sweeps US mid-terms</title>
       <description>&lt;p&gt;The Democrats have seized control of both the Senate and the House of Representatives following the midterm elections.&lt;/p&gt;&lt;p&gt;We're gonna wrap the big races, hear from a pollster, a former Australian Ambassador to the US, and a Congressman-elect, who flipped a Republican seat blue - completely out out of the blue.&lt;/p&gt;&lt;p&gt;We'll also look at how Republicans are assessing the loss, with the President now admitting the war with Iran may have had something to do with it.&lt;/p&gt;&lt;p&gt;And there's a telling market reaction too that is worth looking at with Carrington Clarke.&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Fri, 02 Oct 2026 10:00:00 +1000</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p2/Z/f0.mp3" length="34546991" type="audio/mpeg"/>
       <itunes:duration>0:23:59</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Middle East airline hijack attempt foiled by passengers and crew</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107145996</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107145996</guid>
-      <pubDate>Thu, 01 Oct 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p1/Z/48.mp3" length="35214575" type="audio/mpeg"/>
-      <itunes:duration>0:24:27</itunes:duration>
     </item>
   </channel>
 </rss>
