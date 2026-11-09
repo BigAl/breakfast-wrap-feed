@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:28:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:08:05 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Was Nvidia's CEO targetted by a Chinese spy?</title>
+      <description>&lt;p&gt;Technology giant Nvidia says it will investigate a report CEO Jensen Huang was the target of a foreign intelligence effort.&lt;/p&gt;&lt;p&gt;Mr Huang has admitted to staff he had a romantic relationship with a suspected Chinese spy.&lt;/p&gt;&lt;p&gt;Carrington Clarke breaks down a story rocking the tech sector.&lt;/p&gt;&lt;p&gt;Then, the government backs down over its plans to sell key defence sites, now allowing four to remain in public hands.&lt;/p&gt;&lt;p&gt;And New Zealanders have had their say over who should lead the country, but it's going to take some time to figure out exactly what they said.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107290552</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107290552</guid>
+      <pubDate>Mon, 09 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/q8/Z/a7.mp3" length="35339569" type="audio/mpeg"/>
+      <itunes:duration>0:24:32</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: David Jones suppliers scrambling</title>
       <description>&lt;p&gt;&quot;They're a pain in the arse to work with,&quot; says one David Jones supplier who's grappling with the department store's announcement its going into voluntary administration.&lt;/p&gt;&lt;p&gt;Renniks Group boss Michael Pitt says he doesn't expect David Jones to pay the $16,000 it owes his company, nor cover the $40,000 worth of merchandise and packaging he has sitting in his warehouse. &lt;/p&gt;&lt;p&gt;We also hear from the union representing retail workers as it plans to up activity to protect staff. &lt;/p&gt;&lt;p&gt;Then Democrats want to roll back the Trump administrations tariffs, so what impact could the midterms have on gobal trade?&lt;/p&gt;&lt;p&gt;And we'll cross the pond as New Zealand heads to the polls this weekend.&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Mon, 05 Oct 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p4/Z/g5.mp3" length="11563776" type="audio/mpeg"/>
       <itunes:duration>0:24:05</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Doctors battle to save life of death row inmate</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107147496</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107147496</guid>
-      <pubDate>Fri, 02 Oct 2026 10:00:00 +1000</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p2/Z/f0.mp3" length="34546991" type="audio/mpeg"/>
-      <itunes:duration>0:23:59</itunes:duration>
     </item>
   </channel>
 </rss>
