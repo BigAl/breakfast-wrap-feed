@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:29:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:13:48 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Does the gas reservation scheme have support?</title>
+      <description>&lt;p&gt;The federal government is urging Senators to support its proposed national gas reservation scheme, as the Senate kicks off its second-last sitting week of the year.&lt;/p&gt;&lt;p&gt;The scheme would force liquefied natural gas exporters to keep up to 20% of their product for Australia's domestic market, which the government says will put downward pressure on prices.&lt;/p&gt;&lt;p&gt;We hear from the Resources Minister. &lt;/p&gt;&lt;p&gt;Then, what led to the worst grounding of air travel in the US in 25 years?&lt;/p&gt;&lt;p&gt;And some in the US government want Jensen Huang to stay away from Nvidia, so could he really come back to the company after the suspected spying scandal?&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107314356</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107314356</guid>
+      <pubDate>Mon, 16 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/qf/Z/an.mp3" length="35318833" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Cummins rejects Khawaja's 'sandpapergate' claims</title>
       <description>&lt;p&gt;Test cricket captain Pat Cummins has denied any knowledge of sandpaper being used in the 2018 Test series against South Africa.&lt;/p&gt;&lt;p&gt;Former batter Usman Khawaja claimed in his new book that &quot;everyone&quot; involved in that series had knowledge of ball tampering.&lt;/p&gt;&lt;p&gt;But Cummins, who bowled in that series, has unequivocally rejected that in a press conference. He's called the claims &quot;complete and utter nonsense&quot;. Luke speaks to Warwick Hadfield about the latest developments.&lt;/p&gt;&lt;p&gt;Plus, Nvidia CEO Jensen Huang quits after admitting to an extramarital affair with an alleged Chinese spy.&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Mon, 12 Oct 2026 07:30:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pb/Z/de.mp3" length="34411055" type="audio/mpeg"/>
       <itunes:duration>0:23:53</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Coalition's migration plan under the microscope</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-coalition-migration-plan/107173254</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast-coalition-migration-plan/107173254</guid>
-      <pubDate>Fri, 09 Oct 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/p9/Z/0m.mp3" length="34709423" type="audio/mpeg"/>
-      <itunes:duration>0:24:06</itunes:duration>
     </item>
   </channel>
 </rss>
