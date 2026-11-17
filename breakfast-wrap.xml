@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:46:17 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: David McBride's first interview out of prison</title>
+      <description>&lt;p&gt;In an exclusive, David McBride speaks to Radio National Breakfast in his first interview since being freed from prison in August. &lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt;In 2024, former army lawyer David McBride was sent to prison for taking classified defence documents and passing them on to journalists.&lt;/p&gt;&lt;p&gt;Those documents became the basis of 'The Afghan Files' - a series of ABC reports that offered an unprecedented insight into the conduct of Australia's special forces - including allegations of war crimes.&lt;/p&gt;&lt;p&gt;David McBride was released on parole in August this year and tonight, a group of former intelligence officers will honour him with the Sam Adams Award for Integrity in Intelligence.&lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt;Then, we cover the biggest entertainment news in the world - the casting of the next James Bond.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107320194</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107320194</guid>
+      <pubDate>Tue, 17 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/qg/Z/f3.mp3" length="34624177" type="audio/mpeg"/>
+      <itunes:duration>0:24:02</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Does the gas reservation scheme have support?</title>
       <description>&lt;p&gt;The federal government is urging Senators to support its proposed national gas reservation scheme, as the Senate kicks off its second-last sitting week of the year.&lt;/p&gt;&lt;p&gt;The scheme would force liquefied natural gas exporters to keep up to 20% of their product for Australia's domestic market, which the government says will put downward pressure on prices.&lt;/p&gt;&lt;p&gt;We hear from the Resources Minister. &lt;/p&gt;&lt;p&gt;Then, what led to the worst grounding of air travel in the US in 25 years?&lt;/p&gt;&lt;p&gt;And some in the US government want Jensen Huang to stay away from Nvidia, so could he really come back to the company after the suspected spying scandal?&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Tue, 13 Oct 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pc/Z/jd.mp3" length="34548143" type="audio/mpeg"/>
       <itunes:duration>0:23:59</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Trump's 'energy ceasefire' blindsides Ukraine</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107180728</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107180728</guid>
-      <pubDate>Mon, 12 Oct 2026 07:30:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pb/Z/de.mp3" length="34411055" type="audio/mpeg"/>
-      <itunes:duration>0:23:53</itunes:duration>
     </item>
   </channel>
 </rss>
