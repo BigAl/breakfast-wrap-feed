@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 07:46:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:13:45 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Australia sanctions godmother of Israeli settler movement</title>
+      <description>&lt;p&gt;The Federal Government has sanctioned one of the most high profile and controversial Israeli settler advocates.&lt;/p&gt;&lt;p&gt;Daniella Weiss is widely seen as the godmother of the Israeli settler movement, spending years promoting the expansion of settlements across the West Bank.&lt;/p&gt;&lt;p&gt;We hear from Foreign Minister Penny Wong. &lt;/p&gt;&lt;p&gt;Then, farming, tourism and hospitality groups have welcomed the federal government's back down on plans to slash the number of working holiday visas, following a regional backlash.&lt;/p&gt;&lt;p&gt;And today, NASA's Voyager-1 will reach an historic distance of one full light-day away from Earth.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107326140</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107326140</guid>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/qh/Z/hs.mp3" length="35323441" type="audio/mpeg"/>
+      <itunes:duration>0:24:31</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: David McBride's first interview out of prison</title>
       <description>&lt;p&gt;In an exclusive, David McBride speaks to Radio National Breakfast in his first interview since being freed from prison in August. &lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt;In 2024, former army lawyer David McBride was sent to prison for taking classified defence documents and passing them on to journalists.&lt;/p&gt;&lt;p&gt;Those documents became the basis of 'The Afghan Files' - a series of ABC reports that offered an unprecedented insight into the conduct of Australia's special forces - including allegations of war crimes.&lt;/p&gt;&lt;p&gt;David McBride was released on parole in August this year and tonight, a group of former intelligence officers will honour him with the Sam Adams Award for Integrity in Intelligence.&lt;/p&gt;&lt;p&gt;---&lt;/p&gt;&lt;p&gt;Then, we cover the biggest entertainment news in the world - the casting of the next James Bond.&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Wed, 14 Oct 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pd/Z/nv.mp3" length="34480751" type="audio/mpeg"/>
       <itunes:duration>0:23:56</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Reflections on leadership</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107185074</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107185074</guid>
-      <pubDate>Tue, 13 Oct 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pc/Z/jd.mp3" length="34548143" type="audio/mpeg"/>
-      <itunes:duration>0:23:59</itunes:duration>
     </item>
   </channel>
 </rss>
