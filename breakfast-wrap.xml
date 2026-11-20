@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:01:03 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Live from the Queen Victoria Market</title>
+      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107332838</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107332838</guid>
+      <pubDate>Fri, 20 Nov 2026 07:30:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/qk/Z/9l.mp3" length="22810752" type="audio/mpeg"/>
+      <itunes:duration>0:24:00</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Bancroft blows lid on 'sandpapergate'</title>
       <description>&lt;p&gt;It was supposed to be a saga - confined to the Australian cricket history books.&lt;/p&gt;&lt;p&gt;But the 2018 ball-tampering scandal has seen a new light of day.&lt;/p&gt;&lt;p&gt;In the latest development, former Australian Test batsman Cameron Bancroft says the entire Australian team knew about their 2018 plot to alter the condition of the ball using sandpaper, in an article he wrote for The West Australian newspaper.&lt;/p&gt;&lt;p&gt;Cricket Commentator Jim Maxwell says managing the saga will probably be &quot;one of the most important things that [Cricket Australia] will ever do.&quot;  &lt;/p&gt;&lt;p&gt;Then, for the first time Xi Jinping, Vlaimir Putin and Donald Trump will all meet, in person, so we'll preview what will be an extraordinary meeting.&lt;/p&gt;&lt;p&gt;And Grand Theft Auto 6 is set to be the biggest video game launch of the year, and possibly in history, with global sales projected to reach more than seven billion Australian dollars in the first week alone.&lt;/p&gt;</description>
@@ -246,15 +255,6 @@
       <pubDate>Fri, 16 Oct 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pg/Z/59.mp3" length="34708271" type="audio/mpeg"/>
       <itunes:duration>0:24:06</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Nobel Prize winner returns fire at Trump criticism</title>
-      <description>&lt;p&gt;Coverage and analysis of national and international events.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107195264</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107195264</guid>
-      <pubDate>Thu, 15 Oct 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pe/Z/u0.mp3" length="34773935" type="audio/mpeg"/>
-      <itunes:duration>0:24:08</itunes:duration>
     </item>
   </channel>
 </rss>
