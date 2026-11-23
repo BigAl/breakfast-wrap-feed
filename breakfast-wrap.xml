@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 07:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:23:43 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -246,15 +246,6 @@
       <pubDate>Mon, 19 Oct 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pi/Z/ik.mp3" length="35290031" type="audio/mpeg"/>
       <itunes:duration>0:24:30</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Outcry over hidden camera on navy ship</title>
-      <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107200274</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107200274</guid>
-      <pubDate>Fri, 16 Oct 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pg/Z/59.mp3" length="34708271" type="audio/mpeg"/>
-      <itunes:duration>0:24:06</itunes:duration>
     </item>
   </channel>
 </rss>
