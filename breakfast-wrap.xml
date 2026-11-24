@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:44:01 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Guess who's back? Jensen's back</title>
+      <description>&lt;p&gt;We dive into the return of Jensen Huang as CEO of Nvidia, less than a month after he quit leading the chip maker amid revelations of two extramarital affairs, one with a suspected Chinese spy.&lt;/p&gt;&lt;p&gt;The federal Treasurer Jim Chalmers responds to the news, and discusses the economy. &lt;/p&gt;&lt;p&gt;And Victorian Greens leader Ellen Sandell answers questions ahead of this week's state election. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107336108</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107336108</guid>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/qn/Z/of.mp3" length="34624177" type="audio/mpeg"/>
+      <itunes:duration>0:24:02</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Live from the Queen Victoria Market</title>
       <description>&lt;p&gt;Agenda-setting news coverage, breaking news and stories impacting the lives of all Australians.&lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Tue, 20 Oct 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pj/Z/rv.mp3" length="35042351" type="audio/mpeg"/>
       <itunes:duration>0:24:20</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: Thousands arrested in French unrest</title>
-      <description>&lt;p&gt;Thousands of pepole have been arrested across France following days of chaotic unrest.&lt;/p&gt;&lt;p&gt;We'll take you to the streets of Paris and we'll hear how the French President is responding.&lt;/p&gt;&lt;p&gt;Then, where is the line for political satire? &lt;/p&gt;&lt;p&gt;Independent Senator Jacqui Lambie thinks One Nation has  crossed it, with its latest video that mocks her health battle after she publicly revealed that she suffered vaginal prolapse.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268718</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268718</guid>
-      <pubDate>Mon, 19 Oct 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pi/Z/ik.mp3" length="35290031" type="audio/mpeg"/>
-      <itunes:duration>0:24:30</itunes:duration>
     </item>
   </channel>
 </rss>
