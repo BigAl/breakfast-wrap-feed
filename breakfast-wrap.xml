@@ -5,7 +5,7 @@
     <description>Filtered feed containing only Breakfast Wrap episodes from Radio National Breakfast</description>
     <link>https://www.abc.net.au/listen/programs/radionational-breakfast/</link>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 08:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:03:50 GMT</lastBuildDate>
     <atom:link href="https://bigal.github.io/breakfast-wrap-feed/breakfast-wrap.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
     <podcast:guid>f95d7b89-e1ee-554c-be7f-f126f0b92dae</podcast:guid>
@@ -22,6 +22,15 @@
       <itunes:name>ABC Radio National</itunes:name>
       <itunes:email>podcasts@abc.net.au</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Breakfast Wrap: Defecting to One Nation</title>
+      <description>&lt;p&gt;South Australian Liberal senator Leah Blyth has defected to One Nation, becoming the party's first South Australian senator.&lt;/p&gt;&lt;p&gt;Her recruitment comes almost a year after former Nationals leader Barnaby Joyce defected to the party. &lt;/p&gt;&lt;p&gt;Mr Joyce shares his reaction on Breakfast, as does the current Nationals leader Matt Canavan. &lt;/p&gt;</description>
+      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107336078</link>
+      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107336078</guid>
+      <pubDate>Thu, 26 Nov 2026 10:00:00 +1100</pubDate>
+      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/qq/Z/3o.mp3" length="34108081" type="audio/mpeg"/>
+      <itunes:duration>0:23:41</itunes:duration>
+    </item>
     <item>
       <title>Breakfast Wrap: Has AI ended maths as we know it?</title>
       <description>&lt;p&gt;Are Mathematicians losing the race to solve some of the world's most complex maths problems?&lt;/p&gt;&lt;p&gt;That's the question researchers have been left asking with the rise of artificial intelligence.&lt;/p&gt;&lt;p&gt;The so-called Riemann hypothesis, was reportedly solved by Anthropic researcher Levent Alpöge at the weekend, just two months after OpenAI claimed to have solved the Navier-Stokes problem.&lt;/p&gt;&lt;p&gt;These are two of the 7 Millennium Prize Maths Problems, selected for their complexity by the Clay Maths Institute, which offers one million dollars for each verified solution.&lt;/p&gt;&lt;p&gt;Neither claim has been fully verified yet.&lt;/p&gt;&lt;p&gt;We hear from a mathematician and author who's written in depth on this.&lt;/p&gt;&lt;p&gt;Then. Labor has secured support for laws requiring social media companies to do more to protect Australians online. Government Minister Anika Wells and Shadow Minister Andrew Hastie front up to Radio National Breakfast. &lt;/p&gt;</description>
@@ -237,15 +246,6 @@
       <pubDate>Thu, 22 Oct 2026 10:00:00 +1100</pubDate>
       <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pm/Z/9b.mp3" length="34962863" type="audio/mpeg"/>
       <itunes:duration>0:24:16</itunes:duration>
-    </item>
-    <item>
-      <title>Breakfast Wrap: How can we better protect politicians?</title>
-      <description>&lt;p&gt;Politicians are raising security fears of their own, in the wake of an attack on prominent independent MP Dr helen Haines.&lt;/p&gt;&lt;p&gt;So how can we better protect the people representing us?&lt;/p&gt;&lt;p&gt;Then, One Nation leader Senator Pauline Hanson apologises for a cartoon mocking Senator Jacqui Lambie's health struggles after she suffers vaginal prolapse.&lt;/p&gt;&lt;p&gt;You'll hear from One Nation deputy leader Barnaby Joyce.&lt;/p&gt;&lt;p&gt;And we''ll also cross to Canada to find out about an effort to split the country.&lt;/p&gt;</description>
-      <link>https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268928</link>
-      <guid isPermaLink="false">https://www.abc.net.au/listen/programs/radionational-breakfast/radio-national-breakfast/107268928</guid>
-      <pubDate>Wed, 21 Oct 2026 10:00:00 +1100</pubDate>
-      <enclosure url="https://mediacore-live-production.akamaized.net/audio/02/pl/Z/0u.mp3" length="35337263" type="audio/mpeg"/>
-      <itunes:duration>0:24:32</itunes:duration>
     </item>
   </channel>
 </rss>
